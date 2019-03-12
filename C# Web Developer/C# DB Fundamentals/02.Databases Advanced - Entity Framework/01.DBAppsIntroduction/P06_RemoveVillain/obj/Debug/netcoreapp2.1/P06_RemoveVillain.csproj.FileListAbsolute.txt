@@ -1,0 +1,11 @@
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\bin\Debug\netcoreapp2.1\P06_RemoveVillain.deps.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\bin\Debug\netcoreapp2.1\P06_RemoveVillain.runtimeconfig.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\bin\Debug\netcoreapp2.1\P06_RemoveVillain.runtimeconfig.dev.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\bin\Debug\netcoreapp2.1\P06_RemoveVillain.dll
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\obj\Debug\netcoreapp2.1\P06_RemoveVillain.csprojAssemblyReference.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\obj\Debug\netcoreapp2.1\P06_RemoveVillain.csproj.CoreCompileInputs.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\obj\Debug\netcoreapp2.1\P06_RemoveVillain.AssemblyInfoInputs.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\obj\Debug\netcoreapp2.1\P06_RemoveVillain.AssemblyInfo.cs
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\bin\Debug\netcoreapp2.1\P06_RemoveVillain.pdb
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\obj\Debug\netcoreapp2.1\P06_RemoveVillain.dll
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P06_RemoveVillain\obj\Debug\netcoreapp2.1\P06_RemoveVillain.pdb

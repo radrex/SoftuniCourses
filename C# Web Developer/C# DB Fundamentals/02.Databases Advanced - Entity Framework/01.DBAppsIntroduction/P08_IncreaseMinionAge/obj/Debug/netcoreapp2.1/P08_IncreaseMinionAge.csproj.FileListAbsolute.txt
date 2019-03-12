@@ -1,0 +1,10 @@
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08_IncreaseMinionAge.deps.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08_IncreaseMinionAge.runtimeconfig.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08_IncreaseMinionAge.runtimeconfig.dev.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08_IncreaseMinionAge.dll
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08_IncreaseMinionAge.csproj.CoreCompileInputs.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08_IncreaseMinionAge.AssemblyInfoInputs.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08_IncreaseMinionAge.AssemblyInfo.cs
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\bin\Debug\netcoreapp2.1\P08_IncreaseMinionAge.pdb
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08_IncreaseMinionAge.dll
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P08_IncreaseMinionAge\obj\Debug\netcoreapp2.1\P08_IncreaseMinionAge.pdb

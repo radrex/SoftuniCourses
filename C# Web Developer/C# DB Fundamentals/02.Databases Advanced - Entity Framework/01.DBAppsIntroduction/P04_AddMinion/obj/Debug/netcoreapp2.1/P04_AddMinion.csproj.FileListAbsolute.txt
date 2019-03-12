@@ -1,0 +1,11 @@
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\bin\Debug\netcoreapp2.1\P04_AddMinion.deps.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\bin\Debug\netcoreapp2.1\P04_AddMinion.runtimeconfig.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\bin\Debug\netcoreapp2.1\P04_AddMinion.runtimeconfig.dev.json
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\bin\Debug\netcoreapp2.1\P04_AddMinion.dll
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\obj\Debug\netcoreapp2.1\P04_AddMinion.csproj.CoreCompileInputs.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\obj\Debug\netcoreapp2.1\P04_AddMinion.AssemblyInfoInputs.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\obj\Debug\netcoreapp2.1\P04_AddMinion.AssemblyInfo.cs
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\obj\Debug\netcoreapp2.1\P04_AddMinion.csprojAssemblyReference.cache
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\bin\Debug\netcoreapp2.1\P04_AddMinion.pdb
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\obj\Debug\netcoreapp2.1\P04_AddMinion.dll
+D:\Repositories\SoftuniCourses\C# Web Developer\C# DB Fundamentals\02.Databases Advanced - Entity Framework\01.DBAppsIntroduction\P04_AddMinion\obj\Debug\netcoreapp2.1\P04_AddMinion.pdb
