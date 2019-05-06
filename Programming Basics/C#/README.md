@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head></head>
   <style>
     table { 
       width:100%; 
@@ -22,7 +21,6 @@
       width:1px;
     }
   </style>
-
   <body>
     <table>
       <thead>
