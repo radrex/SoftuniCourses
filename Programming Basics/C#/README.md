@@ -4,13 +4,13 @@
     <table>
       <thead>
         <tr>
-          <th colspan="2">First Steps In Coding</th>
-          <th colspan="6">Simple Operations and Calculations</th>
-          <th colspan="6">Conditional Statements</th>
-          <th colspan="4">Nested Conditional Statements</th>
-          <th colspan="4">While Loop</th>
-          <th colspan="4">For Loop</th>
-          <th colspan="8">Nested Loops</th>
+          <th colspan="2" style="color: #C07400;">First Steps In Coding</th>
+          <th colspan="6" style="color: #C07400;">Simple Operations and Calculations</th>
+          <th colspan="6" style="color: #C07400;">Conditional Statements</th>
+          <th colspan="4" style="color: #C07400;">Nested Conditional Statements</th>
+          <th colspan="4" style="color: #C07400;">While Loop</th>
+          <th colspan="4" style="color: #C07400;">For Loop</th>
+          <th colspan="8" style="color: #C07400;">Nested Loops</th>
         </tr>
         <tr>
           <th colspan="2">Lab</th>
