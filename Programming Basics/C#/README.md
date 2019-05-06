@@ -1,26 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <style>
-    table { 
-      width:100%; 
-      border-collapse: collapse; 
-    }    
-    th { 
-      border: 1px solid black;
-      text-align:center;
-    } 
-    thead tr:nth-child(1){
-      color: #C07400;
-    }
-    td {
-      border: 1px solid black;
-      color:#C07400;
-      text-align:left;
-    }
-    tbody td:nth-child(odd) {
-      width:1px;
-    }
-  </style>
   <body>
     <table>
       <thead>
