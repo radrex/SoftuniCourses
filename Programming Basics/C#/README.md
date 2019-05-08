@@ -47,7 +47,7 @@
           <td><b>01.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P01_SumSeconds/P01_SumSeconds.cs">Sum Seconds</a></td>
           <td><b>01.</b></td>
-          <td><a href="#">Pipes In Pool</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P01_PipesInPool/P01_PipesInPool.cs">Pipes In Pool</a></td>
           <td><b>01.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P01_PersonalTitles/P01_PersonalTitles.cs">Personal Titles</a></td>
           <td><b>01.</b></td>
@@ -83,7 +83,7 @@
           <td><b>02.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P02_BonusScore/P02_BonusScore.cs">Bonus Score</a></td>
           <td><b>02.</b></td>
-          <td><a href="#">Sleepy Tom Cat</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P02_SleepyTomCat/P02_SleepyTomCat.cs">Sleepy Tom Cat</a></td>
           <td><b>02.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P02_SmallShop/P02_SmallShop.cs">Small Shop</a></td>
           <td><b>02.</b></td>
@@ -119,7 +119,7 @@
           <td><b>03.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P03_SpeedInfo/P03_SpeedInfo.cs">Speed Info</a></td>
           <td><b>03.</b></td>
-          <td><a href="#">Harvest</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P03_Harvest/P03_Harvest.cs">Harvest</a></td>
           <td><b>03.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P03_PointInRectangle/P03_PointInRectangle.cs">Point in Rectangle</a></td>
           <td><b>03.</b></td>
@@ -155,7 +155,7 @@
           <td><b>04.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P04_MetricConverter/P04_MetricConverter.cs">Metric Converter</a></td>
           <td><b>04.</b></td>
-          <td><a href="#">Transport Price</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P04_TransportPrice/P04_TransportPrice.cs">Transport Price</a></td>
           <td><b>04.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P04_FruitOrVegetable/P04_FruitOrVegetable.cs">Fruit or Vegetable</a></td>
           <td><b>04.</b></td>
@@ -190,7 +190,7 @@
           <td><b>05.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P05_TimePlus15Minutes/P05_TimePlus15Minutes.cs">Time + 15 Minutes</a></td>
           <td><b>05.</b></td>
-          <td><a href="#">Firm</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P05_Firm/P05_Firm.cs">Firm</a></td>
           <td><b>05.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P05_InvalidNumber/P05_InvalidNumber.cs">Invalid Number</a></td>
           <td><b>05.</b></td>
@@ -225,7 +225,7 @@
           <td><b>06.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P06_GodzillaVsKong/P06_GodzillaVsKong.cs">Godzilla vs. Kong</a></td>
           <td><b>06.</b></td>
-          <td><a href="#">Pets</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P06_Pets/P06_Pets.cs">Pets</a></td>
           <td><b>06.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P06_FruitShop/P06_FruitShop.cs">Fruit Shop</a></td>
           <td><b>06.</b></td>
@@ -260,7 +260,7 @@
           <td><b>07.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P07_WorldSwimmingRecord/P07_WorldSwimmingRecord.cs">World Swimming Record</a></td>
           <td><b>07.</b></td>
-          <td><a href="#">Flower Shop</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P07_FlowerShop/P07_FlowerShop.cs">Flower Shop</a></td>
           <td><b>07.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P07_TradeCommissions/P07_TradeCommissions.cs">Trade Commissions</a></td>
           <td><b>07.</b></td>
@@ -292,7 +292,7 @@
           <td><b>08.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Exercise/P08_Scholarship/P08_Scholarship.cs">Scholarship</a></td>
           <td><b>08.</b></td>
-          <td><a href="#">Fuel Tank</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P08_FuelTank/P08_FuelTank.cs">Fuel Tank</a></td>
           <td><b>08.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Lab/P08_SkiTrip/P08_SkiTrip.cs">Ski Trip</a></td>
           <td><b>08.</b></td>
@@ -321,7 +321,7 @@
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P09_AreaOfFigures/P09_AreaOfFigures.cs">Area of Figures</a></td>
           <td colspan="2"></td>
           <td><b>09.</b></td>
-          <td><a href="#">Fuel Tank - Part 2</a></td>
+          <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/%5BMoreExercises%5D/P09_FuelTankPart2/P09_FuelTankPart2.cs">Fuel Tank - Part 2</a></td>
           <td colspan="2"></td>
           <td><b>09.</b></td>
           <td><a href="https://github.com/RadostinV-Stoychev/SoftuniCourses/blob/master/Programming%20Basics/C%23/04.Nested%20Conditional%20Statements/Exercise/P09_OnTimeForTheExam/P09_OnTimeForTheExam.cs">On Time for the Exam</a></td>
