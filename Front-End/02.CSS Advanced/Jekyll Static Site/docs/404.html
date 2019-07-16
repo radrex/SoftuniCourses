@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="/css/site.css">
-  <title>{{site.title}}</title>
+  <title>CSS Advanced</title>
 </head>
 <body>
   <div class="site">
@@ -16,23 +16,31 @@
 
         <nav>
           <ul>
-            {% for page in site.pages %}
-              {% if page.title %}
+            
+              
+            
+              
                 <li>
-                  <a href="{{ page.url }}">{{ page.title }}</a>
+                  <a href="/about/">About</a>
                 </li>
-              {% endif %}
-            {% endfor %}
+              
+            
+              
+            
+              
+            
           </ul>
         </nav>
     </header>
 
     <main class="site-main">
-      {% if page.title %}
-        <h1>{{page.title}}</h1>
-      {% endif %}
       
-      {{content}}
+      
+      <h1>404</h1>
+<p><strong>Page not found :(</strong></p>
+<p>The requested page could not be found.</p>
+
+
     </main>
 
     <aside class="site-sidebar"></aside>
