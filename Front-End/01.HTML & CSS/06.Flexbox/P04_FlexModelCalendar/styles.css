@@ -1,0 +1,46 @@
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html { box-sizing: border-box; }
+
+span {
+  padding: 1rem;
+  padding-bottom: 5rem;
+  border: 1px solid black;
+}
+
+.container {
+  max-width: 65vw;
+  margin: 3rem auto;
+  display: flex;
+  text-align: center;
+}
+    .week {
+      flex: 3 1 0;
+      display:flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+    }
+        .week span {
+          flex: 1 1 0;
+        }
+        
+        .week span:nth-child(1),
+        .week span:nth-child(7) {
+          flex-basis: 100%;
+        }
+
+    .notes {
+      flex: 1 1 0;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+    }
+        .notes span {
+          flex: 1 1 0;
+          padding-top: 0.2rem;
+          text-transform: uppercase;
+        }

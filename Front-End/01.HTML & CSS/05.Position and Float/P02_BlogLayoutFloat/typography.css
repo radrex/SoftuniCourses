@@ -1,0 +1,47 @@
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font: 16px/1.5 Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 60.0rem;
+  margin: 1rem auto;
+  background: rgb(238, 238, 238);
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  margin: 1.6rem 0;
+  line-height: 1.2;
+} 
+
+h1 { font-size: 2.0rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.0rem; }
+h5 { font-size: 0.8rem; }
+h6 { font-size: 0.5rem; }
+
+p { margin: 1.6rem 0; }
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+img {
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.25);
+  border: 2px solid black;
+  padding: 0.3rem;
+}
+
+blockquote {
+  font-style: italic;
+  opacity: 0.7;
+}

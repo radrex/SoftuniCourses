@@ -1,0 +1,81 @@
+/*----------- IMPORT ------------*/
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+/*----------- GENERAL -----------*/
+html { 
+  box-sizing: border-box;
+  font: 16px/1.5 Helvetica, sans-serif;
+}
+
+body, form, select, input, textarea, option { font:inherit; }
+
+form { 
+  max-width: 30rem;
+  margin: 3rem auto;
+  background: #F9F9F9;
+}
+/*---------- SPECIFIC -----------*/
+fieldset {
+  display: flex;
+  position: relative; 
+  flex-direction: column;
+  padding: 2rem;
+  border-radius: 5px;
+  border: 1px solid #666666;
+}
+    legend {
+      top: -10%;
+      left: -0.3%;
+      position: absolute;
+      border-radius: 5px;
+      background: #F9F9F9;
+      border: 1px solid #666666;
+      padding: 0.5rem 8rem 0.5rem 1rem;
+    }
+
+    label { font-weight: bold; }
+
+    input { outline: none; }
+
+    input[type="text"],
+    input[type="password"] {
+      border-radius: 0.3em;
+      border: 1px solid #999999;
+      padding: 0.4rem 0.7rem 0.4rem 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    input[type="submit"] {
+      padding: 0.1rem 0.2rem;
+      width: 50px;
+      border-radius: 2px;
+    }
+
+    input[type="submit"]:hover { cursor: pointer; }
+
+    input[type="text"]:focus,
+    input[type="password"]:focus,
+    input[type="submit"]:focus,
+    input[type="text"]:hover,
+    input[type="password"]:hover,
+    input[type="submit"]:hover
+    {
+      border-color: #009900;
+    }
+        i {
+          position: absolute;
+          left: 9%;
+        }
+      
+        i:nth-of-type(1) { top: 27%; }
+        i:nth-of-type(2) { top: 58%; }
+      
+        input:focus + i,
+        input:hover + i {
+          color: #009900;
+        }

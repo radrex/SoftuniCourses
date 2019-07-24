@@ -1,0 +1,82 @@
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+/*----------- GENERAL -----------*/
+html {
+  font-size: 12px;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 3em;
+  background: rgb(238, 238, 238);
+}
+
+h1 { 
+  padding-bottom: 0.5em;
+  font: bold 1em/1.2 Georgia, serif;
+}
+
+/*---------- SPECIFIC -----------*/
+.card {
+  width: 20em;
+  overflow: hidden;
+  border-radius: 5px;
+  background: rgb(255, 255, 255);
+}
+    /*--- MEDIA ---*/
+    .card .media {
+      position: relative;
+      overflow: hidden;
+    }
+    .card .media:before {
+      display: block;
+      content: '';
+      padding-top: 56.25%;
+    }
+        .card .media img {
+          width: 100%;
+          height: auto;
+          display: block;
+          position: absolute;
+          top: 50%; left: 50%;
+          transform: translate(-50%, -50%);
+      }
+
+    /*--- CONTENT ---*/
+    .card .content { padding: 1em; }
+
+        .card .content .button {
+          display: block;
+          padding: 0.5em 1em;
+          margin: 1em 0 0 auto;
+          background: rgb(0, 153, 0);
+          border: none;
+          border-radius: 3px;
+          border: 2px solid rgb(0, 153, 0);
+          color: white;
+          cursor: pointer;
+        }
+            .card .content .button:hover {
+              background: white;
+              color: rgb(0, 153, 0);
+            }
+
+/*--------- TABLETS ---------*/
+@media(min-width: 450px) {
+  html { font-size: 14px; }
+}
+/*--------- LAPTOPS ---------*/
+@media(min-width: 900px) {
+  html { font-size: 16px; }
+}
+/*-------- DESKTOPS ---------*/
+@media(min-width: 1024px) {
+  html { font-size: 18px; }
+}

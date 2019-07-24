@@ -1,0 +1,40 @@
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.container {
+  height: 35rem;
+  max-width: 15vw;
+  margin: 1rem 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container span {
+  border: 1px solid black;
+  width: 35%;
+  padding: 1rem;
+  margin: 0.4rem;
+}
+
+.o1 { order: 1; }
+.o2 { order: 2; }
+.o3 { order: 3; }
+.o4 { order: 4; }
+.o5 { order: 5; }
+.o6 { order: 6; }
+.o7 { order: 7; }
+.o8 { order: 8; }
+.o9 { order: 9; }
+.o10 { order: 10; }
+.o11 { order: 11; }
+.o12 { order: 12; }

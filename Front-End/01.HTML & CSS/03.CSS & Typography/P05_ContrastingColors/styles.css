@@ -1,0 +1,21 @@
+html {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  margin: 3em auto;
+  max-width: 80.0em;
+}
+
+article {
+  background-color: rgb(51, 102, 153);
+  color: white;
+  border-radius: 1rem;
+  padding: 0.7em 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+}

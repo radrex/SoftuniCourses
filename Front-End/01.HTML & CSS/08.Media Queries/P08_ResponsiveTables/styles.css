@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: #F1F1F1;
+}
+
+table {
+  width: 90vw;
+  text-align: left;
+  border-collapse: collapse;
+  font-family: Verdana, sans-serif;
+}
+    table * { 
+      border: 1px solid lightgray;
+      padding: 0.5em;
+    }
+
+    table thead {
+      background: #333333;
+      color: white;
+    }
+
+    table tbody tr:nth-child(even){
+      background: white;
+    }
+
+@media(max-width: 450px) {
+  table, thead, tbody, th, td, tr { 
+    display: block; 
+    border: none;
+  }
+  table thead { display: none; }
+  table tr { padding: 0; }
+  table td { border: 1px solid lightgray; }
+
+      td:before {
+        padding-right: 20px;
+        font-weight: bold;
+      }
+
+      td:nth-of-type(1):before { content: "First Name"; }
+      td:nth-of-type(2):before { content: "Last Name"; }
+      td:nth-of-type(3):before { content: "Job Title"; }
+}

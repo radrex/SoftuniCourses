@@ -1,0 +1,113 @@
+/*----------- IMPORT ------------*/
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+/*----------- GENERAL -----------*/
+html { 
+  box-sizing: border-box;
+  font-size: 16px;
+  font-synthesis: 1.2;
+  font-family: Montserrat, sans-serif;
+  color: #333333;
+}
+/*---------- SPECIFIC -----------*/
+.container {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right top, #02DADE, #FA01FF);
+}
+    fieldset {
+      width: 30rem;
+      height: 30rem;
+      border-radius: 10px;
+      background: #FFFFFF;
+      border: none;
+      position: relative;
+
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-around;
+
+      padding: 8rem 3.5rem 3.5rem 3.5rem;
+    }
+
+    fieldset * { flex-basis: 100%; }
+
+        legend {
+          font-size: 2.5rem;
+          font-family: initial;
+          position: absolute;
+          margin: 0 auto;
+          top: 10%;
+        }
+
+      /*----------- BUTTONS -----------*/      
+        .facebook-button,
+        .google-button {
+          flex: 1 0 0;
+          padding: 1rem 0.2rem;
+          cursor: pointer;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.30);
+        }   
+            button i {
+              font-size: 1.5rem;
+              padding-right: 0.7rem;
+              vertical-align: middle;
+            }
+          
+        .facebook-button {
+          background: #3B5998;
+          color: #FFFFFF;
+          margin-right: 1rem;
+        }
+            .facebook-button:hover { 
+              background: linear-gradient(to right top, #02DADE, #FA01FF); 
+            }
+          
+        .google-button {
+          background: #FFFFFF;
+          color: #333333;
+        }
+
+      /*-------- INPUT TYPES ----------*/
+        input { outline: none; }
+
+        input[type="text"],
+        input[type="password"],
+        input[type="submit"] {
+          padding: 0.8rem;
+          border-radius: 5px;
+          background: #F7F7F7;
+          border: 1px solid #999999;
+        }
+
+        input[type="text"]:focus,
+        input[type="password"]:focus,
+        input[type="text"]:hover,
+        input[type="password"]:hover {
+          border-color: #FC00FF;
+        }
+
+        input[type="submit"] {
+          border: 2px solid #333333;
+          background: #333333;
+          color: #FFFFFF;
+          font-weight: 600;
+          cursor: pointer;
+        }
+
+        input[type="submit"]:focus,
+        input[type="submit"]:hover {
+          background: #FFFFFF;
+          color: #333333;
+        }

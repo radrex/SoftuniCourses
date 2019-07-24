@@ -1,0 +1,89 @@
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font: 16px/1.5 Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(238, 238, 238);
+  width: 75vw;
+  margin: 0 auto;
+}
+
+h1, h2, blockquote {
+  font-family: Georgia, serif; 
+}
+
+h1, h2 {
+  padding: 1rem 0;
+  font-weight: 500;
+}
+
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.6rem; }
+
+p, blockquote {
+  padding: 0.5rem 0;
+}
+
+blockquote {
+  font-style: italic;
+  color: gray;
+}
+
+img {
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.25);
+  border: 2.0px solid black;
+  padding: 0.3rem;
+}
+
+.clearfix:before
+{
+  display: block;
+  content: '';
+  clear: both;
+  padding-top: 0.5rem;
+}
+
+header h1 { 
+  text-transform: uppercase;
+  font-family: Helvetica, sans-serif;
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+img.portrait {
+  display: block;
+  float: right;
+  margin-left: 1.0rem;
+}
+
+p.left-floated {
+  width: 50%;
+  float: left;
+  padding-right: 1rem;
+  border-right: 2px solid gray;
+}
+
+blockquote.right-floated {
+  width: 50%;
+  float: right;
+  padding-left: 1.0rem;
+}
+
+blockquote > p {
+  text-align: right;
+  padding-top: 2.0rem;
+}
+
+img.landscape {
+  display: block;
+  float: left;
+  margin-right: 1.0rem;
+}

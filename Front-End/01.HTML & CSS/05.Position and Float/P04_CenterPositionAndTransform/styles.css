@@ -1,0 +1,56 @@
+body {
+  background: rgb(238, 238, 238);
+}
+
+.card {
+  position: relative;
+  width: 30vw;
+  height: 80vh;
+  margin: 10vh auto;
+  border-radius: 3px;
+  box-shadow: 0px 0px 16px 3px rgba(0,0,0,0.75);
+  background: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.card div:nth-child(1) img {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.card div:nth-child(2) {
+  position: absolute;
+  bottom: 10%;
+}
+
+h1 {
+  font: 1.0em/1.2 'Georgia', serif; 
+  margin-left: 1rem;
+  margin-top: 2rem;
+}
+
+p {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+button {
+  background: rgb(0, 153, 0);
+  color: white;
+  padding: 0.6rem 1rem;
+  border-radius: 5px;
+  border: none;
+  float:right;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+
+button:hover {
+  cursor: pointer; 
+}
+
+button:after {
+  clear: both;
+}

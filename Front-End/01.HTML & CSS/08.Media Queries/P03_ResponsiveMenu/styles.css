@@ -1,0 +1,98 @@
+/*----------- IMPORT ------------*/
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+/*----------- GENERAL -----------*/
+html {
+  box-sizing: border-box;
+  font: 16px/1.2 Helvetica, sans-serif;
+}
+
+body {
+  padding: 4% 8%;
+  background: #EBEBEB;
+}
+/*---------- SPECIFIC -----------*/
+nav {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid black;
+}
+    span {
+      font-size: 2em;
+      font-weight: bold;
+      margin-right: auto;
+      text-transform: uppercase;
+    }
+
+    .nav-toggle-button { display: none; }
+    .nav-toggle {
+      opacity: 0;
+      position: absolute;
+      pointer-events: none;
+    }
+
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+
+      border-radius: 5px;
+      background: #FFFFFF;
+      list-style: none outside;
+    }
+        ul li {
+          margin: 0.5em;
+          padding: 0.3em;
+          border-radius: 5px;
+          background: #2D2D2D;
+        }
+            ul li a {
+              color: #FFFFFF;
+              text-decoration: none;
+            }
+
+/*-------- MEDIA QUERIES --------*/
+/*--- PHONES and TABLETS ---*/
+@media(max-width: 700px) {
+  nav {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    border-bottom: none;    
+  }
+
+  .nav-toggle-button .fas.fa-times {
+    display: none;
+    padding-right: 0.3em;
+  }
+
+  .nav-toggle-button {
+    padding: 1em 0;
+    display: block;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  ul {
+    display: none;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 1px;
+  }
+
+  .nav-toggle:checked + nav .fas.fa-times { display: inline; }
+  .nav-toggle:checked + nav ul { display: block; }
+
+  span {
+    display: block;
+    margin-right: auto;
+    text-align: center;
+  }
+}
+

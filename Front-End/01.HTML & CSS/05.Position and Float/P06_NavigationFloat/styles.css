@@ -1,0 +1,105 @@
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.clearfix-after:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+
+.clearfix-before:before {
+  display: block;
+  content: '';
+  clear: both;
+}
+
+html {
+  font: 16px/1.5 Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  width: 75vw;
+  margin: 0 auto;
+  background: rgb(238, 238, 238);
+}
+
+header > p {
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  font-weight: bold;
+  float: left;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+header > nav ul li {
+  display: block;
+  float: right;
+  margin-top: 1rem;
+  padding: 0 0.5rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(0, 102, 0);
+}
+
+main {
+  width: 80%;
+  float: left;
+}
+
+aside {
+  width: 20%;
+  float: right;
+  padding-left: 2rem;
+}
+
+h1, h2 {
+  font: 1em/1.2 Georgia, serif;
+}
+
+img {
+  display: block;
+  border: 2px solid black;
+  padding: 0.3rem;
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.25);
+}
+
+img.portrait {
+  margin-left: 0.8rem;
+  float: right;
+}
+
+img.landscape {
+  float: left;
+  margin-right: 0.8rem;
+}
+
+blockquote {
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: gray;
+}
+
+blockquote > p {
+  text-align: right;
+}
+
+.left-float {
+  display: block;
+  width: 50%;
+  float: left;
+  padding-right: 1.0rem;
+  border-right: 2px solid gray;
+}
+
+.right-float {
+  display: block;
+  width: 40%;
+  float: right;
+}
+

@@ -1,0 +1,104 @@
+/*----------- IMPORT ------------*/
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+/*----------- GENERAL -----------*/
+html { 
+  box-sizing: border-box;
+  font: 16px/1.5 Helvetica, sans-serif;
+}
+
+body, form, select, input, textarea, option { font: inherit; }
+
+form { 
+  margin: 3em auto;
+  background: #F9F9F9;
+}
+
+/*---------- SPECIFIC -----------*/
+fieldset {
+  display: flex;
+  position: relative; 
+  flex-direction: column;
+  padding: 2em;
+  border-radius: 5px;
+  border: 1px solid #666666;
+}
+    legend {
+      top: -10%;
+      left: -0.3%;
+      position: absolute;
+      border-radius: 5px;
+      background: #F9F9F9;
+      border: 1px solid #666666;
+      padding: 0.5em 8em 0.5em 1em;
+    }
+
+    label { font-weight: bold; }
+
+    input { outline: none; }
+
+    input[type="text"],
+    input[type="password"] {
+      border-radius: 0.3em;
+      border: 1px solid #999999;
+      padding: 0.4em 0.7em 0.4em 2.5em;
+      margin-bottom: 1em;
+    }
+
+    input[type="submit"] {
+      padding: 0.1em 0.2em;
+      width: 50px;
+      border-radius: 2px;
+    }
+
+    input[type="submit"]:hover { cursor: pointer; }
+
+    input[type="text"]:focus,
+    input[type="password"]:focus,
+    input[type="submit"]:focus,
+    input[type="text"]:hover,
+    input[type="password"]:hover,
+    input[type="submit"]:hover
+    {
+      border-color: #009900;
+    }
+        i {
+          position: absolute;
+        }
+      
+        input:focus + i,
+        input:hover + i {
+          color: #009900;
+        }
+
+/*------------- PHONE ------------*/
+@media (min-width: 350px) {
+
+  form { width: 20em; }
+  i { left: 14%; }
+  .fas.fa-user { top: 27%; }
+  .fas.fa-key { top: 58%; }
+}
+/*------------- TABLET -----------*/
+@media (min-width: 600px) {
+  form { width: 30em; }
+  i { left: 26%; }
+  .fas.fa-user { top: 21%; }
+  .fas.fa-key { top: 48%; }
+}
+/*------------- LAPTOP -----------*/
+@media (min-width: 1080px) {
+  form { width: 35em; }
+  i { left: 22%; }
+  legend { left: -0.2%; }
+}
+/*------------ DESKTOP -----------*/
+@media (min-width: 1900px) {
+  form { width: 40em; }
+  i { left: 20%; }
+}

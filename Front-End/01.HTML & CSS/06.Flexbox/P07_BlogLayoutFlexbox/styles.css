@@ -1,0 +1,92 @@
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+.clearfix:before {
+  display: block;
+  content: '';
+  clear: both;
+}
+
+/*----------- GENERAL -----------*/
+html { 
+  box-sizing: border-box;
+  font: 16px/1.5 Helvetica, sans-serif;
+}
+body { background-color: rgb(238, 238, 238); }
+
+h1, h2 { 
+  font-family: Georgia, serif; 
+  font-weight: 500;
+  margin: 1rem 0;
+}
+
+h1 { font-size: 1.7rem; }
+h2 { font-size: 1.5rem; }
+p { margin-bottom: 1.5rem; }
+
+a {
+  text-decoration: none;
+  color: rgb(0, 153, 0);
+}
+
+img {
+  padding: 0.3rem;
+  border: 2px solid black;
+  background-color: rgb(255, 255, 255); 
+  box-shadow: 0px 0px 15px 2px rgba(0,0,0,0.75); 
+}
+
+/*---------- SPECIFIC -----------*/
+.page {
+  margin:3rem 5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+    .page header {
+      flex-basis: 100%;
+      border-bottom: 2px solid black;
+    }
+        .page header > span {
+          font-size: 2.5rem;
+          text-transform: uppercase;
+        }
+
+    .page main {
+      flex: 4 1 0;
+      margin-right: 5rem;
+    }
+        .float-left { float: left; }
+        .float-right { float: right; }
+        .half-size { width: 50%; }
+        
+        .page main img:nth-of-type(1) { margin-left: 1.5rem; }
+        .page main img:nth-of-type(2) { margin-right: 1.5rem; }
+        .page main p:nth-of-type(4) {
+          padding-right: 1rem;
+          border-right: 2px solid gray;
+        }
+
+        .page main blockquote {
+          padding-left: 2rem;
+          color: gray;
+          font-style: italic;
+          font-family: Georgia, serif;
+        }
+
+        .page main blockquote > span {
+          display: block;
+          text-align: right;
+          padding-top: 2.0rem;
+        }
+
+    .page aside {
+      flex: 1 1 0;
+    }
+        .page aside ul {
+          list-style: inside;
+          margin-left: 1.5rem;
+        }

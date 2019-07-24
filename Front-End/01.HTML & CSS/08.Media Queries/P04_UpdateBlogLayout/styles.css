@@ -1,0 +1,135 @@
+/*------------- IMPORTS ------------*/
+@import 'typography.css';
+
+/*--- MOBILE FIRST APPROACH USED ---*/
+/*--------- PHONES ---------*/
+body {
+  display: flex;
+  flex-direction: column; 
+}
+/*--- HEADER ---*/
+header {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2.0em;
+}
+    header > span {
+      font-size: 3em;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    /*--- HIDDEN CHECKBOX ---*/
+    .nav-toggle {
+      opacity: 0;
+      position: absolute;
+      pointer-events: none;
+    }
+    /*--- MENU BUTTON ---*/
+    .nav-toggle-button {
+      padding: 1em 0;
+      display: block;
+      cursor: pointer;
+      text-align: center;
+    }
+        .fas.fa-times { padding-right: 0.3em; }
+    /*--- UNORDERED LIST STYLING ---*/
+    header nav ul {
+      display: flex;
+      flex-direction: column;
+      padding: 1em;
+      margin: 0.5em 0;
+      border-radius: 2px;      
+      list-style: none outside;
+      background-color: #FFFFFF;
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+    }
+        header nav ul li + li { 
+          margin-top: 0.5em; 
+        } 
+            header nav ul li a {
+              display: block;
+              padding: 0.6em;
+              color: #FFFFFF;
+              font-weight: bold;
+              border-radius: 5px;
+              background-color: #2D2D2D;
+            }
+
+    /*--- While CHECKBOX is NOT CHECKED, HIDE BUTTON ICON and UL ---*/
+    .nav-toggle:not(:checked) + nav label .fas.fa-times { display: none; }
+    .nav-toggle:not(:checked) + nav ul { display: none; }
+
+/*---- MAIN ----*/
+blockquote > span {
+  display: block;
+  padding-top: 1em;
+  text-align: right;
+}
+/*---- ASIDE ----*/
+aside nav,
+aside nav ul {
+  padding-left: 3em;
+}
+/*--------- TABLETS ---------*/
+@media(min-width: 450px) {
+  html { font-size: 14px; }
+
+  blockquote { width: 150px; }
+
+  .float-right {
+    float: right;
+    margin: 1em 0 1em 1em;
+  }
+
+  .float-left {
+    float: left;
+    margin: 1em 1em 1em 0;
+  }
+}
+/*--------- LAPTOPS ---------*/
+@media(min-width: 900px) {
+  html { font-size: 16px; }
+
+  body {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  /*--- HEADER ---*/
+  header {
+    flex-basis: 100%;
+    border-bottom: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+      header > span { margin-right: auto; }
+
+      .nav-toggle-button { display: none; }
+      .nav-toggle:not(:checked) + nav ul {
+        display: flex;
+        flex-direction: row;
+        padding: 0.5em;
+        border-top: none;
+        border-bottom: none;
+        border-radius: 5px;
+      }
+
+      header nav ul li + li {
+        margin-top: 0;
+        margin-left: 0.2em;
+      }
+  /*---- MAIN ----*/
+  main { flex: 3 1 0; }
+      main blockquote { width: 35%; }
+
+  /*---- ASIDE ----*/
+  aside { flex: 1 1 0; }
+}
+
+/*-------- DESKTOPS ---------*/
+@media(min-width: 1024px) {
+  html { font-size: 19px; }
+}
+
+

@@ -1,0 +1,49 @@
+/*------------- IMPORT -------------*/
+@import "typography.css";
+
+/*------------- GENERAL ------------*/
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+/*------------- HEADER -------------*/
+header {
+  border-bottom: 2px solid black;
+  padding: 2em 0;
+}
+
+header > span {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+/*------------- MAIN -------------*/
+.float-left { float: left; }
+.float-right { float: right; }
+.half-size { width: 50%; }
+
+img {
+  padding: 0.3em;
+  border: 2px solid;
+}
+    img:nth-of-type(1) { margin-left: 1em; }
+    img:nth-of-type(2) { margin-right: 1em; }
+
+p:nth-of-type(4) { width: 45%; }
+
+blockquote {
+  margin-left: 1em;
+  padding: 0 0 4em 2em;
+  font-style: italic;
+  font-family: Georgia, serif;
+  color: gray;
+  border-left: 2px solid gray;
+}
+    blockquote > span {
+      display: block;
+      text-align: right;
+      padding-top: 2em;
+    }
+

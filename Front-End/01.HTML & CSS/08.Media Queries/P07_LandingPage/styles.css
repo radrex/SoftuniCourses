@@ -1,0 +1,285 @@
+/*------------- IMPORTS -------------*/
+@import url('typography.css');
+/*------------- GENERAL -------------*/
+
+/*--- HEADER ---*/
+body > header,
+footer,
+.section__intro, 
+.section__our-team {
+  padding: 1em 2em;
+  background-image: linear-gradient(to bottom, rgba(215,215,215,0.7), rgba(215,215,215,0.7)), url("media/patterns/qbkls.png");
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+    header section {
+      flex-basis: 55%;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+        header section a > span {
+          font-family: Georgia, serif;
+          font-size: 2em;
+          color: #800080;
+          font-weight: bold;
+          display: block;
+        }
+         
+        header section a > .moto {
+          font-family: 'Open Sans Condensed', sans-serif;
+          font-weight: normal;
+          font-size: 1.0em;
+          color: black;
+          letter-spacing: 0;
+          display: block;
+        }
+    /*--- HIDDEN CHECKBOX ---*/
+    .nav-toggle {
+      opacity: 0;
+      position: absolute;
+      pointer-events: none;
+    }
+    /*--- MENU BUTTON ---*/
+    header nav { margin-left: auto; }
+      .nav-toggle-button { cursor: pointer; }
+          .nav-toggle-button i {
+             padding-right: 0.4em; 
+             color: #800080;
+          }
+    /*--- MENU ---*/
+      header nav ul {
+        right: 1em;
+        margin-top: 1em;
+        position: absolute;
+        list-style: none outside;
+        z-index: 2;
+      }
+          header nav ul li { 
+            padding-top: 0.2em; 
+          }
+              header nav ul li a {
+                padding: 0.4em;
+                display: block;
+                text-align: center;
+                color: black;
+                border-radius: 5px;
+                border: 2px solid rgba(128, 0, 128, 0.1);
+                background: rgb(242, 229, 242);
+              }
+
+    /*--- While CHECKBOX is NOT CHECKED, HIDE UL ---*/
+    .nav-toggle:not(:checked) + header nav ul { display: none; }
+    .nav-toggle:not(:checked) + header nav label i { color: black; }
+    .nav-toggle:checked ~ main { opacity: 0.2; }
+
+/*--- CARD ---*/ 
+.card {
+  height: 300px;
+  flex-basis: 50%;
+  overflow: hidden;
+  border-radius: 5px;
+}
+    .card .media {
+      overflow: hidden;
+      position: relative;
+      max-height: 163.5px;
+      padding: 1em;
+
+    }
+    .card .media:before {
+      display: block;
+      content: '';
+      padding-top: 100%;
+    }
+    .card .media img {
+      display: block;
+      position: absolute;
+      margin-top: 1em;
+      top: 0%; left: 50%;
+      transform: translate(-50%, -0%);
+      border-radius: 50%;
+      border: 3px solid rgba(0, 0, 0, 0.5); 
+      box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    }
+      .card span {
+        display: block;
+        font-weight: bold;
+        text-align: center;
+        padding: 0 1em;
+      }
+      
+      .card span:nth-of-type(2) { font-weight: normal; }
+      .card p { 
+        text-align: center;
+        padding: 0 1em;        
+      }
+
+/*---- MAIN ----*/
+main {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+    /*--- INTRO ---*/
+    .section__intro .fas.fa-globe-americas {
+      float: right;
+      font-size: 9em;
+      margin-top: 0.2em;
+    }
+
+    /*--- OUR TEAM and TESTIMONIALS ---*/
+    .section__our-team, 
+    .section__testimonials {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: space-evenly;
+    }
+        .section__our-team h2, 
+        .section__testimonials h2 { 
+          flex-basis: 100%; 
+          text-align: center;
+        }
+        .section__our-team h2:after, 
+        .section__testimonials h2:after {
+          width: 3em;
+          content: '';
+          display: block;
+          margin: 0.8em auto;
+          border: 1px solid black;
+        }
+
+    /*--- NEWSLETTER ---*/
+    .section__newsletter {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: center; 
+      padding: 2em;
+      background-image: linear-gradient(to bottom, rgba(60,4,80,0.9), rgba(60,4,80,0.9)), url("media/patterns/positive.png");         
+      box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    }
+        .section__newsletter h3 {
+          display: block;
+          flex-basis: 100%;
+          color:white;
+          font-weight: bold;
+          text-align: center;
+        }
+        .section__newsletter h3:after {
+          width: 4em;
+          content: '';
+          display: block;
+          margin: 0.8em auto 2em auto;
+          border: 2px solid black;          
+        }
+
+        .section__newsletter form {
+          display: flex;
+          flex-basis: 100%;
+          justify-content: space-evenly;
+        }
+        .section__newsletter input[type="email"] {
+          padding: 0.5em;
+          flex-basis: 85%;
+          margin-right: 0.2em;
+          border: 2px solid black;
+        }
+        .section__newsletter input[type="submit"] {
+          padding: 0.5em;
+          cursor: pointer;
+          font-weight: bold;
+          border: 2px solid black;
+        }
+    /*--- TESTIMONIALS ---*/
+    .section__testimonials {
+      padding: 1em 2em;
+      background-image: linear-gradient(to bottom, rgba(215,215,215,0.7), rgba(215,215,215,0.7)), url("media/patterns/stripes-light.png");
+    }
+
+    .section__testimonials .card {
+      height: 350px;
+    }
+/*--- FOOTER ---*/
+footer {
+  padding-top: 3em;
+  box-shadow: inset 0px 5px 40px 0px rgba(0,0,0,0.75);
+}
+    footer header {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    footer h4 { padding: 1em 0; }
+
+    footer nav {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+    }
+        footer nav h4 { flex-basis: 100%; }
+
+        footer nav ul {
+          list-style: none outside;
+          flex-basis: 50%;
+          display: inline-block;
+        }
+            footer nav ul li a { color: black; }
+
+    footer span {
+      display: block;
+      font-size: 0.8em;
+    }
+        footer span i {
+          padding-right: 1em;
+        }
+
+/*--- MEDIA QUERIES ---*/
+/*--------- TABLETS ---------*/
+@media(min-width: 450px) {
+  html { font-size: 14px; }
+}
+/*--------- LAPTOPS ---------*/
+@media(min-width: 900px) {
+  html { font-size: 16px; }
+
+  .nav-toggle-button { display: none; }
+
+  .nav-toggle:not(:checked) + header nav ul {     
+    display: flex;
+    flex-direction: row; 
+    position: relative;
+  }
+
+  header nav ul li + li { margin-left: 0.2em; }
+
+    header nav ul li a {
+      border: none;
+      background: none;
+    }
+
+    .card { flex-basis: 30%; }
+
+    footer {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+
+    }
+        footer header {
+          flex-basis: 30%;
+          padding-right: 2em;
+        }
+
+        footer section { padding-left: 2em; }
+}
+/*-------- DESKTOPS ---------*/
+@media(min-width: 1024px) {
+  html { font-size: 18px; }
+}

@@ -1,0 +1,121 @@
+/*------------ RESET ------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+/*----------- GENERAL -----------*/
+html {
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.2;
+  color: #234465;
+}
+/*---------- SPECIFIC -----------*/
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40rem;
+  height: 50rem;
+  margin: 1rem auto;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgb(173, 216, 230);
+}
+    fieldset {
+      height: 100%;
+      width: 100%;
+      padding: 6rem 5rem 2rem 2rem;
+      border: none;
+      position: relative;
+    
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+    }
+        legend {
+          font-size: 3rem;
+          font-family: initial;
+          position: absolute;
+          margin: 0 auto;
+          top: 2%;
+          left: 25%;
+        }
+
+        label { 
+          flex-basis: 20%;
+        }
+
+      /*-------- INPUT TYPES ----------*/
+        input { outline: none; }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[list="languages"],
+        textarea {
+          flex-basis: 70%; 
+          padding: 0.5rem; 
+          border: 1px solid #999999;
+        }
+            input[type="text"]:focus,
+            input[type="text"]:hover,
+            input[type="email"]:focus,
+            input[type="email"]:hover,
+            input[type="tel"]:focus,
+            input[type="tel"]:hover,
+            input[list="languages"]:focus,
+            input[list="languages"]:hover,
+            textarea:focus,
+            textarea:hover {
+              border-color: #234465;
+            }
+
+        input[type="radio"] {
+          margin-right: 0.5rem;
+        }
+            .fix {
+              flex-basis: 12%;
+            }
+
+            .fix-2 {
+              flex-basis: 50%;
+            }
+
+        select {
+          flex-basis: 70%; 
+          padding: 0.5rem; 
+          border: 1px solid #999999;
+        }
+            select:focus,
+            select:hover {
+              border-color: #234465;
+            }
+      
+        textarea { margin-right: 3rem; }
+
+        label:last-of-type { 
+          flex-basis: 50%;
+          margin-left: 0.5rem;
+          margin-right: 15rem;
+        }
+
+        input[type="submit"] {
+          margin-left: 15rem;
+          padding: 1rem 3.5rem;
+          background: #234465;
+          color: white;
+          font-weight: bold;
+          border-radius: 5px;
+          border: 2px solid #234465;
+          cursor: pointer;
+        }
+
+        input[type="submit"]:focus,
+        input[type="submit"]:hover {
+          color: #234465;
+          background: white;
+        }

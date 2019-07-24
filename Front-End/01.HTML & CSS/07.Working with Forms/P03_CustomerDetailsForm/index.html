@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="styles.css">
+  <title>Customer Details Form</title>
+</head>
+<body>
+  <form action="#">
+    <fieldset>
+      <legend>Customer Details</legend>
+      
+      <label for="first-name">First Name</label>
+      <input type="text" id="first-name" placeholder="George">
+      <label for="last-name">Last Name</label>
+      <input type="text" id="last-name" placeholder="Devis">
+
+      <label>Gender</label>
+      <input type="radio" name="sex" id="male">
+      <label for="male" class="fix">Male</label>
+      <input type="radio" name="sex" id="female">
+      <label for="female" class="fix-2">Female</label>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" placeholder="your@email.com">
+      <label for="phone">Phone</label>
+      <input type="tel" id="phone" placeholder="+359885236225">
+
+      <label for="town">Town</label>
+      <select id="town">
+        <option value="varna">Varna</option>
+        <option value="plovdiv">Plovdiv</option>
+        <option value="burgas">Burgas</option>
+        <option value="sofia">Sofia</option>
+        <option value="pleven">Pleven</option>
+      </select>
+
+      <label for="age">Age</label>
+      <input type="text" id="age">
+
+      <label for="language">Language</label>
+      <input list="languages" id="language">
+        <datalist id="languages">
+          <option value="Bulgarian"></option>
+          <option value="English"></option>
+          <option value="French"></option>
+          <option value="German"></option>
+          <option value="Polish"></option>
+          <option value="Russian"></option>
+          <option value="Suahili"></option>
+        </datalist> 
+
+      <label for="message">Message</label>
+      <textarea id="message" cols="35" rows="5" placeholder="More information..."></textarea>
+
+      <input type="checkbox" id="terms">
+      <label for="terms">I agree the Terms and Conditions</label>
+
+      <input type="submit" value="Send">
+
+    </fieldset>
+
+
+
+  </form>
+</body>
+</html>

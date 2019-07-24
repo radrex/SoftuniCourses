@@ -1,0 +1,62 @@
+/*------------- RESET -------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+.clearfix:before {
+  display: block;
+  content: '';
+  clear: both;
+}
+/*------------ GENERAL ------------*/
+html {
+  box-sizing: border-box;
+  font: 12px/1.5 Helvetica, sans-serif;
+}
+
+body { padding: 2% 8%; }
+
+h1, h2 { 
+  margin: 1em 0;
+  font-weight: 500;
+  font-family: Georgia, serif;
+}
+
+p, blockquote { margin: 1em 0; }
+
+/*------------- MEDIA -------------*/
+@media (max-width: 499px) {
+  .float-left,
+  .float-right {
+    float: none !important;
+    display: block !important;
+  }
+
+  .half-size { width: 100% !important; }
+
+  img:nth-of-type(1) {
+    margin-left: 0 !important;
+  }
+}
+
+@media (min-width: 500) {
+  html { font-size: 14px; }
+}
+
+@media (min-width: 600) {
+  html { font-size: 16px; }
+}
+
+@media (min-width: 800px) {
+  html { font-size: 18px; }
+}
+
+@media (min-width: 1300px) {
+  html { font-size: 21px; }
+}
+
+@media (min-width: 1800) {
+  html { font-size: 23px; }
+}

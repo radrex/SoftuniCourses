@@ -1,0 +1,37 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 6.0em 6.0em;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border-width: 1px;
+  border-color: rgb(221, 221, 221);
+  border-style: solid;
+  padding: 0.3em;
+}
+
+thead {
+  background: gray;
+}
+
+tbody tr:nth-child(odd) {
+  background: rgb(241, 241, 241);
+}
+
+tbody tr:nth-child(odd) td {
+  background: rgb(241, 241, 241);
+}
+
+tbody tr:hover {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}

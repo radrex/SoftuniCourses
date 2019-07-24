@@ -1,0 +1,48 @@
+/*------------- IMPORTS -------------*/
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+
+/*-------------- RESET --------------*/
+*, *:before, *:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+.clearfix:before {
+  display: block;
+  content: '';
+  clear: both;
+}
+/*------------- GENERAL -------------*/
+html {
+  box-sizing: border-box;
+  font: 12px/1.2 Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+  font-weight: 500;
+  padding: 0.2em 0;
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.2em; }
+
+
+p {
+  margin: 1em 0;
+}
+
+button {
+  border: 2px solid black;
+  border-radius: 3px;
+  padding: 0.3em 0.8em;
+  cursor: pointer;
+}

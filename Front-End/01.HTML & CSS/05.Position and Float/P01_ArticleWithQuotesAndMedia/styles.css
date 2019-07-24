@@ -1,0 +1,44 @@
+@import 'typography.css';
+
+.clearfix:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+
+header > p.site-title {
+  display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+}
+
+main article img {
+  border: 2px solid black;
+  padding: 0.3rem;
+}
+
+img.portrait {
+  float: right;
+  margin: 0 1rem 1rem 1rem;
+}
+
+img.landscape {
+  float:left;
+  margin: 0 1rem 1rem 0;
+}
+
+blockquote {
+  border-left: 2px solid gray;
+  font-style: italic;
+  opacity: 0.7;
+  padding-left: 1.5rem;
+  width: 45%;
+  float: right;
+  margin-left: 1.0rem;
+}
+
+blockquote span:last-of-type {
+  display: block;
+  text-align: right;
+}

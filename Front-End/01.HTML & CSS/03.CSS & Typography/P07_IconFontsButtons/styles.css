@@ -1,0 +1,25 @@
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+
+html {
+  font-size: 16px;
+}
+
+p {
+  margin: 3.0em;
+}
+
+a {
+  color: white; 
+  text-decoration: none;
+  padding: 0.8em;
+  border-radius: 0.2em;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
