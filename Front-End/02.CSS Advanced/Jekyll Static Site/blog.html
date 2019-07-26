@@ -1,0 +1,22 @@
+---
+layout: main
+title: Blog
+icon: fa-rss
+permalink: /blog/
+---
+
+<section>
+  <header>
+    <h2>Latest Posts</h2>
+  </header>
+
+  <div class="content">
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

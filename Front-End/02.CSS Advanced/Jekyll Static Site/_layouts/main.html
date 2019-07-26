@@ -4,27 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="/css/site.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/site.css">
   <title>{{site.title}}</title>
 </head>
 <body>
   <div class="site">
     <header class="site-header">
-        <h1 class="site-title">
-          <a href="/">Index of /Jekyll</a>
-        </h1>
 
-        <nav>
-          <ul>
-            {% for page in site.pages %}
-              {% if page.title %}
-                <li>
-                  <a href="{{ page.url }}">{{ page.title }}</a>
-                </li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </nav>
+        {% if page.home == true %}
+        <h1 class="site-title">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </h1>
+        {% else %}
+        <p class="site-title">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </h1>
+        {% endif %}
+
+        {% include navigation.html location="header" %}
+
     </header>
 
     <main class="site-main">
@@ -34,11 +33,14 @@
       
       {{content}}
     </main>
-
-    <aside class="site-sidebar"></aside>
+    
+    {% include sidebar.html %}
 
     <footer class="site-footer">
-      <p>All rights reserved &copy; Rado</p>
+      <p>All rights reserved &copy; {{ site.title }}</p>
+
+      {% include navigation.html location="footer" %}
+
     </footer>
   </div>
 </body>

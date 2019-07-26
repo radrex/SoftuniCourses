@@ -1,3 +1,7 @@
-body {
-  
-}
+/*------------ IMPORTS ------------*/
+@import url('variables.css');
+@import url('typography.css');
+@import url('layout.css');
+@import url('site-header.css');
+@import url('site-footer.css');
+@import url('navigation.css');

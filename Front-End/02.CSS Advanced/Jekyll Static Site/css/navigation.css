@@ -1,0 +1,35 @@
+.site-nav {
+
+}
+
+.site-nav > ul {
+  display: flex;
+  padding: 0;
+}
+
+.site-nav li {
+  display: block;
+  list-style: none outside;
+  padding: 0 0.5em;
+}
+
+.site-nav li:first-child {
+  padding-left: 0;
+}
+
+.site-nav a {
+  display: block;
+  padding: 0.5em 1em;
+  border-radius: 0.3em;
+  background: #EEE;
+}
+
+.site-nav a:hover {
+  background: var(--color-link-default);
+  color: var(--color-body-bgrd);
+}
+
+.site-nav a i.fas:before {
+  color:#000;
+  margin-right: 0.5em;
+}
