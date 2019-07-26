@@ -1,0 +1,19 @@
+body {
+  padding: 3em;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+    ul li {
+      flex: 1 1 0;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+
+

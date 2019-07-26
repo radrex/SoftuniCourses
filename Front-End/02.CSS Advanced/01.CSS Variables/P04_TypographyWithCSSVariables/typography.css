@@ -1,0 +1,14 @@
+html {
+  font: var(--font-size-base, 12px)/1.5 Verdana, sans-serif;
+}
+
+body { padding: 2em; }
+
+h1 { font-size: 3em; }
+h2 { font-size: 2em; }
+
+p { margin: 1em 0; }
+
+ul {
+  padding-left: 3em;
+}

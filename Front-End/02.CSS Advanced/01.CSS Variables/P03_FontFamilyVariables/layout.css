@@ -1,0 +1,10 @@
+body {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+article { width: 70vw; }
+
+

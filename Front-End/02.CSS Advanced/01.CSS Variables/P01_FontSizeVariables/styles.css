@@ -1,0 +1,20 @@
+@import 'variables.css';
+@import 'layout.css';
+
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+  text-align: center;
+}
+
+h3 {
+  font-size: var(--font-size-h3);
+  font-style: italic;
+}
+
+p {
+  font-size: var(--font-size-p);
+}
