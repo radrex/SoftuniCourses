@@ -33,3 +33,7 @@
   color:#000;
   margin-right: 0.5em;
 }
+
+.site-nav a:hover i.fas:before {
+  color: #FFF;
+}
