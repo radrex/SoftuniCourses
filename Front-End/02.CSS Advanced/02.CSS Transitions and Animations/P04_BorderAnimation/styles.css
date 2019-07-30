@@ -1,0 +1,21 @@
+body {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  padding: 1em;
+  margin: 0.5em;
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  outline: 5px solid darkblue;
+  font-family: Verdana, sans-serif;
+  transition: outline-width 0.5s cubic-bezier(0.47, 0, 0.745, 0.715);
+}
+
+a:hover {
+  outline-width: 10px;
+}

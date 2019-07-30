@@ -1,0 +1,26 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle {
+  animation: grow 2s ease-out infinite alternate;
+}
+
+@keyframes grow {
+  from {
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 50%;
+  }
+
+  to {
+    width: 200px;
+    height: 200px;
+    border-radius: 0;
+    background-color: orange;
+  }
+}
