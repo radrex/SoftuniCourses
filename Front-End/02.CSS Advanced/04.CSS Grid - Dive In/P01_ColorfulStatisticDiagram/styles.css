@@ -1,0 +1,45 @@
+body {
+  padding: 6em;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(12, 1fr);
+}
+
+.a, .b, .c, .d, .e, .f, .g {
+  padding: 0.5em;
+}
+
+.a {
+  grid-row: 11 / 12;
+  background: #7FFFD4;
+}
+
+.b {
+  grid-row: 8 / 12;
+  background: #FFFF00;
+}
+
+.c {
+  grid-row: 10 / 12;
+  background: #FFC0CB;
+}
+
+.d {
+  grid-row: 5 / 12;
+  background: #62E3E7;
+}
+
+.e {
+  grid-row: 1 / 12;
+  background: #CBF382;
+}
+
+.f {
+  grid-row: 4 / 12;
+  background: #7718CF;
+}
+
+.g {
+  grid-row: 11/ 12;
+  background: #F78D15;
+}

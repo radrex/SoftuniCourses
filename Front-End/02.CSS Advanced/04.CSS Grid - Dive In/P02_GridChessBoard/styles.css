@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: grid;
+  grid-gap: 0.4em;
+  grid-template-rows: repeat(5, 60px);
+  grid-template-columns: repeat(5, 60px);
+  align-content: center;
+  justify-content: center;
+}
+
+div {
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+div:nth-child(odd) {
+  background: black;
+}
