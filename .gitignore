@@ -1,4 +1,10 @@
-//----VISUAL STUDIO-----
+//---- VISUAL STUDIO -----
 bin/
 obj/
 .vs/
+
+//----- CODE BLOCKS ------
+bin/
+obj/
+.layout/
+.depend/
