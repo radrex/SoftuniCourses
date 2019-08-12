@@ -6,5 +6,5 @@ obj/
 //----- CODE BLOCKS ------
 bin/
 obj/
-.layout/
-.depend/
+*.layout
+*.depend
