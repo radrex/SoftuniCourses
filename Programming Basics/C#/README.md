@@ -9,7 +9,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="10" style="text-align:center;">Lab</th>
+      <th colspan="8" style="text-align:center;">Lab</th>
     </tr>
   </thead>
   <tbody>
@@ -22,8 +22,6 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/01.FirstStepsInCoding/P03_Nums1to20/P03_Nums1to20.cs">Nums 1...10</a></td>
       <td><b>04. </b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/01.FirstStepsInCoding/P04_RectangleArea/P04_RectangleArea.cs">Rectangle Area</a></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -61,6 +59,68 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P08_YardGreening/P08_YardGreening.cs">Yard Greening</a></td>
       <td><b>09. </b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P09_FishTank/P09_FishTank.cs">Fish Tank</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P01_GreetingByName/P01_GreetingByName.cs">USD to BGN</a></td>
+      <td><b>02. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P02_ConcatenateData/  P02_ConcatenateData.cs">Radians to Degrees</a></td>
+      <td><b>03. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P03_SquareArea/P03_SquareArea.cs">2D Rectangle  Area</a></td>
+      <td><b>04. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P04_InchesToCentimeters/  P04_InchesToCentimeters.cs">Tailoring Workshop</a></td>
+      <td><b>05. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P05_ProjectsCreation/ P05_ProjectsCreation.cs">Dance Hall</a></td>
+    </tr>
+    <tr>
+      <td><b>06. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P06_CircleAreaAndPerimeter/P06_CircleAreaAndPerimeter.cs">Charity Campaign</a></td>
+      <td><b>07. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P07_PetShop/P07_PetShop.cs">Alcohol Market</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P01_TrapezoidArea/P01_TrapezoidArea.cs">Trapezoid Area</a></td>
+      <td><b>02. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P02_TriangleArea/P02_TriangleArea.cs">Triangle Area</a></td>
+      <td><b>03. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P03_CelsiusToFahrenheit/P03_CelsiusToFahrenheit.cs">Celsius to Fahrenheit</a></td>
+      <td><b>04. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P04_VegetableMarket/P04_VegetableMarket.cs">Vegetable Market</a></td>
+      <td><b>05. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P05_TrainingLab/P05_TrainingLab.cs">Training Lab</a></td>
+    </tr>
+    <tr>
+      <td><b>06. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P06_Fishland/P06_Fishland.cs">Fishland</a></td>
+      <td><b>07. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P07_HousePainting/P07_HousePainting.cs">House Painting</a></td>
+      <td><b>08. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P08_WeatherForecast/P08_WeatherForecast.cs">Weather Forecast</a></td>
+      <td><b>09. </b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P09_WeatherForecastPart2/P09_WeatherForecastPart2.cs">Weather Forecast Part 2</a></td>
       <td></td>
       <td></td>
     </tr>
