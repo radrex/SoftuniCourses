@@ -1,14 +1,6 @@
 # Fundamentals Common
 
-<br/>
-
----
-
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/C%23/Common/01.Basic%20HTML">01. Basic HTML</a>
-
-<br/>
-
----
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/C%23/Common/02.Basic%20CSS">02. Basic CSS</a>
 
@@ -27,9 +19,6 @@
     </tr>
   </tbody>
 </table>
-<br/>
-
----
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/C%23/Common/03.Bitwise%20Operations">03. Bitwise Operations</a>
 
@@ -59,8 +48,5 @@
     </tr>
   </tbody>
 </table>
-<br/>
-
----
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/C%23/Common/04.Database%20Basics">04. Database Basics</a>
