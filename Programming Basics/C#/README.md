@@ -25,8 +25,6 @@
 <br>
 
 ---
----
----
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations">02. Simple Calculations and Operations</a>
 
