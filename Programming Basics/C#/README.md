@@ -1,12 +1,15 @@
 # Programming Basics with C#
+
 <br>
+
+---
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Basics/C%23/01.FirstStepsInCoding">01. First Steps in Coding</a>
 
 <table>
   <thead>
     <tr>
-      <th colspan="8" style="text-align:center;">Lab</th>
+      <th colspan="10" style="text-align:center;">Lab</th>
     </tr>
   </thead>
   <tbody>
@@ -19,6 +22,8 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/01.FirstStepsInCoding/P03_Nums1to20/P03_Nums1to20.cs">Nums 1...10</a></td>
       <td><b>04. </b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/01.FirstStepsInCoding/P04_RectangleArea/P04_RectangleArea.cs">Rectangle Area</a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
