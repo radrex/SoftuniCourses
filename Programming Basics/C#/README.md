@@ -1,6 +1,6 @@
 # Programming Basics with C#
 
-<br>
+<br/>
 
 ---
 
@@ -25,7 +25,7 @@
     </tr>
   </tbody>
 </table>
-<br>
+<br/>
 
 ---
 
@@ -59,13 +59,12 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P08_YardGreening/P08_YardGreening.cs">Yard Greening</a></td>
       <td><b>09. </b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P09_FishTank/P09_FishTank.cs">Fish Tank</a></td>
-      <td></td>
-      <td></td>
+      <td colspan="2"></td>
     </tr>
   </tbody>
   <thead>
     <tr>
-      <th colspan="10" style="text-align:center;">Exercise</th>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
     </tr>
   </thead>
   <tbody>
@@ -86,17 +85,12 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P06_CircleAreaAndPerimeter/P06_CircleAreaAndPerimeter.cs">Charity Campaign</a></td>
       <td><b>07. </b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P07_PetShop/P07_PetShop.cs">Alcohol Market</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td colspan="6"></td> 
     </tr>
   </tbody>
   <thead>
     <tr>
-      <th colspan="10" style="text-align:center;">More Exercises</th>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
     </tr>
   </thead>
   <tbody>
@@ -121,8 +115,7 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P08_WeatherForecast/P08_WeatherForecast.cs">Weather Forecast</a></td>
       <td><b>09. </b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/%5BMoreExercises%5D/P09_WeatherForecastPart2/P09_WeatherForecastPart2.cs">Weather Forecast Part 2</a></td>
-      <td></td>
-      <td></td>
+      <td colspan="2"></td>
     </tr>
   </tbody>
 </table>
