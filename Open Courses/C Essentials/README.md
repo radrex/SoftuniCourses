@@ -222,3 +222,40 @@
   </tbody>
 </table>
 <br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Open%20Courses/C%20Essentials/07.While%20Loop">07. While Loop</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Tasks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P01_NumberInRange1To100/main.c">Number in Range 1 - 100</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P02_Sequence2kPlus1/main.c">Sequence 2k Plus 1</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P03_AccountBalance/main.c">Account Balance</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P04_MaxNumber/main.c">Max Number</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P05_MinNumber/main.c">Min Number</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P06_Graduation/main.c">Graduation</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P07_GraduationPt2/main.c">Graduation Pt 2</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P08_Moving/main.c">Moving</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/07.While%20Loop/P09_Cake/main.c">Cake</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
