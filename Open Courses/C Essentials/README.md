@@ -259,3 +259,42 @@
     </tr>
   </tbody>
 </table>
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Open%20Courses/C%20Essentials/08.Nested%20Loops">08. Nested Loops</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Tasks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P01_NumbersNto1/main.c">Numbers N...1</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P02_Numbers1toNWithStep3/main.c">Numbers 1...N With Step 3</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P03_EvenPowersOf2/main.c">Even Powers of 2</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P04_Combination/main.c">Combination</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P05_Building/main.c">Building</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P06_Travelling/main.c">Travelling</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P07_NameWars/main.c">Name Wars</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P08_CookieFactory/main.c">Cookie Factory</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P09_MagicNumbers/main.c">Magic Numbers</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/08.Nested%20Loops/P10_PasswordGenerator/main.c">Password Generator</a></td>
+    </tr>
+  </tbody>
+</table>
