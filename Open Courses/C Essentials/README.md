@@ -298,3 +298,49 @@
     </tr>
   </tbody>
 </table>
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops">09. Exercise Loops</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Tasks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P01_HalfSumElement/main.c">Half Sum Element</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P02_OldBooks/main.c">Old Books</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P03_Vacation/main.c">Vacation</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P04_Coins/main.c">Coins</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P05_Matrix/main.c">Matrix</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P06_NumberPyramid/main.c">Number Pyramid</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P07_Coding/main.c">Coding</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P08_EqualSumsEvenOddPosition/main.c">Equal Sums Even Odd Position</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P09_SumPrimeNonPrime/main.c">Sum Prime Non Prime</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P10_TrainTheTrainers/main.c">Train the Trainers</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P11_TheSongOfTheWheels/main.c">The Song of the Wheels</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%20Essentials/09.Exercise%20Loops/P12_PrimePairs/main.c">Prime Pairs</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+</table>
