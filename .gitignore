@@ -1,9 +1,9 @@
-//---- VISUAL STUDIO -----
+//---- VISUAL STUDIO ----- (C#)
 bin/
 obj/
 .vs/
 
-//----- CODE BLOCKS ------
+//----- CODE BLOCKS ------ (C, C++)
 bin/
 obj/
 *.layout
