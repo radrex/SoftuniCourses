@@ -32,3 +32,35 @@
     </tr>
   </tbody>
 </table>
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors">02.Functions, Arrays and Vectors</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Tasks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors/P01_CompareArrays/main.cpp">Compare Arrays</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors/P02_LongestSequence/main.cpp">Longest Sequence</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors/P03_AboveAverage/main.cpp">Above Average</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors/P04_MostFrequentNumber/main.cpp">Most Frequent Number</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors/P05_CartesianProduct/main.cpp">Cartesian Product</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Open%20Courses/C%2B%2B%20Fundamentals/02.Functions%2C%20Arrays%20and%20Vectors/P06_ClosestNumbers/main.cpp">Closest Numbers</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+</table>
