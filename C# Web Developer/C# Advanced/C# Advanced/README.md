@@ -66,9 +66,9 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/01.Stacks%20and%20Queues/Exercise/P10_Crossroads/P10_Crossroads.cs">Crossroads</a></td>
     </tr>
     <tr>
-      <td><b>06.</b></td>
+      <td><b>11.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/01.Stacks%20and%20Queues/Exercise/P11_KeyRevolver/P11_KeyRevolver.cs">Key Revolver</a></td>
-      <td><b>07.</b></td>
+      <td><b>12.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/01.Stacks%20and%20Queues/Exercise/P12_CupsAndBottles/P12_CupsAndBottles.cs">Cups and Bottles</a></td>
       <td colspan="6"></td>
     </tr>
