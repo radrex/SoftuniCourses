@@ -1,9 +1,9 @@
-﻿namespace P05_Supermarket
+﻿namespace P06_Supermarket
 {
     using System;
     using System.Collections.Generic;
 
-    class P05_Supermarket
+    class P06_Supermarket
     {
         static void Main(string[] args)
         {

@@ -1,9 +1,9 @@
-﻿namespace P06_HotPotato
+﻿namespace P07_HotPotato
 {
     using System;
     using System.Collections.Generic;
 
-    class P06_HotPotato
+    class P07_HotPotato
     {
         static void Main(string[] args)
         {

@@ -1,9 +1,9 @@
-﻿namespace P07_TrafficJam
+﻿namespace P08_TrafficJam
 {
     using System;
     using System.Collections.Generic;
 
-    class P07_TrafficJam
+    class P08_TrafficJam
     {
         static void Main(string[] args)
         {
