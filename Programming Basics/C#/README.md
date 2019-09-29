@@ -70,21 +70,21 @@
   <tbody>
     <tr>
       <td><b>01.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P01_GreetingByName/P01_GreetingByName.cs">USD to BGN</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P01_USDtoBGN/P01_USDtoBGN.cs">USD to BGN</a></td>
       <td><b>02.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P02_ConcatenateData/  P02_ConcatenateData.cs">Radians to Degrees</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P02_RadiansToDegrees/P02_RadiansToDegrees.cs">Radians to Degrees</a></td>
       <td><b>03.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P03_SquareArea/P03_SquareArea.cs">2D Rectangle  Area</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P03_2DRectangleArea/P03_2DRectangleArea.cs">2D Rectangle  Area</a></td>
       <td><b>04.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P04_InchesToCentimeters/  P04_InchesToCentimeters.cs">Tailoring Workshop</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P04_TailoringWorkshop/P04_TailoringWorkshop.cs">Tailoring Workshop</a></td>
       <td><b>05.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/  02.Simple%20Calculations%20and%20Operations/Lab/P05_ProjectsCreation/ P05_ProjectsCreation.cs">Dance Hall</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P05_DanceHall/P05_DanceHall.cs">Dance Hall</a></td>
     </tr>
     <tr>
       <td><b>06.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P06_CircleAreaAndPerimeter/P06_CircleAreaAndPerimeter.cs">Charity Campaign</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P06_CharityCampaign/P06_CharityCampaign.cs">Charity Campaign</a></td>
       <td><b>07.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Lab/P07_PetShop/P07_PetShop.cs">Alcohol Market</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/02.Simple%20Calculations%20and%20Operations/Exercise/P07_AlcoholMarket/P07_AlcoholMarket.cs">Alcohol Market</a></td>
       <td colspan="6"></td> 
     </tr>
   </tbody>
