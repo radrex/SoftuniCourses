@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_SimpleCalculator", "P03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_MatchingBrackets", "P04_MatchingBrackets\P04_MatchingBrackets.csproj", "{CAC9F0C0-5BA5-403E-9552-67F2ACDDDBD8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07_TrafficJam", "P07_TrafficJam\P07_TrafficJam.csproj", "{1A3887F0-2117-4EA3-82B8-BCCEB722374F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_PrintEvenNumbers", "P05_PrintEvenNumbers\P05_PrintEvenNumbers.csproj", "{2BDAC6DB-D6CC-47AB-966E-072339F38C54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_Supermarket", "P06_Supermarket\P06_Supermarket.csproj", "{8FED6AD5-85DB-458F-8C92-BF408CEB8B27}"
@@ -43,10 +41,6 @@ Global
 		{CAC9F0C0-5BA5-403E-9552-67F2ACDDDBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC9F0C0-5BA5-403E-9552-67F2ACDDDBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC9F0C0-5BA5-403E-9552-67F2ACDDDBD8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1A3887F0-2117-4EA3-82B8-BCCEB722374F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A3887F0-2117-4EA3-82B8-BCCEB722374F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A3887F0-2117-4EA3-82B8-BCCEB722374F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A3887F0-2117-4EA3-82B8-BCCEB722374F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2BDAC6DB-D6CC-47AB-966E-072339F38C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2BDAC6DB-D6CC-47AB-966E-072339F38C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BDAC6DB-D6CC-47AB-966E-072339F38C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
