@@ -219,23 +219,23 @@
   <tbody>
     <tr>
       <td><b>01.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P01_ExcellentResult/P01_ExcellentResult.cs">Day of Week</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P01_DayOfWeek/P01_DayOfWeek.cs">Day of Week</a></td>
       <td><b>02.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P02_GreaterNumber/P02_GreaterNumber.cs">Print Numbers in Reverse Order</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P02_PrintNumbersInReverseOrder/P02_PrintNumbersInReverseOrder.cs">Print Numbers in Reverse Order</a></td>
       <td><b>03.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P03_EvenOrOdd/P03_EvenOrOdd.cs">Rounding Numbers</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P03_RoundingNumbers/P03_RoundingNumbers.cs">Rounding Numbers</a></td>
       <td><b>04.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P04_Number1To9ToText/P04_Number1To9ToText.cs">Reverse Array of Strings</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P04_ReverseArrayOfStrings/P04_ReverseArrayOfStrings.cs">Reverse Array of Strings</a></td>
       <td><b>05.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P05_3EqualNumbers/P05_3EqualNumbers.cs">Sum Even Numbers</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P05_SumEvenNumbers/P05_SumEvenNumbers.cs">Sum Even Numbers</a></td>
     </tr>
     <tr>
       <td><b>06.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P06_Number100To200/P06_Number100To200.cs">Even and Odd Subtraction</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P06_EvenAndOddSubtraction/P06_EvenAndOddSubtraction.cs">Even and Odd Subtraction</a></td>
       <td><b>07.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P07_PasswordGuess/P07_PasswordGuess.cs">Equal Arrays</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P07_EqualArrays/P07_EqualArrays.cs">Equal Arrays</a></td>
       <td><b>08.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Basics/C%23/03.Conditional%20Statements/Lab/P08_EqualWords/P08_EqualWords.cs">Condense Array to Number</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/C%23/Fundamentals/03.Arrays/Lab/P08_CondenseArrayToNumber/P08_CondenseArrayToNumber.cs">Condense Array to Number</a></td>
       <td colspan="4"></td>
     </tr>
   </tbody>
