@@ -1,9 +1,9 @@
-﻿namespace P06_AutoRepairAndService
-{
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
-    class P06_AutoRepairAndService
+namespace PArchive_AutoRepairAndService
+{
+    class AutoRepairAndService
     {
         static void Main(string[] args)
         {
