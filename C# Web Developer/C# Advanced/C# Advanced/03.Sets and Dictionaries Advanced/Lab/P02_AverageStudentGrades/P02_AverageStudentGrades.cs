@@ -19,22 +19,14 @@
                 if (!students.ContainsKey(name))
                 {
                     students.Add(name, new List<double>());
-                    students[name].Add(grade);
                 }
-                else
-                {
-                    students[name].Add(grade);
-                }
+
+                students[name].Add(grade); 
             }
 
             foreach (var student in students)
             {
-                string text = student.Key + " -> ";
-                foreach (double grade in student.Value)
-                {
-                    text += $"{grade:F2} ";
-                }
-                Console.WriteLine(text + $"(avg: {student.Value.Average():F2})");
+                Console.WriteLine($"{student.Key} -> {String.Join(" ", student.Value.Select(g => g.ToString("F2")))} (avg: {student.Value.Average():F2})");
             }
         }
     }

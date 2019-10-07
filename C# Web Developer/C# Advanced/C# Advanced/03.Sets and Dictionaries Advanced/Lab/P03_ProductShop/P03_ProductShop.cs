@@ -25,19 +25,9 @@
                 if (!shops.ContainsKey(shop))
                 {
                     shops.Add(shop, new Dictionary<string, double>());
-                    shops[shop].Add(product, price);
                 }
-                else
-                {
-                    if (!shops[shop].ContainsKey(product))
-                    {
-                        shops[shop].Add(product, price);
-                    }
-                    else
-                    {
-                        shops[shop][product] = price;
-                    }
-                }
+
+                shops[shop][product] = price;
             }
 
             foreach (var shop in shops.OrderBy(x => x.Key))

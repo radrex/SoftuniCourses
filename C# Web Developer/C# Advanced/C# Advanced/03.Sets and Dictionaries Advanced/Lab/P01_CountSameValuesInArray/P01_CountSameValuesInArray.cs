@@ -18,12 +18,10 @@
             {
                 if (!numbers.ContainsKey(num))
                 {
-                    numbers.Add(num, 1);
+                    numbers.Add(num, 0);
                 }
-                else
-                {
-                    numbers[num]++;
-                }
+
+                numbers[num]++;  
             }
 
             foreach (var number in numbers)
