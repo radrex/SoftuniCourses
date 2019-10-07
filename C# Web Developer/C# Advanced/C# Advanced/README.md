@@ -140,3 +140,66 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced">03. Sets and Dictionaries Advanced</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P01_CountSameValuesInArray/P01_CountSameValuesInArray.cs">Count Same Values in Array</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P02_AverageStudentGrades/P02_AverageStudentGrades.cs">Average Student Grades</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P03_ProductShop/P03_ProductShop.cs">Product Shop</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P04_CitiesByContinentAndCountry/P04_CitiesByContinentAndCountry.cs">Cities By Continent And Country</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P05_RecordUniqueNames/P05_RecordUniqueNames.cs">Record Unique Names</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P06_ParkingLot/P06_ParkingLot.cs">Parking Lot</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Lab/P07_SoftUniParty/P07_SoftUniParty.cs">SoftUni Party</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P01_UniqueUsernames/P01_UniqueUsernames.cs">Unique Usernames</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P02_SetsOfElements/P02_SetsOfElements.cs">Sets of Elements</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P03_PeriodicTable/P03_PeriodicTable.cs">Periodic Table</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P04_EvenTimes/P04_EvenTimes.cs">Even Times</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P05_CountSymbols/P05_CountSymbols.cs">Count Symbols</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P06_Wardrobe/P06_Wardrobe.cs">Wardrobe</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P07_TheVLogger/P07_TheVLogger.cs">The V-Logger</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/03.Sets%20and%20Dictionaries%20Advanced/Exercise/P08_Ranking/P08_Ranking.cs">Ranking</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+</table>
