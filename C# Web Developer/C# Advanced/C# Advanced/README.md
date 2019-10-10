@@ -203,3 +203,60 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories">04. Streams, Files and Directories</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Lab/P01_OddLines/P01_OddLines.cs">Odd Lines</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Lab/P02_LineNumbers/P02_LineNumbers.cs">Line Numbers</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Lab/P03_WordCount/P03_WordCount.cs">Word Count</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Lab/P04_MergeFiles/P04_MergeFiles.cs">Merge Files</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Lab/P05_SliceAFile/P05_SliceAFile.cs">Slice a File</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Lab/P06_FolderSize/P06_FolderSize.cs">Folder Size</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Exercise/P01_EvenLines/P01_EvenLines.cs">Even Lines</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Exercise/P02_LineNumbers/P02_LineNumbers.cs">Line Numbers</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Exercise/P03_WordCount/P03_WordCount.cs">Word Count</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Exercise/P04_CopyBinaryFile/P04_CopyBinaryFile.cs">Copy Binary File</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Exercise/P05_DirectoryTraversal/P05_DirectoryTraversal.cs">Directory Traversal</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/04.Streams%2C%20Files%20and%20Directories/Exercise/P06_ZipAndExtract/P06_ZipAndExtract.cs">Zip and Extract</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+</table>
