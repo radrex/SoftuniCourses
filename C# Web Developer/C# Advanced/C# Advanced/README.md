@@ -260,3 +260,69 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming">05. Functional Programming</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Lab/P01_SortEvenNumbers/P01_SortEvenNumbers.cs">Sort Even Numbers</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Lab/P02_SumNumbers/P02_SumNumbers.cs">Sum Numbers</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Lab/P03_CountUppercaseWords/P03_CountUppercaseWords.cs">Count Uppercase Words</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Lab/P04_AddVAT/P04_AddVAT.cs">Add VAT</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Lab/P05_FilterByAge/P05_FilterByAge.cs">Filter By Age</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P01_ActionPrint/P01_ActionPrint.cs">Action Print</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P02_KnightsOfHonor/P02_KnightsOfHonor.cs">Knights of Honor</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P03_CustomMinFunction/P03_CustomMinFunction.cs">Custom Min Function</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P04_FindEvensOrOdds/P04_FindEvensOrOdds.cs">Find Evens or Odds</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P05_AppliedArithmetics/P05_AppliedArithmetics.cs">Applied Arithmetics</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P06_ReverseAndExclude/P06_ReverseAndExclude.cs">Reverse and Exclude</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P07_PredicateForNames/P07_PredicateForNames.cs">Predicate for Names</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P08_CustomComparator/P08_CustomComparator.cs">Custom Comparator</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P09_ListOfPredicates/P09_ListOfPredicates.cs">List of Predicates</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P10_PredicateParty/P10_PredicateParty.cs">Predicate Party</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P11_ThePartyReservationFilterModule/P11_ThePartyReservationFilterModule.cs">The Party Reservation Filter Module</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/05.Functional%20Programming/Exercise/P12_TriFunction/P12_TriFunction.cs">TriFunction</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+</table>
