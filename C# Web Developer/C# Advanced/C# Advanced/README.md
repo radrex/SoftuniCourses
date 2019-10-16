@@ -326,3 +326,62 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes">06. Defining Classes</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Lab/P01_Car/CarManufacturer/CarManufacturer">Car</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Lab/P02_CarExtension/CarManufacturer/CarManufacturer">Car Extension</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Lab/P03_CarConstructors/CarManufacturer/CarManufacturer">Car Constructors</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Lab/P04_CarEngineAndTires/CarManufacturer/CarManufacturer">Car Engine and Tires</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Lab/P05_SpecialCars/CarManufacturer/CarManufacturer">Special Cars</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P01_DefineAClassPerson/DefiningClasses/DefiningClasses">Define a Class Person</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P02_CreatingConstructors/DefiningClasses/DefiningClasses">Creating Constructors</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P03_OldestFamilyMember">Oldest Family Member</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P04_OpinionPoll">Opinion Poll</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P05_DateModifier">Date Modifier</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P06_SpeedRacing">Speed Racing</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P07_RawData">Raw Data</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P08_CarSalesman">Car Salesman</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P09_PokemonTrainer">Pokemon Trainer</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/06.Defining%20Classes/Exercise/P10_SoftUniParking/SoftUniParking/SoftUniParking">SoftUni Parking</a></td>
+    </tr>
+  </tbody>
+</table>
