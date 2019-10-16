@@ -15,14 +15,14 @@ FROM Departments
 
 /*--- TASK 4 --------- FIND SALARY OF EACH EMPLOYEE ---------------*/
 SELECT FirstName
-	  ,LastName
-	  ,Salary 
+      ,LastName
+      ,Salary 
 FROM Employees
 
 /*--- TASK 5 --------- FIND FULL NAME OF EACH EMPLOYEE ------------*/
 SELECT FirstName
-	  ,MiddleName
-	  ,LastName 
+      ,MiddleName
+      ,LastName 
 FROM Employees
 
 /*--- TASK 6 --------- FIND EMAIL ADDRESS OF EACH EMPLOYEE --------*/
@@ -40,8 +40,8 @@ WHERE JobTitle = 'Sales Representative'
 
 /*--- TASK 9 ---- FIND NAMES OF ALL EMPLOYEES BY SALARY IN RANGE --*/
 SELECT FirstName
-	  ,LastName
-	  ,JobTitle
+      ,LastName
+      ,JobTitle
 FROM Employees
 WHERE Salary BETWEEN 20000 AND 30000
 
@@ -52,27 +52,27 @@ WHERE Salary IN (25000, 14000, 12500, 23600)
 
 /*--- TASK 11 --------- FIND ALL EMPLOYEES WITHOUT MANAGER --------*/
 SELECT FirstName
-	  ,LastName
+      ,LastName
 FROM Employees
 WHERE ManagerID IS NULL
 
 /*--- TASK 12 --------- FIND ALL EMPLOYEES WITH SALARY MORE THAN --*/
 SELECT FirstName
-	  ,LastName
-	  ,Salary
+      ,LastName
+      ,Salary
 FROM Employees
 WHERE Salary > 50000
 ORDER BY Salary DESC
 
 /*--- TASK 13 --------- FIND 5 BEST PAID EMPLOYEES ----------------*/
 SELECT TOP(5) FirstName
-			 ,LastName
+             ,LastName
 FROM Employees
 ORDER BY Salary DESC
 
 /*--- TASK 14 --------- FIND ALL EMPLOYEES EXCEPT MARKETING -------*/
 SELECT FirstName
-	  ,LastName
+      ,LastName
 FROM Employees
 WHERE NOT (DepartmentID = 4)
 
@@ -80,21 +80,21 @@ WHERE NOT (DepartmentID = 4)
 SELECT * 
 FROM Employees
 ORDER BY Salary DESC
-		,FirstName ASC
-		,LastName DESC
-		,MiddleName ASC
+        ,FirstName ASC
+        ,LastName DESC
+        ,MiddleName ASC
 
 /*--- TASK 16 --------- CREATE VIEW EMPLOYEES WITH SALARIES -------*/
 CREATE VIEW V_EmployeesSalaries AS
 SELECT FirstName
-	  ,LastName
-	  ,Salary
+      ,LastName
+      ,Salary
 FROM Employees
 
 /*--- TASK 17 --------- CREATE VIEW EMPLOYEES WITH JOB TITLES -----*/
 CREATE VIEW V_EmployeeNameJobTitle AS
 SELECT (FirstName + ' ' + ISNULL(MiddleName, '') + ' ' + LastName) AS [Full Name]
-	  ,JobTitle AS [Job Title]
+      ,JobTitle AS [Job Title]
 FROM Employees
 
 /*--- TASK 18 --------- DISTINCT JOB TITLES -----------------------*/
@@ -105,12 +105,12 @@ FROM Employees
 SELECT TOP(10) *
 FROM Projects
 ORDER BY StartDate ASC
-		,[Name] ASC
+        ,[Name] ASC
 
 /*--- TASK 20 --------- LAST 7 HIRED EMPLOYEES --------------------*/
 SELECT TOP(7) FirstName
-			 ,LastName
-			 ,HireDate
+             ,LastName
+             ,HireDate
 FROM Employees
 ORDER BY HireDate DESC
 
@@ -131,19 +131,19 @@ ORDER BY PeakName ASC
 
 /*--- TASK 23 --------- BIGGEST COUNTRIES BY POPULATION -----------*/
 SELECT TOP(30) CountryName
-			  ,[Population]
+              ,[Population]
 FROM Countries
 WHERE ContinentCode = 'EU'
 ORDER BY [Population] DESC
-		,CountryName ASC
+        ,CountryName ASC
 
 /*--- TASK 24 --------- COUNTRIES AND CURRENCY (EURO / NOT EURO) --*/
 SELECT CountryName
-	  ,CountryCode
-	  ,Currency = CASE CurrencyCode
-						WHEN 'EUR' THEN 'Euro'
-						ELSE 'Not Euro'
-				  END
+      ,CountryCode
+      ,Currency = CASE CurrencyCode
+                        WHEN 'EUR' THEN 'Euro'
+                        ELSE 'Not Euro'
+                  END
 FROM Countries
 ORDER BY CountryName ASC
 
