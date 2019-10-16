@@ -50,11 +50,11 @@ INSERT INTO Accounts (ClientId, AccountTypeId, Balance) VALUES
 CREATE FUNCTION f_CalculateTotalBalance (@ClientID INT)
 RETURNS DECIMAL(15,2)
 BEGIN
-	DECLARE @result AS DECIMAL(15,2) = (
-		SELECT SUM(Balance) FROM Accounts 
-							WHERE ClientId = @ClientID
-	)
-	RETURN @result
+    DECLARE @result AS DECIMAL(15,2) = (
+        SELECT SUM(Balance) FROM Accounts 
+        WHERE ClientId = @ClientID
+    )
+    RETURN @result
 END
 
 SELECT dbo.f_CalculateTotalBalance(4) AS Balance
@@ -80,19 +80,19 @@ SELECT * FROM Accounts
 /*----------- WITHDRAW --------------*/
 CREATE PROC p_Withdraw @AccountId INT, @Amount DECIMAL(15,2) AS
 BEGIN 
-	DECLARE @OldBalance DECIMAL(15,2)
-	SELECT @OldBalance = Balance FROM Accounts WHERE Id = @AccountId
+    DECLARE @OldBalance DECIMAL(15,2)
+    SELECT @OldBalance = Balance FROM Accounts WHERE Id = @AccountId
 
-	IF (@OldBalance - @Amount > 0)
-	BEGIN
-		UPDATE Accounts
-		SET Balance -= @Amount
-		WHERE Id = @AccountId
-	END
-	ELSE
-	BEGIN
-		RAISERROR('Insufficient funds', 10, 1)
-	END
+    IF (@OldBalance - @Amount > 0)
+    BEGIN
+        UPDATE Accounts
+        SET Balance -= @Amount
+        WHERE Id = @AccountId
+    END
+    ELSE
+    BEGIN
+        RAISERROR('Insufficient funds', 10, 1)
+    END
 END
 
 p_Withdraw 6, 50.25
@@ -111,10 +111,10 @@ CREATE TABLE Transactions (
 CREATE TRIGGER tr_Transaction ON Accounts
 AFTER UPDATE
 AS
-	INSERT INTO Transactions (AccountId, OldBalance, NewBalance, [DateTime])
-	SELECT inserted.Id, deleted.Balance, inserted.Balance, GETDATE()
-	FROM inserted
-	JOIN deleted ON inserted.Id = deleted.Id
+    INSERT INTO Transactions (AccountId, OldBalance, NewBalance, [DateTime])
+    SELECT inserted.Id, deleted.Balance, inserted.Balance, GETDATE()
+    FROM inserted
+    JOIN deleted ON inserted.Id = deleted.Id
 
 p_Deposit 1, 25.00
 GO
