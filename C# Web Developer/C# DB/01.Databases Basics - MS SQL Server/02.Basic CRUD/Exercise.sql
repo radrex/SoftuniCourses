@@ -1,7 +1,7 @@
 /*--- TASK 1 --------- EXAMINE THE DATABASES ----------------------*/
 /*-- EXECUTE THE SCRIPTS FOR THE DATABASES --> Diablo-Database ----*/
-/*--									   --> SoftUni-Database ---*/
-/*--									   --> Geography-Database -*/
+/*--                                       --> SoftUni-Database ---*/
+/*--                                       --> Geography-Database -*/
 
 /*--- TASK 2 --------- FIND ALL INFORMATION ABOUT DEPARTMENTS -----*/
 USE SoftUni
