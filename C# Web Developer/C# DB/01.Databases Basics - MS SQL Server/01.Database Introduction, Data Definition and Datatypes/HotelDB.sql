@@ -1,7 +1,7 @@
 USE master
 GO
 
-/*--- TASK 15 --------- MOVIES DATABASE ----------------------------*/
+/*--- TASK 15 --------- HOTEL DATABASE -----------------------------*/
 CREATE DATABASE Hotel
 GO
 

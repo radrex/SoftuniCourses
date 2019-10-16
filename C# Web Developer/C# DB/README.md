@@ -68,7 +68,12 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a332563c5a94d3c2ffcbbd717bac8bc9a87866/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/MinionsDB.sql#L96">Set Default Value of a Field</a></td>
       <td><b>12.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a332563c5a94d3c2ffcbbd717bac8bc9a87866/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/MinionsDB.sql#L100">Set Unique Field</a></td>
-      <td colspan="8"></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/875a29c6369475f9ec63fdd3e9f2ff71d4bf1f2f/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/MoviesDB.sql#L4">Movies Database</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/875a29c6369475f9ec63fdd3e9f2ff71d4bf1f2f/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/CarRentalDB.sql#L4">Car Rental Database</a></td>
+      <td><b>15.</b></td>
+      <td><a href="">Set Unique Field</a></td>
     </tr>
   </tbody>
 </table>
