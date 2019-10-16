@@ -4,9 +4,9 @@ GO
 /*--- TASK 1 --------- EMPLOYEE SUMMARY ---------------------------*/
 USE SoftUni
 
-SELECT  FirstName + ' ' + LastName AS [Full Name]
-       ,JobTitle
-       ,Salary
+SELECT FirstName + ' ' + LastName AS [Full Name]
+      ,JobTitle
+      ,Salary
 FROM Employees
 
 /*--- TASK 2 --------- HIGHEST PEAK -------------------------------*/
@@ -21,5 +21,5 @@ ORDER BY Elevation DESC
 USE SoftUni
 
 UPDATE Projects
-	SET EndDate = '2017-01-23'
-	WHERE EndDate IS NULL
+SET EndDate = '2017-01-23'
+WHERE EndDate IS NULL
