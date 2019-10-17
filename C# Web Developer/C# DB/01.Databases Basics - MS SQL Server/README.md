@@ -61,8 +61,6 @@
       <td><b>10.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a332563c5a94d3c2ffcbbd717bac8bc9a87866/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/MinionsDB.sql#L92">Add Check Constraint</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td><b>11.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a332563c5a94d3c2ffcbbd717bac8bc9a87866/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/MinionsDB.sql#L96">Set Default Value of a Field</a></td>
@@ -75,8 +73,6 @@
       <td><b>15.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/9b3741b1d687270888a382d1fec944dae607ee95/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/HotelDB.sql#L4">Hotel Database</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td><b>16.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/9b3741b1d687270888a382d1fec944dae607ee95/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/SoftUniDB.sql#L4">Create SoftUni Database</a></td>
@@ -89,8 +85,6 @@
       <td><b>20.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/9b3741b1d687270888a382d1fec944dae607ee95/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/SoftUniDB.sql#L65">Basic Select All Fields and Order Them</a></td>
     </tr>
-  </tbody>
-    <tbody>
     <tr>
       <td><b>21.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/9b3741b1d687270888a382d1fec944dae607ee95/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/01.Database%20Introduction%2C%20Data%20Definition%20and%20Datatypes/SoftUniDB.sql#L70">Basic Select Some Fields</a></td>
@@ -158,8 +152,6 @@
       <td><b>10.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L48">Find Names of All Employees </a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td><b>11.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L53">Find All Employees Without Manager</a></td>
@@ -172,8 +164,6 @@
       <td><b>15.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L79">Sort Employees Table</a></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td><b>16.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L87">Create View Employees with Salaries</a></td>
@@ -186,8 +176,6 @@
       <td><b>20.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L110">Last 7 Hired Employees</a></td>
     </tr>
-  </tbody>
-    <tbody>
     <tr>
       <td><b>21.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L117">Increase Salaries</a></td>
@@ -199,6 +187,85 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L140">Countries and Currency (Euro / Not Euro)</a></td>
       <td><b>25.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/abeb03179259538e19b26797df06e1498c6bff2e/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/02.Basic%20CRUD/Exercise.sql#L150">All Diablo Characters</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions">03. Built-In Functions</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Lab.sql#L1">Obfuscate CC Numbers</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Lab.sql#L9">Pallets</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Lab.sql#L17">Quarterly Report</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L1">Find Names of All Employees by First Name</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L9">Find Names of All employees by Last Name</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L15">Find First Names of All Employees</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L20">Find All Employees Except Engineers</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L26">Find Towns with Name Length</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L32">Find Towns Starting With</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L39">Find Towns Not Starting With</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L46">Create View Employees Hired After 2000 Year</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L53">Length of Last Name</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L59">Rank Employees by Salary</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L69">Find All Employees with Rank 2</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L83">Countries Holding ‘A’ 3 or More Times</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L92">Mix of Peak and River Names</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L100">Games from 2011 and 2012 year</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L109">User Email Providers</a></td>
+    </tr>
+    <tr>
+      <td><b>16.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L115">Get Users with IPAdress Like Pattern</a></td>
+      <td><b>17.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L122">Show All Games with Duration and Part of the Day</a></td>
+      <td><b>18.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L141">Orders Table</a></td>
+      <td><b>19.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/271f3ab5336c18f2b5128e4fce40f1eb93c53304/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/03.Built-In%20Functions/Exercise.sql#L150">People Table</a></td>
+      <td colspan="2"></td>
     </tr>
   </tbody>
 </table>
