@@ -269,3 +269,78 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation">04. Data Aggregation</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Lab.sql#L1">Departments Total Salaries</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L1">Record's Count</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L8">Longest Magic Wand</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L12">Longest Magic Wand per Deposit Groups</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L18">Smallest Deposit Group per Magic Wand Size</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L24">Deposits Sum</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L30">Deposits Sum for Ollivander Family</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L37">Deposits Filter</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L46">Deposit Charge</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L53">Age Groups</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L73">First Letter</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L79">Average Interest</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L88">Rich Wizard, Poor Wizard</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L101">Departments Total Salaries</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L109">Employees Minimum Salaries</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L117">Employees Average Salaries</a></td>
+    </tr>
+    <tr>
+      <td><b>16.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L135">Employees Maximum Salaries</a></td>
+      <td><b>17.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L142">Employees Count Salaries</a></td>
+      <td><b>18.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L147">3rd Highest Salary</a></td>
+      <td><b>19.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/ee1ee6ddb4e3c95741a32ae666a96fd14308bb96/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/04.Data%20Aggregation/Exercise.sql#L159">Salary Challenge</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
