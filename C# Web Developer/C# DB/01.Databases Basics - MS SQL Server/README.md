@@ -344,3 +344,54 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations">05. Table Relations</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Lab.sql">Peaks in Rila</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L1">One-To-One Relationship</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L39">One-To-Many Relationship</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L65">Many-To-Many Relationship</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L100">Self-Referencing</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L123">Online Store Database</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L164">University Database</a></td>
+      <td><b>07.</b></td>
+      <td>SoftUni Design</td>
+      <td><b>08.</b></td>
+      <td>Geography Design</td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/afaa55575143a3a8a7fba38cf0b1218f10103c1c/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/05.Table%20Relations/Exercise.sql#L204">Peaks in Rila</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
