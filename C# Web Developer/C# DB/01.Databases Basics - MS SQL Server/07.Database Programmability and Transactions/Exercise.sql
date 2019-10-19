@@ -344,6 +344,9 @@ EXEC usp_TransferMoney 1, 2, 100
 SELECT * FROM Accounts WHERE Id IN(1, 2)
 
 /*--- TASK 19 -------- TRIGGER ------------------------------------*/
+USE Diablo
+GO
+
 CREATE TRIGGER tr_RestrictItems ON UserGameItems INSTEAD OF INSERT
 AS
 	DECLARE @itemId INT = (SELECT ItemId FROM inserted)
@@ -442,6 +445,9 @@ FROM UserGameItems AS ugi
 WHERE ugi.UserGameId = @gameId;
 
 /*--- TASK 21 -------- EMPLOYEES WITH THREE PROJECTS --------------*/
+USE SoftUni
+GO
+
 CREATE PROCEDURE usp_AssignProject(@emloyeeId INT, @projectID INT)
 AS
 BEGIN 
