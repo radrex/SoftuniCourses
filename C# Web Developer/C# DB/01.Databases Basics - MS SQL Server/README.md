@@ -468,7 +468,7 @@
       <td><b>16.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L171">Countries without any Mountains</a></td>
       <td><b>17.</b></td>
-      <td><a href="hhttps://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L177">Highest Peak and Longest River by Country</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L177">Highest Peak and Longest River by Country</a></td>
       <td><b>18.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L190">Highest Peak Name and Elevation by Country</a></td>
       <td colspan="4"></td>
