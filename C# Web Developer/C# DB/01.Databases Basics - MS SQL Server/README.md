@@ -395,3 +395,83 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="">06. Subqueries and Joins</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Lab.sql#L1">Addresses with Towns</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Lab.sql#L13">Sales Employees</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Lab.sql#L23">Employees Hired After</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Lab.sql#L33">Employees Summary</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Lab.sql#L43">Min Average Salary</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L1">Employee Address</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L13">Addresses with Towns</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L23">Sales Employee</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L33">Employee Departments</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L43">Employees Without Project</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L51">Employees Hired After</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L61">Employees with Project</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L71">Employee 24</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L83">Employee Manager</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L93">Employee Summary</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L103">Min Average Salary</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L113">Highest Peaks in Bulgaria</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L128">Count Mountain Ranges</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L137">Countries with Rivers</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L146">Continents and Currencies</a></td>
+    </tr>
+    <tr>
+      <td><b>16.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L171">Countries without any Mountains</a></td>
+      <td><b>17.</b></td>
+      <td><a href="hhttps://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L177">Highest Peak and Longest River by Country</a></td>
+      <td><b>18.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L190">Highest Peak Name and Elevation by Country</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+</table>
