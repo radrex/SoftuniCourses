@@ -400,7 +400,7 @@
 
 ---
 
-## <a href="">06. Subqueries and Joins</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins">06. Subqueries and Joins</a>
 
 <table>
   <thead>
@@ -472,6 +472,91 @@
       <td><b>18.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/30e8297c18b4619533e9040e0356d31de2f4c7b1/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/06.Subqueries%20and%20Joins/Exercise.sql#L190">Highest Peak Name and Elevation by Country</a></td>
       <td colspan="4"></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions">07. Database Programmability and Transactions</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/a51dc799a69eae43abb61796359e65dafa93654b/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Lab.sql#L1">Salary Level Function</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/a51dc799a69eae43abb61796359e65dafa93654b/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Lab.sql#L26">Employees with Three Projects</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L1">Employees with Salary Above 35000</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L14">Employees with Salary Above Number</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L24">Town Names Starting With</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L33">Employees from Town</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L45">Salary Level Function</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L67">Employees by Salary Level</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L77">Define Function</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L108">Delete Employees and Departments</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L136">Find Full Name</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L147">People with Balance Higher Than</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L160">Future Value Function</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L172">Calculating Interest</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L188">Cash in User Games Odd Rows</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L210">Create Table Logs</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L239">Create Table Emails</a></td>
+    </tr>
+    <tr>
+      <td><b>16.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L268">Deposit Money</a></td>
+      <td><b>17.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L297">Withdraw Money</a></td>
+      <td><b>18.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L334">Money Transfer</a></td>
+      <td><b>19.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L346">Trigger</a></td>
+      <td><b>20.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L364">Massive Shopping</a></td>
+    </tr>
+    <tr>
+      <td><b>21.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L447">Employees with Three Projects</a></td>
+      <td><b>22.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/76a295a1ee2809f36f80b2b0ee26da402d0ffa42/C%23%20Web%20Developer/C%23%20DB/01.Databases%20Basics%20-%20MS%20SQL%20Server/07.Database%20Programmability%20and%20Transactions/Exercise.sql#L479">Delete Employees</a></td>
+      <td colspan="6"></td>
     </tr>
   </tbody>
 </table>
