@@ -17,7 +17,7 @@ The course provides initial programming skills and concepts. This includes basic
 ---
 
 **Tasks written in** :
-- [x] **C#** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Certificate [Programming Basics with C#](https://softuni.bg/certificates/details/68527/2d31282e)**
+- [x] **C#** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Certificate - [Programming Basics with C#](https://softuni.bg/certificates/details/68527/2d31282e)**
 - [ ] **C++**
 - [ ] **PHP**
 - [ ] **Java**
