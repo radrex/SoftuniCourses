@@ -2,7 +2,7 @@
 
 This folder contains various task solutions for the **`Programming Basics`** Course at **[Software University](https://softuni.bg/)**.
 
-The course provides initial programming skills and concepts. This includes basic coding skills, working with integrated development environments **`IDEs`**, using variables and data types, operators and expressions, working with the console (reading input and printing results), use of conditional constructs **`if`**, **`if-else`** and loops **`for`**, **`while`**, **`do-while`**.
+The course provides initial programming skills and concepts. That includes acquiring of basic coding skills, working with integrated development environments **`IDEs`**, using variables and data types, operators and expressions, working with the console (reading input and printing results), use of conditional constructs **`if`**, **`if-else`** and loops **`for`**, **`while`**, **`do-while`**.
 
 ---
 
