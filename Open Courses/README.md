@@ -1,6 +1,6 @@
 # Open Courses
 
-This folder contains different task solutions for **`Open Courses`** at **[Software University](https://softuni.bg/)**.
+This folder contains various task solutions for different **`Open Courses`** at **[Software University](https://softuni.bg/)**.
 
 <details>
   <summary>C Essentials</summary>
