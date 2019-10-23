@@ -4,7 +4,7 @@
     using System.Collections;
     using System.Collections.Generic;
 
-    class CustomStack<T> : IEnumerable<T>
+    public class CustomStack<T> : IEnumerable<T>
     {
         //----------------- Fields -------------------
         private const int InitialCapacity = 4;
