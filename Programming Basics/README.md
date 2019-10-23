@@ -8,8 +8,8 @@ The course provides initial programming skills and concepts. This includes basic
 * Working with the console (input and output)
 * Working with more complex logic checks
 * Perform simple calculations
-* Working with loops **`for`** **`while`** **`do-while`**
-* Working with logical checks **`if`** **`if-else`**
+* Working with loops **`for`**, **`while`**, **`do-while`**
+* Working with logical checks **`if`**, **`if-else`**
 * Working with more complex loops (nested loops)
 
 
