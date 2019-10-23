@@ -10,12 +10,12 @@ The course provides initial programming skills and concepts. This includes basic
 * Perform simple calculations
 * Working with loops `for` `while` `do-while`
 * Working with logical checks `if` `if-else`
-* Working with more complex loops (nested for loops)
+* Working with more complex loops (nested loops)
 
 
 **Tasks written in** :
-- [x] C#
-- [ ] C++      -[x] [Software University](https://softuni.bg/)
+- [x] C#               Cert [Software University](https://softuni.bg/)
+- [ ] C++
 - [ ] PHP
 - [ ] Java
 - [ ] Ruby
