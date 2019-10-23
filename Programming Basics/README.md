@@ -8,7 +8,7 @@ The course provides initial programming skills and concepts. That includes acqui
 
 **Acquired Skills** :
 * Working with the console (input and output)
-* Working with more complex logic checks
+* Working with more complex logical checks
 * Perform simple calculations
 * Working with loops **`for`**, **`while`**, **`do-while`**
 * Working with logical checks **`if`**, **`if-else`**
