@@ -435,7 +435,7 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P07_Tuple">Tuple</a></td>
       <td><b>08.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P08_Threeuple">Threeuple</a></td>
-      <td colspan="2"></td>
+      <td colspan="4"></td>
     </tr>
   </tbody>
 </table>
