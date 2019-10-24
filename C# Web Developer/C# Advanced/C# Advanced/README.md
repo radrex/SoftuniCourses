@@ -385,3 +385,57 @@
     </tr>
   </tbody>
 </table>
+
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics">07. Generics</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Lab/P01_GenericBox/BoxOfT">Generic Box</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Lab/P02_GenericArrayCreator/GenericArrayCreator">Generic Array Creator</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Lab/P03_GenericScale/GenericScale">Generic Scale</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P01_GenericBoxOfString">Generic Box of String</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P02_GenericBoxOfInteger">Generic Box of Integer</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P03_GenericSwapMethodString">Generic Swap Method String</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P04_GenericSwapMethodInteger">Generic Swap Method Integer</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P05_GenericCountMethodString">Generic Count Method String</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P06_GenericCountMethodDouble">Generic Count Method Double</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P07_Tuple">Tuple</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P08_Threeuple">Threeuple</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
