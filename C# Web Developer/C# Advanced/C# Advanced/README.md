@@ -386,7 +386,6 @@
   </tbody>
 </table>
 
-
 <br/>
 
 ---
@@ -436,6 +435,59 @@
       <td><b>08.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/07.Generics/Exercise/P08_Threeuple">Threeuple</a></td>
       <td colspan="4"></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators">08. Iterators and Comparators</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Lab/P01_Library/IteratorsAndComparators">Library</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Lab/P02_LibraryIterator/IteratorsAndComparators">Library Iterator</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Lab/P03_ComparableBook/IteratorsAndComparators">Comparable Book</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Lab/P04_BookComparer/IteratorsAndComparators">Book Comparer</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P01_ListyIterator">Listy Iterator</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P02_Collection">Collection</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P03_Stack">Stack</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P04_Froggy">Froggy</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P05_ComparingObjects">Comparing Objects</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P06_EqualityLogic">Equality Logic</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20Advanced/08.Iterators%20and%20Comparators/Exercise/P07_CustomLinkedList">Custom Linked List</a></td>
+      <td colspan="6"></td>
     </tr>
   </tbody>
 </table>
