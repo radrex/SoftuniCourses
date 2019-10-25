@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "IteratorsAndComparators\IteratorsAndComparators.csproj", "{8350FD14-BEAB-40D2-AE84-FBC292B92E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8350FD14-BEAB-40D2-AE84-FBC292B92E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8350FD14-BEAB-40D2-AE84-FBC292B92E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8350FD14-BEAB-40D2-AE84-FBC292B92E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8350FD14-BEAB-40D2-AE84-FBC292B92E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782788AB-67EB-4352-B74B-5C8258ADE184}
+	EndGlobalSection
+EndGlobal
