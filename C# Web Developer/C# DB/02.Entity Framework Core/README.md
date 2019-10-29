@@ -39,5 +39,28 @@
   </tbody>
 </table>
 
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/02.ORM%20Fundamentals">02. ORM Fundamentals</a>
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/02.ORM%20Fundamentals/MiniORM">MiniORM</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/02.ORM%20Fundamentals/MiniORM.App">MiniORM.App</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+</table>
 
 
