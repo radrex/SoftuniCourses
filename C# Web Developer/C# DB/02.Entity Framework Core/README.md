@@ -62,4 +62,55 @@
   </tbody>
 </table>
 
+<br/>
 
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction">03. Entity Framework Introduction</a>
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td>Import the SoftUni Database</td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni">Database First</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L60">Employees Full Information</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L84">Employees with Salary Over 50 000</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L106">Employees from Research and Development</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L131">Adding a New Address and Updating Employee</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L160">Employees and Projects</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L196">Addresses by Town</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L221">Employee 147</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L244">Departments with More Than 5 Employees</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L279">Find Latest 10 Projects</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L305">Increase Salaries</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L335">Find Employees by First Name Starting With "Sa"</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L358">Delete Project by Id</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L380">Remove Town</a></td>
+    </tr>
+  </tbody>
+</table>
