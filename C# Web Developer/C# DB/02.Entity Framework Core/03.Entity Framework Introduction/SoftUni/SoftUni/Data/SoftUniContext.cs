@@ -19,7 +19,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=DESKTOP-6UES80A\\SQLEXPRESS;Database=SoftUni;Integrated Security=True;");
+                optionsBuilder.UseSqlServer("Server=.\\SQLEXPRESS;Database=SoftUni;Integrated Security=True;");
             }
         }
 
