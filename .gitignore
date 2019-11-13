@@ -2,6 +2,7 @@
 bin/
 obj/
 .vs/
+.user/
 
 //----- CODE BLOCKS ------ (C, C++)
 bin/
