@@ -86,3 +86,49 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation">03. Encapsulation</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Lab/P01_Persons/PersonsInfo/PersonsInfo">Persons</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Lab/P02_Salary/PersonsInfo/PersonsInfo">Salary</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Lab/P03_Validation/PersonsInfo/PersonsInfo">Validation</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Lab/P04_Team/PersonsInfo/PersonsInfo">Team</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Exercise/P01_ClassBoxData">Class Box Data</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Exercise/P02_AnimalFarm/AnimalFarm/AnimalFarm">Animal Farm</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Exercise/P03_ShoppingSpree">Shopping Spree</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Exercise/P04_PizzaCalories">Pizza Calories</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/03.Encapsulation/Exercise/P05_FootballTeamGenerator">Football Team Generator</a></td>
+    </tr>
+  </tbody>
+</table>
