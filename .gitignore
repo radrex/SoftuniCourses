@@ -2,7 +2,7 @@
 bin/
 obj/
 .vs/
-.user/
+*.DotSettings.user
 
 //----- CODE BLOCKS ------ (C, C++)
 bin/
