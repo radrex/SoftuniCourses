@@ -196,7 +196,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="10" style="text-align:center;">Lab</th>
+      <th colspan="6" style="text-align:center;">Lab</th>
     </tr>
   </thead>
   <tbody>
@@ -207,12 +207,11 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/05.Polymorphism/Lab/P02_Animals/Animals/Animals">Animals</a></td>
       <td><b>03.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/05.Polymorphism/Lab/P03_Shapes/Shapes/Shapes">Shapes</a></td>
-      <td colspan="4"></td>
     </tr>
   </tbody>
   <thead>
     <tr>
-      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+      <th colspan="6" style="text-align:center;"><br>Exercise</th>
     </tr>
   </thead>
   <tbody>
@@ -223,7 +222,6 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/05.Polymorphism/Exercise/P02_VehiclesExtension">Vehicles Extension</a></td>
       <td><b>03.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/05.Polymorphism/Exercise/P03_WildFarm">Wild Farm</a></td>
-      <td colspan="4"></td>
     </tr>
   </tbody>
 </table>
