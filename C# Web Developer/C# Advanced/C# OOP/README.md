@@ -226,3 +226,51 @@
   </tbody>
 </table>
 
+
+<br/>
+
+---
+
+## <a href="">06. SOLID</a>
+
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes">07. Reflection and Attributes</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Lab/P01_Stealer">Stealer</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Lab/P02_HighQualityMistakes">High Quality Mistakes</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Lab/P03_MissionPrivateImpossible">Mission Private Impossible</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Lab/P04_Collector">Collector</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Lab/P05_CreateAttribute">CreateAttribute</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Lab/P06_CodeTracker">Code Tracker</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
