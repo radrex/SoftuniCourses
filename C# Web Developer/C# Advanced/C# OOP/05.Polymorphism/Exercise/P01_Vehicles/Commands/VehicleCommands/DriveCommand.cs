@@ -16,7 +16,8 @@
         //----------------- Methods --------------------
         public override void Run(string[] args)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("For testing purposes");
+            //throw new NotImplementedException(); -> Liskov Substitution Violation if thrown...
         }
 
         public override void Run(string[] args, ICollection<Vehicle> vehicles)

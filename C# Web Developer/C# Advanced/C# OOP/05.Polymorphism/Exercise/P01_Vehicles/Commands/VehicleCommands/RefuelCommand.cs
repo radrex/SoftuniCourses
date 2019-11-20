@@ -1,5 +1,6 @@
 ﻿namespace P01_Vehicles.Commands.VehicleCommands
 {
+    using System;
     using System.Collections.Generic;
     using System.Linq;
     using Models;
@@ -15,7 +16,8 @@
         //----------------- Methods --------------------
         public override void Run(string[] args)
         {
-            throw new System.NotImplementedException();
+            Console.WriteLine("For testing purposes");
+            //throw new NotImplementedException(); -> Liskov Substitution Violation if thrown...
         }
 
         public override void Run(string[] args, ICollection<Vehicle> vehicles)
