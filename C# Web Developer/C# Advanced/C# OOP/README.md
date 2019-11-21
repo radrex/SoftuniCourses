@@ -271,6 +271,12 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Exercise/CommandPattern">Command Pattern</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/07.Reflection%20and%20Attributes/Exercise/ValidationAttributes">Validation Attributes</a></td>
+      <td colspan="6"></td>
+    </tr>
   </tbody>
 </table>
