@@ -231,8 +231,64 @@
 
 ---
 
-## <a href="">06. SOLID</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID">06. SOLID</a>
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Demo%20Before-After/01.%20SRP">SRP</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Demo%20Before-After/02.%20OCP">OCP</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Demo%20Before-After/03.%20Liskov%20Substitution">Liskov Substitution</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Demo%20Before-After/04.%20ISP">ISP</a></td> 
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Demo%20Before-After/05.%20DIP">DIP</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="8" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P01_StreamProgress-Before">Stream Progress - BEFORE</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P02_GraphicEditor-Before">Graphic Editor - BEFORE</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P03_DetailPrinter-Before">Details Printer - BEFORE</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P04_Recharge-Before">Recharge - BEFORE</a></td>
+    </tr>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P01_StreamProgress-After">Stream Progress - AFTER</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P02_GraphicEditor-After">Graphic Editor - AFTER</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P03_DetailPrinter-After">Details Printer - AFTER</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P04_Recharge-After">Recharge - AFTER</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
 
 <br/>
 
