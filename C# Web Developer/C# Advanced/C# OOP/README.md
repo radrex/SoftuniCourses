@@ -255,7 +255,7 @@
   </tbody>
   <thead>
     <tr>
-      <th colspan="8" style="text-align:center;">Lab</th>
+      <th colspan="10" style="text-align:center;">Lab</th>
     </tr>
   </thead>
   <tbody>
@@ -268,6 +268,7 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P03_DetailPrinter-Before">Details Printer - BEFORE</a></td>
       <td><b>04.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P04_Recharge-Before">Recharge - BEFORE</a></td>
+      <td colspan="2"></td>
     </tr>
     <tr>
       <td><b>01.</b></td>
@@ -278,6 +279,7 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P03_DetailPrinter-After">Details Printer - AFTER</a></td>
       <td><b>04.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/06.SOLID/Lab/P04_Recharge-After">Recharge - AFTER</a></td>
+      <td colspan="2"></td>
     </tr>
   </tbody>
   <thead>
