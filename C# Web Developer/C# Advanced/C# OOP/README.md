@@ -338,3 +338,38 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling">08. Exceptions and Error Handling</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P01_SquareRoot">Square Root</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P02_EnterNumbers/StartUp.cs">Enter Numbers</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P03_Fixing/StartUp.cs">Fixing</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P04_FixingVol2/StartUp.cs">Fixing Vol 2</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P05_ConvertToDouble/StartUp.cs">Convert to Double</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P06_ValidPerson">Valid Person</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/08.Exceptions%20and%20Error%20Handling/P07_CustomException">Custom Exception</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+</table>
