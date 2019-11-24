@@ -282,14 +282,6 @@
       <td colspan="2"></td>
     </tr>
   </tbody>
-  <thead>
-    <tr>
-      <th colspan="10" style="text-align:center;"><br>Exercise</th>
-    </tr>
-  </thead>
-  <tbody>
-
-  </tbody>
 </table>
 
 <br/>
