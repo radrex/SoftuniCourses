@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20191129022006_InitialMigration.cs" />
+    <Compile Remove="Data\Migrations\20191129022006_InitialMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20191129141628_ProductsMigration.cs" />
+    <Compile Remove="Data\Migrations\20191129141628_ProductsMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20191129142219_SalesAndDateDefaultMigration.cs" />
+    <Compile Remove="Data\Migrations\20191129142219_SalesAndDateDefaultMigration.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
