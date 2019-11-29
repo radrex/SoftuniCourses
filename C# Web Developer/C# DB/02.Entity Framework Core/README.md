@@ -45,7 +45,6 @@
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/02.ORM%20Fundamentals">02. ORM Fundamentals</a>
 
-
 <table>
   <thead>
     <tr>
@@ -67,7 +66,6 @@
 ---
 
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction">03. Entity Framework Introduction</a>
-
 
 <table>
   <thead>
@@ -111,6 +109,46 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L358">Delete Project by Id</a></td>
       <td><b>15.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/2479ba894e3a3a671bb591ae023fe09b7b49bfeb/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/03.Entity%20Framework%20Introduction/SoftUni/SoftUni/StartUp.cs#L380">Remove Town</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First">04. Code-First</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First/Lab/Forum">Forum</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First/Exercise/P01_HospitalDatabase">Hospital Database</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First/Exercise/P01_HospitalDatabase">Hospital Database Modification</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First/Exercise/P03_SalesDatabase">Sales Database</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First/Exercise/P03_SalesDatabase">Products Migration</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/04.Code-First/Exercise/P03_SalesDatabase">Sales Migration</a></td>
     </tr>
   </tbody>
 </table>
