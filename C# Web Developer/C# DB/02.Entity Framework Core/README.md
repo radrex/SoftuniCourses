@@ -152,3 +152,39 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/05.Entity%20Relations">05. Entity Relations</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/05.Entity%20Relations/Lab">Cars</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/05.Entity%20Relations/Exercise/P01_StudentSystem">Student System</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/05.Entity%20Relations/Exercise/P01_StudentSystem/StartUp.cs">Seed Some Data in the Database</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/05.Entity%20Relations/Exercise/P03_FootballBetting">Football Betting</a></td>
+    </tr>
+  </tbody>
+</table>
