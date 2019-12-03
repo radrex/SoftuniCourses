@@ -188,3 +188,55 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying">06. Advanced Querying</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L38">Age Restriction</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L54">Golden Books</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L72">Books by Price</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L89">Not Released In</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L106">Book Titles by Category</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L123">Released Before Date</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L144">Author Search</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L160">Book Search</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L173">Book Search by Author</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L191">Count Books</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L197">Total Book Copies</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L213">Profit by Category</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L230">Most Recent Books</a></td>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L261">Increase Prices</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/d57f4b4a9c43fea35527c8d922f50e31bc98f8cc/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/06.Advanced%20Querying/BookShop/StartUp.cs#L271">Remove Books</a></td>
+    </tr>
+  </tbody>
+</table>
