@@ -240,3 +240,23 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/07.C%23%20Auto%20Mapping%20Objects">07. C# Auto Mapping Objects</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/07.C%23%20Auto%20Mapping%20Objects">Fast Food</a></td>
+    </tr>
+  </tbody>
+</table>
