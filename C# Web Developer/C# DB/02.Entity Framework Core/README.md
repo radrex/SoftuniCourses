@@ -265,7 +265,7 @@
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing">08. 08.JSON Processing</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing">08. JSON Processing</a>
 
 <table>
   <thead>
