@@ -260,3 +260,50 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing">08. C# Auto Mapping Objects</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Product Shop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L86">Import Users</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L95">Import Products</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L104">Import Categories</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L114">Import Categories and Products</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L147">Export Products In Range</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L212">Export Sold Products</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L246">Export Categories By Products Count</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/c046d0c0bac953d70c557dba22c1824102ae0db1/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/ProductShop/StartUp.cs#L270">Export Users and Products</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Car Dealer</th>
+    </tr>
+  </thead>
+</table>
