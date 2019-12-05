@@ -306,4 +306,35 @@
       <th colspan="10" style="text-align:center;">Car Dealer</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L96">Import Suppliers</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L105">Import Parts</a></td>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L117">Import Cars</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L153">Import Customers</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L162">Import Sales</a></td>
+    </tr>
+    <tr>
+      <td><b>14.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L171">Export Ordered Customers</a></td>
+      <td><b>15.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L190">Export Cars From Make Toyota</a></td>
+      <td><b>16.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L216">Export Local Suppliers</a></td>
+      <td><b>17.</b></td>
+      <td><a href="">Export Cars With Their List Of Parts</a></td>
+      <td><b>18.</b></td>
+      <td><a href="">Export Total Sales By Customer</a></td>
+    </tr>
+    <tr>
+      <td><b>19.</b></td>
+      <td><a href="">Export Total Sales By Customer</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
 </table>
