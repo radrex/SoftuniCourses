@@ -327,13 +327,13 @@
       <td><b>16.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/4fdafccecc987927dec3454834d9f3fe2d6ccb8d/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/08.JSON%20Processing/CarDealer/StartUp.cs#L216">Export Local Suppliers</a></td>
       <td><b>17.</b></td>
-      <td><a href="">Export Cars With Their List Of Parts</a></td>
+      <td>Export Cars With Their List Of Parts</td>
       <td><b>18.</b></td>
-      <td><a href="">Export Total Sales By Customer</a></td>
+      <td>Export Total Sales By Customer</td>
     </tr>
     <tr>
       <td><b>19.</b></td>
-      <td><a href="">Export Total Sales By Customer</a></td>
+      <td>Export Total Sales By Customer</td>
       <td colspan="8"></td>
     </tr>
   </tbody>
