@@ -338,3 +338,53 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing">09. XML Processing</a>
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Product Shop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L87">Import Users</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L132">Import Products</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L178">Import Categories</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L223">Import Categories and Products</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L267">Export Products In Range</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L298">Export Sold Products</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L330">Export Categories By Products Count</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/70c23cb555f6020b77ce8566445d0576500203b5/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/09.XML%20Processing/ProductShop/StartUp.cs#L356">Export Users and Products</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Car Dealer</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
