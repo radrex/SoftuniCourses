@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Customers>
+  <Customer FirstName="Jerrie" LastName="O\'Carroll">
+    <SpentMoney>67.13</SpentMoney>
+    <SpentTime>13:40:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Randi" LastName="Ferraraccio">
+    <SpentMoney>63.39</SpentMoney>
+    <SpentTime>17:42:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Duff" LastName="Honig">
+    <SpentMoney>59.65</SpentMoney>
+    <SpentTime>13:06:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Bondy" LastName="Linsay">
+    <SpentMoney>39.26</SpentMoney>
+    <SpentTime>08:32:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Boris" LastName="Bennike">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>06:06:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Garreth" LastName="Leys">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>04:04:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Trudi" LastName="Whitlock">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>04:16:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Lloyd" LastName="Guerrieri">
+    <SpentMoney>20.13</SpentMoney>
+    <SpentTime>02:12:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Merle" LastName="Pinnell">
+    <SpentMoney>20.13</SpentMoney>
+    <SpentTime>04:28:00</SpentTime>
+  </Customer>
+  <Customer FirstName="Tilda" LastName="Laugherane">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>04:48:00</SpentTime>
+  </Customer>
+</Customers>
