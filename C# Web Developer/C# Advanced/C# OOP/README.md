@@ -398,6 +398,14 @@
     </tr>
   </thead>
   <tbody>
-
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/09.Unit%20Testing/Exercise/Database.Tests/DatabaseTests.cs">Database</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/09.Unit%20Testing/Exercise/DatabaseExtended.Tests/ExtendedDatabase.Tests.cs">Extended Database</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/09.Unit%20Testing/Exercise/CarManager.Tests/CarTests.cs">Car Manager</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/09.Unit%20Testing/Exercise/FightingArena.Tests">Fighting Arena</a></td>
+      <td colspan="2"></td>
   </tbody>
 </table>
