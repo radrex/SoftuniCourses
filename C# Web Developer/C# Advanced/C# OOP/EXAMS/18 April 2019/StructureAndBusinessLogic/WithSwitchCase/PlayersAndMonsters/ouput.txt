@@ -1,0 +1,51 @@
+Successfully added player of type Beginner with username: handyUser33
+Successfully added player of type Advanced with username: cool11
+Successfully added player of type Beginner with username: testUser
+Successfully added player of type Advanced with username: goro5
+Successfully added player of type Beginner with username: ivan12
+Successfully added player of type Advanced with username: goerge00
+Successfully added player of type Advanced with username: userUser
+Successfully added player of type Beginner with username: fakeAccount123
+Successfully added card of type TrapCard with name: Cyber
+Successfully added card of type MagicCard with name: Sorcerer
+Successfully added card of type TrapCard with name: Iris
+Successfully added card of type TrapCard with name: Jar
+Successfully added card of type MagicCard with name: Blaster
+Successfully added card of type TrapCard with name: Scientist
+Successfully added card of type MagicCard with name: Plushfire
+Successfully added card of type MagicCard with name: Substitoad
+Successfully added card of type TrapCard with name: Neptune
+Successfully added card: Cyber to user: handyUser33
+Successfully added card: Blaster to user: handyUser33
+Successfully added card: Neptune to user: handyUser33
+Successfully added card: Iris to user: ivan12
+Successfully added card: Scientist to user: ivan12
+Successfully added card: Plushfire to user: ivan12
+Successfully added card: Plushfire to user: goro5
+Successfully added card: Neptune to user: userUser
+Attack user health 180 - Enemy user health 0
+Attack user health 0 - Enemy user health 150
+Username: handyUser33 - Health: 180 - Cards 3
+Card: Cyber - Damage: 150
+Card: Blaster - Damage: 35
+Card: Neptune - Damage: 150
+###
+Username: cool11 - Health: 250 - Cards 0
+###
+Username: testUser - Health: 50 - Cards 0
+###
+Username: goro5 - Health: 0 - Cards 1
+Card: Plushfire - Damage: 35
+###
+Username: ivan12 - Health: 0 - Cards 3
+Card: Iris - Damage: 150
+Card: Scientist - Damage: 150
+Card: Plushfire - Damage: 35
+###
+Username: goerge00 - Health: 250 - Cards 0
+###
+Username: userUser - Health: 150 - Cards 1
+Card: Neptune - Damage: 150
+###
+Username: fakeAccount123 - Health: 50 - Cards 0
+###
