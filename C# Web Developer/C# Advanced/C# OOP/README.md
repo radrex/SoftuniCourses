@@ -31,7 +31,23 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/01.Working%20with%20Abstraction/Exercise/P01_RawData">Raw Data</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/01.Working%20with%20Abstraction/Exercise/P02_CarSalesman">Car Salesman</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/01.Working%20with%20Abstraction/Exercise/P03_JediGalaxy">Jedi Galaxy</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/01.Working%20with%20Abstraction/Exercise/P04a_Hospital">Hospital</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/01.Working%20with%20Abstraction/Exercise/P05_GreedyTimes">Greedy Times</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/01.Working%20with%20Abstraction/Exercise/P06_Sneaking">Sneaking</a></td>
+      <td colspan="8"></td>
+    </tr>
   </tbody>
 </table>
 
