@@ -461,7 +461,7 @@
 
 ---
 
-## <a href="">11. Design Patterns</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Advanced/C%23%20OOP/11.Design%20Patterns">11. Design Patterns</a>
 
 <table>
   <thead>
