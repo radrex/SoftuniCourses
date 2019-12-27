@@ -416,3 +416,52 @@
     </tr>
   </tbody>
 </table>
+
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns">10. Design Patterns</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align:center;">Creational Patterns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/Prototype">Prototype Pattern</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/SingletonDemo">Singleton Pattern</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align:center;">Structural Patterns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/Composite">Composite Pattern</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/FacadeDemo">Facade Pattern</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align:center;">Behavioral Patterns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/CommandPatternDemo">Command Pattern</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/TemplatePattern">Template Pattern</a></td>
+    </tr>
+  </tbody>
+</table>
