@@ -417,7 +417,6 @@
   </tbody>
 </table>
 
-
 <br/>
 
 ---
@@ -462,6 +461,37 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/CommandPatternDemo">Command Pattern</a></td>
       <td><b>02.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/10.Design%20Patterns/TemplatePattern">Template Pattern</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture">11. Best Practices And Architecture</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="5" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="5" style="text-align:center;"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore">Pet Store</a></td>
+    </tr>
+    <tr>
+      <td colspan="1" style="text-align:center;">App</td>
+      <td colspan="2" style="text-align:center;">Data</td>
+      <td colspan="2" style="text-align:center;">Services</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/PetStore">App</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Data/PetStore.Data.Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Data/PetStore.Data">Data</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Services/PetStore.Services.Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Services/PetStore.Services">Services</a></td>
     </tr>
   </tbody>
 </table>
