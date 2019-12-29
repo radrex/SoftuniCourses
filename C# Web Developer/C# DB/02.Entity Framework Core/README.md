@@ -482,9 +482,9 @@
       <td colspan="5" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore">Pet Store</a></td>
     </tr>
     <tr>
-      <td colspan="1" align="center">App</td>
-      <td colspan="2" align="center">Data</td>
-      <td colspan="2" align="center">Services</td>
+      <td colspan="1" align="center"><b>App</b></td>
+      <td colspan="2" align="center"><b>Data</b></td>
+      <td colspan="2" align="center"><b>Services</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/PetStore">App</a></td>
