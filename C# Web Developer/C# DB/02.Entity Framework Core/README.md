@@ -475,13 +475,18 @@
   <thead>
     <tr>
       <th colspan="5" style="text-align:center;">Lab</th>
+      <th colspan="5" style="text-align:center;">Exercise</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td colspan="5" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore">Pet Store</a></td>
+      <td colspan="5" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Exercise/PetStore">Pet Store</a></td>
     </tr>
     <tr>
+      <td colspan="1" align="center"><b>App</b></td>
+      <td colspan="2" align="center"><b>Data</b></td>
+      <td colspan="2" align="center"><b>Services</b></td>
       <td colspan="1" align="center"><b>App</b></td>
       <td colspan="2" align="center"><b>Data</b></td>
       <td colspan="2" align="center"><b>Services</b></td>
@@ -492,6 +497,11 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Data/PetStore.Data">Data</a></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Services/PetStore.Services.Models">Models</a></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Lab/PetStore/Services/PetStore.Services">Services</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Exercise/PetStore/PetStore">App</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Exercise/PetStore/Data/PetStore.Data.Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Exercise/PetStore/Data/PetStore.Data">Data</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Exercise/PetStore/Services/PetStore.Services.Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/11.Best%20Practices%20And%20Architecture/Exercise/PetStore/Services/PetStore.Services">Services</a></td>
     </tr>
   </tbody>
 </table>
