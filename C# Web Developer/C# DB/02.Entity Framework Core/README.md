@@ -509,3 +509,56 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core">12. Workshop - ASP.NET Core</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="8" style="text-align:center;">Lab</th>
+      <th></th>
+      <th colspan="8" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="8" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore">Pet Store</a></td>
+      <td></td>
+      <td colspan="8" align="center"><a href="">Pet Store</a></td>
+    </tr>
+    <tr>
+      <td colspan="1" align="center"><b>App</b></td>
+      <td colspan="2" align="center"><b>Data</b></td>
+      <td colspan="2" align="center"><b>Services</b></td>
+      <td colspan="3" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Web/PetStore.Web"><b>Web</b></a></td>
+      <td></td>
+      <td colspan="1" align="center"><b>App</b></td>
+      <td colspan="2" align="center"><b>Data</b></td>
+      <td colspan="2" align="center"><b>Services</b></td>
+      <td colspan="3" align="center"><a href=""><b>Web</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/PetStore">App</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Data/PetStore.Data.Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Data/PetStore.Data">Data</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Services/PetStore.Services.Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Services/PetStore.Services">Services</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Web/PetStore.Web/Models">Models</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Web/PetStore.Web/Controllers">Controllers</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20DB/02.Entity%20Framework%20Core/12.Workshop%20-%20ASP.NET%20Core/Lab/PetStore/Web/PetStore.Web/Views">Views</a></td>
+      <td></td>
+      <td><a href="">App</a></td>
+      <td><a href="">Models</a></td>
+      <td><a href="">Data</a></td>
+      <td><a href="">Models</a></td>
+      <td><a href="">Services</a></td>
+      <td><a href="">Models</a></td>
+      <td><a href="">Controllers</a></td>
+      <td><a href="">Views</a></td>
+    </tr>
+  </tbody>
+</table>
