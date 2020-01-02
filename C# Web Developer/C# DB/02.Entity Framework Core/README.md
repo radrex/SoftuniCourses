@@ -519,9 +519,9 @@
 <table>
   <thead>
     <tr>
-      <th colspan="8" style="text-align:left;">Lab</th>
+      <th colspan="8" align="left">Lab</th>
       <th></th>
-      <th colspan="8" style="text-align:left;">Exercise</th>
+      <th colspan="8" align="left"">Exercise</th>
     </tr>
   </thead>
   <tbody>
