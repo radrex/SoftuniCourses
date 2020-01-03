@@ -16,7 +16,7 @@ This folder contains various task solutions for the **`C# Advanced`** and **`C# 
 * Application of functional programming
 * Creating template classes
 
-[x] **Certificate -> [C# Advanced](https://softuni.bg/certificates/details/72181/88d6e5dc)**
+- [x] **Certificate -> [C# Advanced](https://softuni.bg/certificates/details/72181/88d6e5dc)**
 
 <details>
   <summary><b>Certificate jpg</b></summary>
@@ -44,7 +44,7 @@ This folder contains various task solutions for the **`C# Advanced`** and **`C# 
 * Understanding and applying the five SOLID principles
 * Component Testing
 
-[x] **Certificate -> [C# OOP](https://softuni.bg/certificates/details/75337/0794fd53)**
+- [x] **Certificate -> [C# OOP](https://softuni.bg/certificates/details/75337/0794fd53)**
 
 <details>
   <summary><b>Certificate jpg</b></summary>
