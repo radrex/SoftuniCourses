@@ -24,4 +24,11 @@ The course provides initial programming skills and concepts. That includes acqui
 - [ ] **Ruby**
 - [ ] **Python**
 
+<details>
+  <summary><b>Programming Basics with C# Certificate jpg</b></summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/radrex/SoftuniCourses/master/certificates/Programming%20Basics%20C%23.jpg">
+  </p>
+</details>
 
+---

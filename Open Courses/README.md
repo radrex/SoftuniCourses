@@ -22,4 +22,10 @@ This folder contains various task solutions for different **`Open Courses`** at 
   **Tasks written in** :
   - [x] **C** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Certificate - [C Essentials](https://softuni.bg/certificates/details/70755/fe31bc16)**
 
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/radrex/SoftuniCourses/master/certificates/C%20Essentials.jpg">
+  </p>
+
+---
+
 </details>

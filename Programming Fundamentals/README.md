@@ -24,4 +24,11 @@ The course develops algorithmic thinking and builds problem-solving skills. It i
 - [ ] **Ruby**
 - [ ] **Python**
 
+<details>
+  <summary><b>Programming Fundamentals with C# Certificate jpg</b></summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/radrex/SoftuniCourses/master/certificates/C%23%20Fundamentals.jpg">
+  </p>
+</details>
 
+---
