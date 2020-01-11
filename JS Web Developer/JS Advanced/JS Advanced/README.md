@@ -42,6 +42,29 @@
       <th colspan="10" style="text-align:center;"><br>Exercise</th>
     </tr>
   </thead>
-  <tbody>    
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p01_Fruit.js">Fruit</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p02_GreatestCommonDivisor.js">Greatest Common Divisor – GCD</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p03_SameNumbers.js">Same Numbers</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p04_TimeToWalk.js">Time to Walk</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p05_CalorieObject.js">Calorie Object</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p06_RoadRadar.js">Road Radar</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p07_CookingByNumbers.js">Cooking by Numbers</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p08_ValidityChecker.js">Validity Checker</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/01.Syntax%2C%20Functions%20and%20Statements/Exercise/p09_CoffeeMachine.js">CoffeeMachine</a></td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
 </table>
