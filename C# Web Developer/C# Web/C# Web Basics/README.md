@@ -9,7 +9,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="8" style="text-align:left;">Softuni Information Services (SIS)></th>
+      <th colspan="8" style="text-align:left;">Softuni Information Services (SIS)</th>
     </tr>
   </thead>
   <tbody>
