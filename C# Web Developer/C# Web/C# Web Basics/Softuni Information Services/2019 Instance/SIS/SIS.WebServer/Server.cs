@@ -5,6 +5,7 @@
     using System;
     using System.Net;
     using System.Net.Sockets;
+    using System.Threading.Tasks;
 
     /// <summary>
     /// A wrapper class for the TCP connection. It uses a TcpListener to capture Client connections and then passes them to the ConnectionHandler, which processes them.
@@ -34,7 +35,6 @@
         }
 
         //--------------------------- PUBLIC METHODS ----------------------------
-        //TODO: Async - Run(), Listen() 
         /// <summary>
         /// Starts the listening process. Should be asynchronous to ensure concurrent client functionality.
         /// </summary>
@@ -49,8 +49,8 @@
             {
                 Console.WriteLine("Waiting for client...");
 
-                Socket client = this.tcpListener.AcceptSocket();
-                this.Listen(client);
+                Socket client = this.tcpListener.AcceptSocketAsync().GetAwaiter().GetResult();
+                Task.Run(() => Listen(client));
             }
         }
 
@@ -60,10 +60,10 @@
         /// then client and routing table are passed to it, so that the Request can be processed.
         /// </summary>
         /// <param name="client">Client Socket</param>
-        private void Listen(Socket client)
+        private async Task Listen(Socket client)
         {
             ConnectionHandler connectionHandler = new ConnectionHandler(client, this.serverRoutingTable);
-            connectionHandler.ProcessRequest();
+            await connectionHandler.ProcessRequestAsync();
         }
     }
 }

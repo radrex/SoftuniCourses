@@ -13,6 +13,7 @@
     using System;
     using System.Net.Sockets;
     using System.Text;
+    using System.Threading.Tasks;
 
     /// <summary>
     /// A client connection processor. It receives the connection, extracts the request string data from it, processes it using the routing table,
@@ -41,13 +42,13 @@
 
         //--------------------------- PUBLIC METHODS ----------------------------
         /// <summary>
-        /// Contains the main functionality of the class. It uses the other methods to read the request, handle it, generate a response, send it to the client, and finally close the connection.
+        /// Asynchronous method which, contains the main functionality of the class. It uses the other methods to read the request, handle it, generate a response, send it to the client, and finally close the connection.
         /// </summary>
-        public void ProcessRequest()
+        public async Task ProcessRequestAsync()
         {
             try
             {
-                IHttpRequest httpRequest = this.ReadRequest();
+                IHttpRequest httpRequest = await this.ReadRequestAsync();
 
                 if (httpRequest != null)
                 {
@@ -74,14 +75,14 @@
         /// Requests are limited to 1024 bytes.
         /// </summary>
         /// <returns>HTTP Request interface</returns>
-        private IHttpRequest ReadRequest()
+        private async Task<IHttpRequest> ReadRequestAsync()
         {
             StringBuilder result = new StringBuilder();
             ArraySegment<byte> data = new ArraySegment<byte>(new byte[1024]);
 
             while (true)
             {
-                int readBytes = this.client.Receive(data.Array, SocketFlags.None);
+                int readBytes = await this.client.ReceiveAsync(data, SocketFlags.None);
                 if (readBytes == 0)
                 {
                     break;
