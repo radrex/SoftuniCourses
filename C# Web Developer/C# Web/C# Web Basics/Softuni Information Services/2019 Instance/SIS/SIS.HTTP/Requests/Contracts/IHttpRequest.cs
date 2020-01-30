@@ -2,6 +2,7 @@
 {
     using Enums;
     using Headers.Contracts;
+    using Cookies.Contracts;
 
     using System.Collections.Generic;
 
@@ -15,6 +16,7 @@
         Dictionary<string, object> FormData { get; }
         Dictionary<string, object> QueryData { get; }
         IHttpHeaderCollection Headers { get; }
+        IHttpCookieCollection Cookies { get; }
         HttpRequestMethod RequestMethod { get; }
     }
 }

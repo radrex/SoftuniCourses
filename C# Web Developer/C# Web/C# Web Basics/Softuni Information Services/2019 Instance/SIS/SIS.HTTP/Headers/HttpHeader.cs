@@ -7,6 +7,9 @@
     /// </summary>
     public class HttpHeader
     {
+        //-------------------------- CONSTANTS ---------------------------
+        public const string Cookie = "Cookie";
+
         //------------------------- CONSTRUCTORS -------------------------
         /// <summary>
         /// Creates new instance for HttpHeader with key and value, throws ArgumentException if passed parameters are invalid.

@@ -7,10 +7,8 @@
     {
         public IHttpResponse Home(IHttpRequest request)
         {
+            //TODO: Cookies not loading in browser, but instead shows on html page.
             return this.View();
-
-            //string content = "<h1>Hello, World!</h1>";
-            //return new HtmlResult(content, HttpResponseStatusCode.Ok);
         }
     }
 }

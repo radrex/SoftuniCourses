@@ -4,12 +4,15 @@
     using Common;
     using Headers;
     using Exceptions;
+    using Cookies;
+    using Cookies.Contracts;
     using Headers.Contracts;
     using Requests.Contracts;
 
     using System.Collections.Generic;
     using System;
     using System.Linq;
+
 
     /// <summary>
     /// HTTP Request class containing methods and data for 1.HTTP Request line, 2.HTTP Request headers, 3.HTTP Request body.
@@ -28,8 +31,10 @@
             this.FormData = new Dictionary<string, object>(); // BodyData
             this.QueryData = new Dictionary<string, object>(); // QueryString parameters (QueryStringData)
             this.Headers = new HttpHeaderCollection();  // Headers
+            this.Cookies = new HttpCookieCollection();  // Cookies
 
             this.ParseRequest(requestString);
+
         }
 
         //-------------------------- PROPERTIES --------------------------
@@ -62,6 +67,11 @@
         /// HTTP Request Line Method.
         /// </summary>
         public HttpRequestMethod RequestMethod { get; private set; }
+
+        /// <summary>
+        /// HTTP cookie collection.
+        /// </summary>
+        public IHttpCookieCollection Cookies { get; }
 
         //--------------------------- METHODS ----------------------------
         /// <summary>
@@ -145,9 +155,25 @@
                 throw new BadRequestException();
             }
         }
+
+        /// <summary>
+        /// Parses the HTTP Request cookies and adds them to <c>HttpCookieCollection</c>.
+        /// </summary>
         private void ParseRequestCookies()
         {
-            //TODO: Implement request cookies and document it
+            if (this.Headers.ContainsHeader(HttpHeader.Cookie))
+            {
+                string value = this.Headers.GetHeader(HttpHeader.Cookie).Value;
+                string[] unparsedCookies = value.Split(new string[] { "; " }, StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (string unparsedCookie in unparsedCookies)
+                {
+                    string[] cookieKVP = unparsedCookie.Split(new[] { '=' }, 2);
+                    HttpCookie httpCookie = new HttpCookie(cookieKVP[0], cookieKVP[1], false);
+
+                    this.Cookies.AddCookie(httpCookie);
+                }
+            }
         }
 
         /// <summary>
@@ -220,7 +246,6 @@
             this.ParseRequestPath();
 
             //---- II ---- Parse HTTP Request headers ------
-            //this.ParseRequestHeaders(splitRequestString.Skip(1).ToArray());
             this.ParseRequestHeaders(this.ParsePlainRequestHeaders(splitRequestString).ToArray());
             this.ParseRequestCookies();
 

@@ -3,11 +3,14 @@
     using Enums;
     using Common;
     using Headers;
+    using Cookies;
     using Extensions;
+    using Cookies.Contracts;
     using Headers.Contracts;
     using Responses.Contracts;
 
     using System.Text;
+
 
     /// <summary>
     /// HTTP Response class which holds the response's StatusCode, Headers and Content.
@@ -21,6 +24,7 @@
         public HttpResponse()
         {
             this.Headers = new HttpHeaderCollection();
+            this.Cookies = new HttpCookieCollection();
             this.Content = new byte[0];
         }
 
@@ -50,15 +54,23 @@
         /// </summary>
         public byte[] Content { get; set; }
 
+        /// <summary>
+        /// HTTP cookie collection.
+        /// </summary>
+        public IHttpCookieCollection Cookies { get; }
+
         //--------------------------- METHODS ----------------------------
         /// <summary>
         /// Adds passed HTTP header to collection if valid.
         /// </summary>
         /// <param name="header">HTTP Header</param>
-        public void AddHeader(HttpHeader header)
-        {
-            this.Headers.AddHeader(header);
-        }
+        public void AddHeader(HttpHeader header) => this.Headers.AddHeader(header);
+
+        /// <summary>
+        /// Adds <c>HttpCookie</c> to the <c>HttpCookieCollection</c>.
+        /// </summary>
+        /// <param name="cookie">HTTP Cookie</param>
+        public void AddCookie(HttpCookie cookie) => this.Cookies.AddCookie(cookie);
 
         /// <summary>
         /// Returns the whole HTTP Response as byte[] array.
@@ -98,6 +110,11 @@
               .Append(GlobalConstants.HttpNewLine);
 
             sb.Append(GlobalConstants.HttpNewLine);
+
+            if (this.Cookies.HasCookies())
+            {
+                sb.Append($"{this.Cookies}").Append(GlobalConstants.HttpNewLine);
+            }
 
             return sb.ToString();
         }
