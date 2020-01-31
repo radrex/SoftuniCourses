@@ -28,6 +28,30 @@
 
 ---
 
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance">Softuni Information Services (SIS) 2020 Instance</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="8" style="text-align:left;">Softuni Information Services (SIS)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="8" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS">SIS</a></td>
+    </tr>
+    <tr>
+      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/DemoApp"><b>DemoApp</b></a></td>
+      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/SIS.HTTP"><b>HTTP</b></a></td>
+      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/SIS.MvcFramework"><b>Mvc Framework</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
 ## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Standalone%20Tasks">Standalone Tasks</a>
 
 <table>
