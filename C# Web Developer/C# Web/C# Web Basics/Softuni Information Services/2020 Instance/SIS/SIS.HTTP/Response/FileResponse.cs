@@ -1,7 +1,7 @@
 ﻿namespace SIS.HTTP.Response
 {
     /// <summary>
-    /// Represents an File Response with properties for the <c>Response Status Line</c>, <c>Response Headers</c> and <c>Response Body</c>.
+    /// Represents a File Response with properties for the <c>Response Status Line</c>, <c>Response Headers</c> and <c>Response Body</c>.
     /// </summary>
     public class FileResponse : HttpResponse
     {

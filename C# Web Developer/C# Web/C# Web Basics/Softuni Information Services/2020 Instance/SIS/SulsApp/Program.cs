@@ -1,10 +1,10 @@
-﻿namespace DemoApp
+﻿namespace SulsApp
 {
     using SIS.MvcFramework;
 
     using System.Threading.Tasks;
 
-    public static class Program
+    public class Program
     {
         public static async Task Main()
         {

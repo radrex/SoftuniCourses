@@ -1,6 +1,7 @@
 ﻿namespace SIS.HTTP
 {
     using System;
+    using System.Web;
     using System.Text;
     using System.Collections.Generic;
 
@@ -18,6 +19,8 @@
         {
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
+            this.FormData = new Dictionary<string, string>();
+            this.SessionData = new Dictionary<string, string>();
 
             string[] lines = httpRequestAsString.Split(new string[] { HttpConstants.NewLine }, StringSplitOptions.None);
 
@@ -96,6 +99,17 @@
                     bodyBuilder.AppendLine(line);
                 }
             }
+
+            // creator=Niki&tweetName=Hello!
+            this.Body = bodyBuilder.ToString().Trim('\r', '\n');
+
+            //TODO: Splitting logic can be extracted to new method
+            string[] bodyParts = this.Body.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (string bodyPart in bodyParts)
+            {
+                string[] parameterParts = bodyPart.Split(new char[] { '=' }, 2);
+                this.FormData.Add(HttpUtility.UrlDecode(parameterParts[0]), HttpUtility.UrlDecode(parameterParts[1]));
+            }
         }
 
         //-------------- PROPERTIES --------------
@@ -132,6 +146,12 @@
         /// <summary>
         /// 
         /// </summary>
+        public IDictionary<string, string> FormData { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
         public IDictionary<string, string> SessionData { get; set; }
+
     }
 }
