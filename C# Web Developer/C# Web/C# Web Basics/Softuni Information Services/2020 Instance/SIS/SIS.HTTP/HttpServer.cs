@@ -92,7 +92,7 @@
                 Console.WriteLine($"{request.Method} {request.Path}");
 
                 //----------------- HTTP RESPONSE ----------------
-                Route route = this.routeTable.FirstOrDefault(x => x.HttpMethod == request.Method && x.Path == request.Path); // "/users/login" from Program, list of routes
+                Route route = this.routeTable.FirstOrDefault(x => x.HttpMethod == request.Method && string.Compare(x.Path, request.Path, true) == 0); // "/users/login" from Program, list of routes
                 HttpResponse response;
 
                 if (route == null)

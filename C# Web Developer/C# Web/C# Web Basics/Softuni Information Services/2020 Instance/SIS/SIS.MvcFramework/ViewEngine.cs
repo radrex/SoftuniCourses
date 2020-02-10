@@ -16,8 +16,8 @@
         public string GetHtml(string templateHtml, object model)
         {
             string methodCode = PrepareCSharpCode(templateHtml);
-            string typeName = model.GetType().FullName;
-            if (model.GetType().IsGenericType)
+            string typeName = model?.GetType().FullName ?? "object";
+            if (model?.GetType().IsGenericType == true) // null/true/false  bool?
             {
                 typeName = model.GetType().Name.Replace("`1", string.Empty) + "<" + model.GetType().GenericTypeArguments.First().Name + ">";
             }
@@ -34,6 +34,7 @@ namespace AppViewNamespace
         public string GetHtml(object model)
         {{
             var Model = model as {typeName};
+            object User = null;
             var html = new StringBuilder();
 
 {methodCode}
@@ -53,8 +54,11 @@ namespace AppViewNamespace
             CSharpCompilation compilation = CSharpCompilation.Create("AppViewAssembly")
                                                              .WithOptions(new CSharpCompilationOptions(OutputKind.DynamicallyLinkedLibrary))
                                                              .AddReferences(MetadataReference.CreateFromFile(typeof(IView).Assembly.Location))
-                                                             .AddReferences(MetadataReference.CreateFromFile(typeof(object).Assembly.Location))
-                                                             .AddReferences(MetadataReference.CreateFromFile(model.GetType().Assembly.Location));
+                                                             .AddReferences(MetadataReference.CreateFromFile(typeof(object).Assembly.Location));
+            if (model != null)
+            {
+                compilation.AddReferences(MetadataReference.CreateFromFile(model.GetType().Assembly.Location));
+            }
 
             AssemblyName[] libraries = Assembly.Load(new AssemblyName("netstandard")).GetReferencedAssemblies();
             foreach (AssemblyName library in libraries)
@@ -71,7 +75,6 @@ namespace AppViewNamespace
             {
                 return new ErrorView(compilationResult.Diagnostics.Where(x => x.Severity == DiagnosticSeverity.Error)
                                                                   .Select(x => x.GetMessage()));
-
             }
 
             memoryStream.Seek(0, SeekOrigin.Begin);

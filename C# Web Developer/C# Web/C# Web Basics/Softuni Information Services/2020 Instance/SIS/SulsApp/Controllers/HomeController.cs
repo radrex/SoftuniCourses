@@ -2,12 +2,22 @@
 {
     using SIS.HTTP;
     using SIS.MvcFramework;
+    using SulsApp.ViewModels;
+
+    using System;
 
     public class HomeController : Controller
     {
-        public HttpResponse Index(HttpRequest request)
+        [HttpGet("/")]
+        public HttpResponse Index()
         {
-            return this.View();
+            IndexViewModel viewModel = new IndexViewModel
+            {
+                Message = "Welcome to SULS Platform!",
+                Year = DateTime.UtcNow.Year,
+            };
+
+            return this.View(viewModel);
         }
     }
 }
