@@ -1,0 +1,42 @@
+﻿namespace SulsApp.Services
+{
+    using SulsApp.Models;
+    using System;
+    using System.Linq;
+
+    public class SubmissionsService : ISubmissionsService
+    {
+        private readonly ApplicationDbContext db;
+        private readonly Random random;
+
+        public SubmissionsService(ApplicationDbContext db, Random random)
+        {
+            this.db = db;
+            this.random = random;
+        }
+
+        public void Create(string userId, string problemId, string code)
+        {
+            Problem problem = this.db.Problems.FirstOrDefault(x => x.Id == problemId);
+            Submission submission = new Submission()
+            {
+                CreatedOn = DateTime.UtcNow,
+                UserId = userId,
+                ProblemId = problemId,
+                Code = code,
+                AchievedResult = random.Next(0, problem.Points + 1),
+            };
+
+            this.db.Submissions.Add(submission);
+            this.db.SaveChanges();
+        }
+
+        public void Delete(string id)
+        {
+            //Submission submission = this.db.Submissions.FirstOrDefault(x => x.Id == id);
+            Submission submission = this.db.Submissions.Find(id);
+            this.db.Remove(submission);
+            this.db.SaveChanges();
+        }
+    }
+}

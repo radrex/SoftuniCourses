@@ -12,7 +12,7 @@
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=DESKTOP-6UES80A\SQLEXPRESS;Database=SulsApp;Integrated Security=True;");
+            optionsBuilder.UseSqlServer(@"Server=.;Database=SulsApp;Integrated Security=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
