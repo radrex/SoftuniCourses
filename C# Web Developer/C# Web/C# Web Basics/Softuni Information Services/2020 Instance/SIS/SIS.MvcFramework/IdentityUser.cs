@@ -15,5 +15,7 @@
 
         [Required]
         public string Password { get; set; }
+
+        public IdentityRole Role { get; set; }
     }
 }

@@ -20,6 +20,7 @@
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
             this.FormData = new Dictionary<string, string>();
+            this.QueryData = new Dictionary<string, string>();
             this.SessionData = new Dictionary<string, string>();
 
             string[] lines = httpRequestAsString.Split(new string[] { HttpConstants.NewLine }, StringSplitOptions.None);
@@ -102,13 +103,24 @@
 
             // creator=Niki&tweetName=Hello!
             this.Body = bodyBuilder.ToString().Trim('\r', '\n');
-
-            //TODO: Splitting logic can be extracted to new method
-            string[] bodyParts = this.Body.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
-            foreach (string bodyPart in bodyParts)
+            ParseData(this.FormData, this.Body);
+            this.Query = string.Empty;
+            if (this.Path.Contains("?"))
             {
-                string[] parameterParts = bodyPart.Split(new char[] { '=' }, 2);
-                this.FormData.Add(HttpUtility.UrlDecode(parameterParts[0]), HttpUtility.UrlDecode(parameterParts[1]));
+                string[] parts = this.Path.Split(new char[] { '?' }, 2);
+                this.Path = parts[0];
+                this.Query = parts[1];
+            }
+            ParseData(this.QueryData, this.Query);
+        }
+
+        private void ParseData(IDictionary<string, string> output, string input)
+        {
+            string[] dataParts = input.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
+            foreach (string dataPart in dataParts)
+            {
+                string[] parameterParts = dataPart.Split(new char[] { '=' }, 2);
+                output.Add(HttpUtility.UrlDecode(parameterParts[0]), HttpUtility.UrlDecode(parameterParts[1]));
             }
         }
 
@@ -147,6 +159,16 @@
         /// 
         /// </summary>
         public IDictionary<string, string> FormData { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public string Query { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public IDictionary<string, string> QueryData { get; set; }
 
         /// <summary>
         /// 

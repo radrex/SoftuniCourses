@@ -1,25 +1,27 @@
 ﻿namespace SIS.MvcFramework
 {
     using Microsoft.CodeAnalysis;
-    using Microsoft.CodeAnalysis.Emit;
     using Microsoft.CodeAnalysis.CSharp;
 
     using System;
     using System.IO;
-    using System.Linq;
     using System.Text;
+    using System.Linq;
     using System.Reflection;
     using System.Text.RegularExpressions;
 
     public class ViewEngine : IViewEngine
     {
-        public string GetHtml(string templateHtml, object model)
+        public string GetHtml(string templateHtml, object model, string user)
         {
             string methodCode = PrepareCSharpCode(templateHtml);
-            string typeName = model?.GetType().FullName ?? "object";
-            if (model?.GetType().IsGenericType == true) // null/true/false  bool?
+
+            Type modelType = model?.GetType() ?? typeof(object);
+            string typeName = modelType.FullName;
+
+            if (modelType.IsGenericType)
             {
-                typeName = model.GetType().Name.Replace("`1", string.Empty) + "<" + model.GetType().GenericTypeArguments.First().Name + ">";
+                typeName = GetGenericTypeFullName(modelType);
             }
 
             string code = @$"using System;
@@ -31,10 +33,10 @@ namespace AppViewNamespace
 {{
     public class AppViewCode : IView
     {{
-        public string GetHtml(object model)
+        public string GetHtml(object model, string user)
         {{
             var Model = model as {typeName};
-            object User = null;
+            var User = user;
             var html = new StringBuilder();
 
 {methodCode}
@@ -45,8 +47,28 @@ namespace AppViewNamespace
 }}";
 
             IView view = GetInstanceFromCode(code, model);
-            string html = view.GetHtml(model);
+            string html = view.GetHtml(model, user);
             return html;
+        }
+
+        private string GetGenericTypeFullName(Type modelType)
+        {
+            int argumentCountBeginning = modelType.Name.LastIndexOf('`');
+            string genericModelTypeName = modelType.Name.Substring(0, argumentCountBeginning);
+            string genericTypeFullName = $"{modelType.Namespace}.{genericModelTypeName}";
+            var genericTypeArguments = modelType.GenericTypeArguments.Select(GetGenericTypeArgumentFullName);
+            string modelTypeName = $"{genericTypeFullName}<{string.Join(", ", genericTypeArguments)}>";
+            return modelTypeName;
+        }
+
+        private string GetGenericTypeArgumentFullName(Type genericTypeArgument)
+        {
+            if (genericTypeArgument.IsGenericType)
+            {
+                return GetGenericTypeFullName(genericTypeArgument);
+            }
+
+            return genericTypeArgument.FullName;
         }
 
         private IView GetInstanceFromCode(string code, object model)
@@ -57,11 +79,11 @@ namespace AppViewNamespace
                                                              .AddReferences(MetadataReference.CreateFromFile(typeof(object).Assembly.Location));
             if (model != null)
             {
-                compilation.AddReferences(MetadataReference.CreateFromFile(model.GetType().Assembly.Location));
+                compilation = compilation.AddReferences(MetadataReference.CreateFromFile(model.GetType().Assembly.Location));
             }
 
             AssemblyName[] libraries = Assembly.Load(new AssemblyName("netstandard")).GetReferencedAssemblies();
-            foreach (AssemblyName library in libraries)
+            foreach (var library in libraries)
             {
                 compilation = compilation.AddReferences(MetadataReference.CreateFromFile(Assembly.Load(library).Location));
             }
@@ -70,11 +92,10 @@ namespace AppViewNamespace
 
             using MemoryStream memoryStream = new MemoryStream();
 
-            EmitResult compilationResult = compilation.Emit(memoryStream);
+            var compilationResult = compilation.Emit(memoryStream);
             if (!compilationResult.Success)
             {
-                return new ErrorView(compilationResult.Diagnostics.Where(x => x.Severity == DiagnosticSeverity.Error)
-                                                                  .Select(x => x.GetMessage()));
+                return new ErrorView(compilationResult.Diagnostics.Where(x => x.Severity == DiagnosticSeverity.Error).Select(x => x.GetMessage()));
             }
 
             memoryStream.Seek(0, SeekOrigin.Begin);
@@ -87,9 +108,8 @@ namespace AppViewNamespace
 
         private string PrepareCSharpCode(string templateHtml)
         {
-            Regex cSharpExpressionRegex = new Regex(@"[^\<\""\s]+", RegexOptions.Compiled);
-            string[] supportedOperators = new[] { "if", "for", "foreach", "else" };
-
+            Regex cSharpExpressionRegex = new Regex(@"[^\<\""\s&]+", RegexOptions.Compiled);
+            string[] supportedOpperators = new[] { "if", "for", "foreach", "else" };
             StringBuilder cSharpCode = new StringBuilder();
             StringReader reader = new StringReader(templateHtml);
             string line;
@@ -99,7 +119,7 @@ namespace AppViewNamespace
                 {
                     cSharpCode.AppendLine(line);
                 }
-                else if (supportedOperators.Any(x => line.TrimStart().StartsWith("@" + x)))
+                else if (supportedOpperators.Any(x => line.TrimStart().StartsWith("@" + x)))
                 {
                     int indexOfAt = line.IndexOf("@");
                     line = line.Remove(indexOfAt, 1);
@@ -120,7 +140,7 @@ namespace AppViewNamespace
                         line = after;
                     }
 
-                    currentCSharpLine.AppendLine(line.Replace("\"", "\"\"") + "\");");
+                    currentCSharpLine.Append(line.Replace("\"", "\"\"") + "\");");
                     cSharpCode.AppendLine(currentCSharpLine.ToString());
                 }
             }

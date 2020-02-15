@@ -1,7 +1,6 @@
 ﻿namespace SulsApp
 {
     using SIS.MvcFramework;
-
     using System.Threading.Tasks;
 
     public class Program

@@ -12,7 +12,7 @@
             this.errors = errors;
         }
 
-        public string GetHtml(object model)
+        public string GetHtml(object model, string user)
         {
             StringBuilder html = new StringBuilder();
             html.AppendLine("<h1>View compilation errors:</h1>");
