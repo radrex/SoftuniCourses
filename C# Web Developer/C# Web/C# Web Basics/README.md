@@ -4,47 +4,24 @@
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2019%20Instance">Softuni Information Services (SIS) 2019 Instance</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services">Softuni Information Services (SIS) 2020 Instance</a>
 
 <table>
   <thead>
     <tr>
-      <th colspan="5" style="text-align:left;">Softuni Information Services (SIS)</th>
+      <th colspan="7" style="text-align:left;">Softuni Information Services (SIS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="5" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2019%20Instance/SIS">SIS</a></td>
+      <td colspan="7" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/SIS">SIS</a></td>
     </tr>
     <tr>
-      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2019%20Instance/SIS/SIS.Demo"><b>Demo</b></a></td>
-      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2019%20Instance/SIS/SIS.HTTP"><b>HTTP</b></a></td>
-      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2019%20Instance/SIS/SIS.WebServer"><b>Web Server</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
----
-
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance">Softuni Information Services (SIS) 2020 Instance</a>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="6" style="text-align:left;">Softuni Information Services (SIS)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="6" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS">SIS</a></td>
-    </tr>
-    <tr>
-      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/SulsApp"><b>SulsApp</b></a></td>
-      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/SIS.HTTP"><b>HTTP</b></a></td>
-      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/SIS.MvcFramework"><b>Mvc Framework</b></a></td>
-      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/2020%20Instance/SIS/SIS.MvcFramework.Tests">Mvc Framework Tests</td>
+      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/SIS/SulsApp"><b>SulsApp</b></a></td>
+      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/SIS/IRunes"><b>IRunesApp</b></a></td>
+      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/SIS/SIS.HTTP"><b>HTTP</b></a></td>
+      <td colspan="2" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/SIS/SIS.MvcFramework"><b>Mvc Framework</b></a></td>
+      <td colspan="1" align="center"><a href="https://github.com/radrex/SoftuniCourses/tree/master/C%23%20Web%20Developer/C%23%20Web/C%23%20Web%20Basics/Softuni%20Information%20Services/SIS/SIS.MvcFramework.Tests">Mvc Framework Tests</td>
     </tr>
   </tbody>
 </table>
