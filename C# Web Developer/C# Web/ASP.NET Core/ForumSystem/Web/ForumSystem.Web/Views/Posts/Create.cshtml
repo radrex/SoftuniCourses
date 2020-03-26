@@ -4,6 +4,8 @@
     var categories = Model.Categories.Select(x => new SelectListItem(x.Name, x.Id.ToString()));
 }
 
+<h1>@this.ViewData["Title"]</h1>
+
 <script src="/lib/tinymce/tinymce.min.js" type="text/javascript"></script>
 <script type="text/javascript">
     tinymce.init({
@@ -14,24 +16,23 @@
     });
 </script>
 
-<h1>@this.ViewData["Title"]</h1>
 <form method="post" asp-action="Create">
     <div>
         <label asp-for="Title"></label>
         <input asp-for="Title" class="form-control" />
-        <span asp-validation-for="Title"></span>
+        <span asp-validation-for="Title" class="text-danger"></span>
     </div>
 
     <div>
         <label asp-for="Content"></label>
         <textarea asp-for="Content" class="form-control"></textarea>
-        <span asp-validation-for="Content"></span>
+        <span asp-validation-for="Content" class="text-danger"></span>
     </div>
 
     <div>
         <label asp-for="CategoryId"></label>
         <select asp-for="CategoryId" asp-items="categories" class="form-control"></select>
-        <span asp-validation-for="CategoryId"></span>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
     </div>
     <hr />
     <input type="submit" class="btn btn-primary" />

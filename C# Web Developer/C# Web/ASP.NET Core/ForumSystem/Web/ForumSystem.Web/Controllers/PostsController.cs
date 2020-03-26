@@ -4,6 +4,7 @@
 
     using ForumSystem.Data.Models;
     using ForumSystem.Services.Data;
+    using ForumSystem.Services.Mapping;
     using ForumSystem.Web.ViewModels.Posts;
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Identity;
@@ -24,8 +25,13 @@
 
         public IActionResult ById(int id)
         {
-            // TODO: read the post
-            return this.View();
+            var postViewModel = this.postsService.GetById<PostViewModel>(id);
+            if (postViewModel == null)
+            {
+                return this.NotFound();
+            }
+
+            return this.View(postViewModel);
         }
 
         [Authorize]
@@ -43,6 +49,7 @@
         [Authorize]
         public async Task<IActionResult> Create(PostCreateInputModel input)
         {
+            var post = AutoMapperConfig.MapperInstance.Map<Post>(input);
             if (!this.ModelState.IsValid)
             {
                 return this.View(input);
