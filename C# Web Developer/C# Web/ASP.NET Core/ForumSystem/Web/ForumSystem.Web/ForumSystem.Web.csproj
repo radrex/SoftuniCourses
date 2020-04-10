@@ -44,4 +44,6 @@
     <ProjectReference Include="..\ForumSystem.Web.Infrastructure\ForumSystem.Web.Infrastructure.csproj" />
     <ProjectReference Include="..\ForumSystem.Web.ViewModels\ForumSystem.Web.ViewModels.csproj" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 </Project>
