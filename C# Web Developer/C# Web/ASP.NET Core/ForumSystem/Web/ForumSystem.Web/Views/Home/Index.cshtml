@@ -6,6 +6,9 @@
 
 <div class="text-center">
     <h1 class="display-3">@this.ViewData["Title"]</h1>
+    <cache expires-after="TimeSpan.FromSeconds(10)">
+        <h1 class="display-3">@DateTime.UtcNow</h1>
+    </cache>
 </div>
 
 <div class="row">
