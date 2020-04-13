@@ -9,7 +9,9 @@
     <cache expires-after="TimeSpan.FromSeconds(10)">
         <h1 class="display-3">@DateTime.UtcNow</h1>
     </cache>
+    <a class="btn btn-primary btn-lg" asp-controller="Posts" asp-action="Create">Create new forum post</a>
 </div>
+<hr />
 
 <div class="row">
     @foreach (var category in Model.Categories)
