@@ -1,6 +1,6 @@
 # C# Web Module
 
-This folder contains various task solutions for the **`C# Web Basics`** and **`ASP.NET Core`** Courses at **[Software University](https://softuni.bg/)**.
+This folder contains various task solutions and projects for the **`C# Web Basics`** and **`ASP.NET Core`** Courses at **[Software University](https://softuni.bg/)**.
 
 # C# Web Basics
 
@@ -47,10 +47,13 @@ The course ends with a project defense of a web application built with **`ASP.NE
 
 **Acquired Skills** :
 * Creating web applications with the ASP&#8228;NET Core framework
+* Creating a web application architecture
+* Mastering the MVC architectural template
 * Asynchronous content manipulation using Ajax
 * Generate HTML content using templates
 * Creating server-side scripts that meet the REST standard
-* Work with users, roles and sessions
+* Working with web servers
+* Working with users, roles and sessions
 * Testing and deployment
 
 - [x] **Final Project &nbsp; -> [RxAuto](https://github.com/radrex/RxAutoInspection)**
