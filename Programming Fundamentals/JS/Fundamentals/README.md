@@ -49,7 +49,35 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p01_Ages.js">Ages</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p02_Rounding.js">Rounding</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p03_Division.js">Division</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p04_Vacation.js">Vacation</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p05_LeapYear.js">Leap Year</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p06_PrintAndSum.js">Print And Sum</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p07_TriangleOfNumbers.js">Triangle Of Numbers</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p08_MultiplicationTable.js">Multiplication Table</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p09_Login.js">Login</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p10_ThePyramidOfKingDjoser.js">The Pyramid Of King Djoser</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/Exercise/p11_BitcoinMining.js">Bitcoin Mining</a></td>
+      <td colspan="8"></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
