@@ -85,7 +85,18 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/%5BMoreExercises%5D/p01_SortNumbers.js">Sort Numbers</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/%5BMoreExercises%5D/p02_EnglishNameOfTheLastDigit.js">English Name of the Last Digit</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/%5BMoreExercises%5D/p03_NextDay.js">Next Day</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/%5BMoreExercises%5D/p04_ReverseString.js">Reverse String</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/%5BMoreExercises%5D/p05_DistanceBetweenPoints.js">Distance between Points</a></td>
+    </tr>
   </tbody>
 </table>
 <br/>
