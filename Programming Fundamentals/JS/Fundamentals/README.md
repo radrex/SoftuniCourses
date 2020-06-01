@@ -103,3 +103,56 @@
 
 ---
 
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables">02. Data Types and Variables</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p01_ConcatenateNames.js">Concatenate Names</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p02_RightPlace.js">Right Place</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p03_IntegerAndFloat.js">Integer and Float</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p04_AmazingNumbers.js">Amazing Numbers</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p05_Gramophone.js">Gramophone</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p06_FuelMoney.js">Fuel Money</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p07_CenturiesToMinutes.js">Centuries to Minutes</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p08_SpecialNumbers.js">Special Numbers</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Lab/p09_TriplesOfLatinLetters.js">Triples of Latin Letters</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+</table>
+<br/>
+
+---
