@@ -173,7 +173,25 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p01_DigitsWithWords.js">Digits with Words</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p02_PrimeNumberChecker.js">Prime Number Checker</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p03_Cone.js">Cone</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p04_BiggestOf3Numbers.js">Biggest of 3 Numbers</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p05_BinaryToDecimal.js">Binary to Decimal</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p06_ChessBoard.js">Chess Board</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/%5BMoreExercises%5D/p07_TriangleArea.js">Triangle Area</a></td>
+      <td colspan="6"></td>
+    </tr>
   </tbody>
 </table>
 <br/>
