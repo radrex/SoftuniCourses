@@ -197,3 +197,55 @@
 <br/>
 
 ---
+
+## <a href="">03. Arrays</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p01_SumFirstAndLastArrayElements.js">Sum First and Last Array Elements</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p02_DayOfWeek.js">Day of Week</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p03_ReverseAnArrayOfNumbers.js">Reverse an Array of Numbers</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p04_ReverseAnArrayOfStrings.js">Reverse an Array of Strings</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p05_SumEvenNumbers.js">Sum Even Numbers</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p06_EvenAndOddSubtraction.js">Even and Odd Subtraction</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p07_EqualArrays.js">Equal Arrays</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Lab/p08_CondenseArrayToNumber.js">Condense Array to Number</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+</table>
+<br/>
+
+---
