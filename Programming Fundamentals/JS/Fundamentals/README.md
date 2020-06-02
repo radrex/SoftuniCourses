@@ -142,7 +142,30 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p01_SumDigits.js">Sum Digits</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p02_CharsToString.js">Chars to String</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p03_TownInfo.js">Town Info</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p04_ConvertMetersToKilometres.js">Convert Meters to Kilometres</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p05_PoundsToDollars.js">Pounds to Dollars</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p06_ReversedChars.js">Reversed Chars</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p07_LowerOrUpper.js">Lower or Upper</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p08_Calculator.js">Calculator</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p09_GladiatorExpenses.js">Gladiator Expenses</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/02.Data%20Types%20and%20Variables/Exercise/p10_%20SpiceMustFlow.js">Spice Must Flow</a></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
