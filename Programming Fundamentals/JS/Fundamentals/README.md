@@ -235,7 +235,30 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p01_AddAndSubtract.js">Add and Subtract</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p02_CommonElements.js">Common Elements</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p03_MergeArrays.js">Merge Arrays</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p04_ArrayRotation.js">Array Rotation</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p05_MaxNumber.js">Max Number</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p06_EqualSums.js">Equal Sums</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p07_MaxSequenceOfEqualElements.js">Max Sequence of Equal Elements</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p08_MagicSum.js">Magic Sum</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p09_DungeonestDark.js">Dungeonest Dark</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/Exercise/p10_Ladybugs.js">Ladybugs</a></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
