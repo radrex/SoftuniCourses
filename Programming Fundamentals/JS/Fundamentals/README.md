@@ -1,4 +1,5 @@
 # Programming Fundamentals with JS
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/147/JS-Fundamentals">JS Fundamentals</a>
 
 <br/>
 
@@ -198,7 +199,7 @@
 
 ---
 
-## <a href="">03. Arrays</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays">03. Arrays</a>
 
 <table>
   <thead>
@@ -266,7 +267,29 @@
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p01_PrintNthElement.js">Print N-th Element</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p02_AddAndRemove.js">Add and Remove</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p03_RotateArray.js">Rotate Array</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p04_NonDecreasingSubsequence.js">Non-Decreasing Subsequence</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p05_TseamAccount.js">Tseam Account</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p06_MagicMatrices.js">Magic Matrices</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p07_SpiralMatrix.js">Spiral Matrix</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p08_DiagonalAttack.js">Diagonal Attack</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/Fundamentals/03.Arrays/%5BMoreExercises%5D/p09_Orbit.js">Orbit</a></td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
 </table>
 <br/>
