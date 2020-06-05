@@ -1,4 +1,5 @@
 # Programming Basics with C#
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/245/CSharp-Basics">C# Basics</a>
 
 <br/>
 
