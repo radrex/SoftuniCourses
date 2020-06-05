@@ -1,4 +1,5 @@
 # C# Advanced
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/182/CSharp-Advanced-Exercises">C# Advanced</a>
 
 <br/>
 
