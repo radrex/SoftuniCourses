@@ -1,4 +1,5 @@
 # C Essentials
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/194/C-Essentials">C Essentials</a>
 
 <br/>
 
