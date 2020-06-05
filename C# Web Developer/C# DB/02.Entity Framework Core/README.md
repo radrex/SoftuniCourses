@@ -1,4 +1,5 @@
 # Entity Framework Core
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/68/CSharp-Databases-Advanced-Exercises">Entity Framework Core</a>
 
 <br/>
 
