@@ -1,4 +1,5 @@
 # Databases Basics - MS SQL Server
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/62/CSharp-Databases-Basics-Exercises">Databases Basics - MS SQL Server</a>
 
 <br/>
 
