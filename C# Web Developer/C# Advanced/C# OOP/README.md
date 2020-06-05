@@ -1,4 +1,5 @@
 # C# OOP
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/184/CSharp-OOP-Exercises">C# OOP</a>
 
 <br/>
 
