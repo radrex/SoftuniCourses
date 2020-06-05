@@ -1,4 +1,5 @@
 # JS Advanced
+Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/List/ByCategory/168/JS-Advanced-Exercises">JS Advanced</a>
 
 <br/>
 
