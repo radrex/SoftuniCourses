@@ -295,3 +295,51 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 <br/>
 
 ---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/04.Functions">04. Functions</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Lab/p01_RepeatString.js">Repeat String</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Lab/p02_Grades.js">Grades</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Lab/p03_MathPower.js">Math Power</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Lab/p04_Orders.js">Orders</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Lab/p05_SimpleCalculator.js">Simple Calculator</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Lab/p06_WrongResult.js">Wrong Result</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+</table>
+<br/>
+
+---
