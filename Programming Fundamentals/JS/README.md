@@ -329,7 +329,30 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p01_SmallestOfThreeNumbers.js">Smallest of Three Numbers</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p02_AddAndSubtract.js">Add and Subtract</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p03_CharactersInRange.js">Characters in Range</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p04_OddAndEvenSum.js">Odd And Even Sum</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p05_PalindromeIntegers.js">Palindrome Integers</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p06_PasswordValidator.js">Password Validator</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p07_NxNMatrix.js">NxN Matrix</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p08_PerfectNumber.js">Perfect Number</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p09_LoadingBar.js">Loading Bar</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/Exercise/p10_FactorialDivision.js">Factorial Division</a></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
