@@ -360,7 +360,18 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-    
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/%5BMoreExercises%5D/p01_CarWash.js">Car Wash</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/%5BMoreExercises%5D/p02_NumberModification.js">Number Modification</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/%5BMoreExercises%5D/p03_PointsValidation.js">Points Validation</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/%5BMoreExercises%5D/p04_RadioCrystals.js">Radio Crystals</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/04.Functions/%5BMoreExercises%5D/p05_PrintDNA.js">Print DNA</a></td>
+    </tr>
   </tbody>
 </table>
 <br/>
