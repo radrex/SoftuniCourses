@@ -377,3 +377,55 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 <br/>
 
 ---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced">05. Arrays Advanced</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p01_SumFirstAndLast.js">Sum First and Last</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p02_NegativeOrPositiveNumbers.js">Negative or Positive Numbers</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p03_FirstAndLastKNumbers.js">First and Last K Numbers</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p04_LastKNumbersSequance.js">Last K Numbers Sequance</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p05_ProcessOddNumbers.js">Process Odd Numbers</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p06_SmallestTwoNumbers.js">Smallest Two Numbers</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p07_ListOfProducts.js">List Of Products</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Lab/p08_ArrayManipulations.js">Array Manipulations</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+<br/>
+
+---
