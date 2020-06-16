@@ -415,7 +415,30 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p01_Train.js">Train</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p02_DistinctArray.js">Distinct Array</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p03_HouseParty.js">House Party</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p04_Sorting.js">Sorting</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p05_SortAnArrayBy2Criteria.js">Sort an Array by 2 Criteria</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p06_BombNumbers.js">Bomb Numbers</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p07_SearchForANumber.js">Search for a Number</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p08_ArrayManipulator.js">Array Manipulator</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p09_GladiatorInventory.js">Gladiator Inventory</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/Exercise/p10_BuildAWall.js">Build a Wall</a></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
