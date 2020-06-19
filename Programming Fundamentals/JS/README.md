@@ -446,7 +446,18 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/%5BMoreExercises%5D/p01_EqualNeighbors.js">Equal Neighbors</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/%5BMoreExercises%5D/p02_BunnyKill.js">Bunny Kill</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/%5BMoreExercises%5D/p03_AirPollution.js">Air Pollution</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/%5BMoreExercises%5D/p04_JansNotation.js">Jan's Notation</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/05.Arrays%20Advanced/%5BMoreExercises%5D/p05_RosettaStone.js">Rosetta Stone</a></td>
+    </tr>
   </tbody>
 </table>
 <br/>
