@@ -463,3 +463,51 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 <br/>
 
 ---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes">06. Objects and Classes</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/Lab/p01_PersonInfo.js">Person Info</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/Lab/p02_City.js">City</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/Lab/p03_ConvertToObject.js">Convert to Object</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/Lab/p04_ConvertToJSON.js">Convert to JSON</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/Lab/p05_Cats.js">Cats</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/Lab/p06_Songs.js">Songs</a></td>
+      <td colspan="8"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+<br/>
+
+---
