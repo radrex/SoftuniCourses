@@ -528,7 +528,18 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/%5BMoreExercises%5D/p01_ClassLaptop.js">Class Laptop</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/%5BMoreExercises%5D/p02_FlightSchedule.js">Flight Schedule</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/%5BMoreExercises%5D/p03_SchoolRegister.js">School Register</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/%5BMoreExercises%5D/p04_BrowserHistory.js">Browser History</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/06.Objects%20and%20Classes/%5BMoreExercises%5D/p05_Sequences.js">Sequences</a></td>
+    </tr>
   </tbody>
 </table>
 <br/>
