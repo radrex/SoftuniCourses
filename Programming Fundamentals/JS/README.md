@@ -545,3 +545,46 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 <br/>
 
 ---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/07.Associative%20Arrays">06. Associative Arrays</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Lab/p01_PhoneBook.js">Phone Book</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Lab/p02_Storage.js">Storage</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Lab/p03_SchoolGrades.js">School Grades</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Lab/p04_WordOccurrences.js">Word Occurrences</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Lab/p05_Neighborhoods.js">Neighborhoods</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+<br/>
+
+---
