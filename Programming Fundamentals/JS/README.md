@@ -574,7 +574,30 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p01_WordTracker.js">Word Tracker</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p02_OddOccurrences.js">Odd Occurrences</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p03_Piccolo.js">Piccolo</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p04_PartyTime.js">Party Time</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p05_CardGame.js">Card Game</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p06_TravelTime.js">Travel Time</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p07_CompanyUsers.js">Company Users</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p08_AMinerTask.js">A Miner Task</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p09_ArenaTier.js">Arena Tier</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/Exercise/p10_LegendaryFarming.js">Legendary Farming</a></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
