@@ -605,7 +605,18 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/%5BMoreExercises%5D/p01_Garage.js">Garage</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/%5BMoreExercises%5D/p02_Armies.js">Armies</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/%5BMoreExercises%5D/p03_Comments.js">Comments</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/%5BMoreExercises%5D/p04_BookShelf.js">Book Shelf</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/07.Associative%20Arrays/%5BMoreExercises%5D/p05_SoftUniStudents.js">SoftUni Students</a></td>
+    </tr>
   </tbody>
 </table>
 <br/>
