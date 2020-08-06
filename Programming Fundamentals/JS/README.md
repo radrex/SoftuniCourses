@@ -622,3 +622,46 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 <br/>
 
 ---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/08.Text%20Processing">07. Text Processing</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Lab/p01_PrintCharacters.js">Print Characters</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Lab/p02_RemoveOccurrences.js">Remove Occurrences</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Lab/p03_Substring.js">Substring</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Lab/p04_CensoredWords.js">Censored Words</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Lab/p05_CountStringOccurrences.js">Count String Occurrences</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+<br/>
+
+---
