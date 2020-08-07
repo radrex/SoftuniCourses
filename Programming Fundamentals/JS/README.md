@@ -651,7 +651,30 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p01_RevealWords.js">Reveal Words</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p02_ModernTimesOfHashTag.js">Modern Times of #(HashTag)</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p03_ExtractFile.js">Extract File</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p04_StringSubstring.js">String Substring</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p05_ReplaceRepeatingChars.js">Replace Repeating Chars</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p06_PascalCaseSplitter.js">Pascal-Case Splitter</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p07_CutAndReverse.js">Cut and Reverse</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p08_HardWord.js">Hard Word</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p09_PasswordGenerator.js">Password Generator</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/Exercise/p10_LettersChangeNumbers.js">Letters Change Numbers</a></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
