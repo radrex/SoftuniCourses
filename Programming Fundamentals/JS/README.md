@@ -682,7 +682,23 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/%5BMoreExercises%5D/p01_ValueOfAString.js">Value of a String</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/%5BMoreExercises%5D/p02_SerializeString.js">Serialize String</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/%5BMoreExercises%5D/p03_DeserializeString.js">Deserialize String</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/%5BMoreExercises%5D/p04_AsciiSumator.js">Ascii Sumator</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/%5BMoreExercises%5D/p05_TreasureFinder.js">Treasure Finder</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/08.Text%20Processing/%5BMoreExercises%5D/p06_MelrahShake.js">Melrah Shake</a></td>
+      <td colspan="8"></td>
+    </tr>
   </tbody>
 </table>
 <br/>
