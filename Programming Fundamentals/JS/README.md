@@ -730,7 +730,23 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/Exercise/p01_Furniture.js">Furniture</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/Exercise/p02_Race.js">Race</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/Exercise/p03_SoftUniBarIncome.js">SoftUni Bar Income</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/Exercise/p04_StarEnigma.js">Star Enigma</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/Exercise/p05_NetherRealms.js">Nether Realms</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/Exercise/p06_ExtractEmails.js">Extract Emails</a></td>
+      <td colspan="8"></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
