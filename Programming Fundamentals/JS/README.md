@@ -546,7 +546,7 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/07.Associative%20Arrays">06. Associative Arrays</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/07.Associative%20Arrays">07. Associative Arrays</a>
 
 <table>
   <thead>
@@ -623,7 +623,7 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/08.Text%20Processing">07. Text Processing</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/08.Text%20Processing">08. Text Processing</a>
 
 <table>
   <thead>
@@ -705,7 +705,7 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/09.Regular%20Expressions">08. Regular Expressions</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS/09.Regular%20Expressions">09. Regular Expressions</a>
 
 <table>
   <thead>
@@ -768,5 +768,3 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
   </tbody>
 </table>
 <br/>
-
----
