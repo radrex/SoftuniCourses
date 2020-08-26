@@ -33,6 +33,7 @@ Some of the tasks doesn't have examination in **[judge](https://judge.softuni.bg
       <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals">Programming Fundamentals</a>
       <ul>
         <li><a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/C%23">With C#</a></li>
+        <li><a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Fundamentals/JS">With JS</a></li>
       </ul>
     </li>
   </ul>
