@@ -754,7 +754,17 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/%5BMoreExercises%5D/p01_WinningTicket.js">Winning Ticket</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/%5BMoreExercises%5D/p02_RageQuit.js">Rage Quit</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/%5BMoreExercises%5D/p03_PostOffice.js">Post Office</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/Programming%20Fundamentals/JS/09.Regular%20Expressions/%5BMoreExercises%5D/p04_SantasSecretHelper.js">Santa's Secret Helper</a></td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
 </table>
 <br/>
