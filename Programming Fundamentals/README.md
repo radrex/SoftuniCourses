@@ -23,6 +23,7 @@ The course develops algorithmic thinking and builds problem-solving skills. It i
 - [ ] **Java**
 - [ ] **Ruby**
 - [ ] **Python**
+- [x] **JavaScript**
 
 <details>
   <summary><b>Programming Fundamentals with C# Certificate jpg</b></summary>
