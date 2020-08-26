@@ -13,6 +13,7 @@ function aggregateElements(elements) {
   }
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 aggregateElements([1, 2, 3]);
 aggregateElements([2, 4, 8, 16]);
 

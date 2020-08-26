@@ -5,6 +5,7 @@ function solve(x, y, z) {
   console.log(avrg)
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve('chocolate', 'ice cream', 'cake');
 
 //---------------- Generic Solution -----------------

@@ -44,5 +44,6 @@ function solve(arr) {
   }
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve(['1.00, coffee, caffeine, milk, 4', '0.40, tea, milk, 2', '1.00, coffee, decaf, 0']);
 solve(['8.00, coffee, decaf, 4', '1.00, tea, 2']);

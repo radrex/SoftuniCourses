@@ -46,6 +46,7 @@ function solve(arr) {
   }
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve([40, 'city']);
 solve([21, 'residential']);
 solve([120, 'interstate']);

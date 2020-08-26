@@ -11,5 +11,6 @@ function solve(arr) {
   console.log(obj);
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve(['Yoghurt', 48, 'Rise', 138, 'Apple', 52]);
 solve(['Potato', 93, 'Skyr', 63, 'Cucumber', 18, 'Milk', 42]);

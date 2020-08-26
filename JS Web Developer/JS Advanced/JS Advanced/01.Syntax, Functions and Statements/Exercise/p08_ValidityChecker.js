@@ -30,5 +30,6 @@ function solve(arr) {
   }
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve([3, 0, 0, 4]);
 solve([2, 1, 1, 1]);

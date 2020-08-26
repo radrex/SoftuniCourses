@@ -7,6 +7,7 @@ function solve(x, y) {
   return x;
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 console.log(solve(15, 5));
 console.log(solve(2154, 458));
 

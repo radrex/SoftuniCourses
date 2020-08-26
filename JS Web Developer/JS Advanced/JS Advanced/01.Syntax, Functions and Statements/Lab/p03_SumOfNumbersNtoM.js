@@ -16,5 +16,6 @@ function solve(min, max) {
     }
 */
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 console.log(solve("1", "5"));
 console.log(solve("-8", "20"));

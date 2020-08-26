@@ -12,6 +12,7 @@ function solve(day) {
   return daysMap[day] ? daysMap[day] : "error";
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 console.log(solve("Monday"));
 console.log(solve("Friday"));
 console.log(solve("Invalid"));

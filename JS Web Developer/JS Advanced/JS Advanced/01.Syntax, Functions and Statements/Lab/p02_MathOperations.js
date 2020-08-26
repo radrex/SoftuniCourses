@@ -12,7 +12,9 @@ function solve(x, y, operator) {
   console.log(result);
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve(5, 6, "+");
+
 //-------------- With eval (Anti-pattern) ---------------
 /*
     function solve(operator, x, y) {

@@ -20,5 +20,6 @@ function solve(steps, stepLength, speed) {
   console.log(`${hours}:${minutes}:${seconds}`);
 }
 
+// Don't copy the calling of the function in judge, you won't get any points, just the code above
 solve(4000, 0.60, 5);
 solve(2564, 0.70, 5.5);
