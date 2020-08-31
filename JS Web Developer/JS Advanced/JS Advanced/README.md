@@ -69,3 +69,50 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays">02. Arrays</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p01_SumFirstLast.js">Sum First Last</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p02_EvenPositionElements.js">Even Position Elements</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p03_NegativePositiveNumbers.js">Negative / Positive Numbers</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p04_LastKNumbersSequence.js">Last K Numbers Sequence</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p05_ProcessOddNumbers.js">Process Odd Numbers</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p06_SmallestTwoNumbers.js">Smallest Two Numbers</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p07_BiggestElement.js">Biggest Element</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p08_DiagonalSums.js">Diagonal Sums</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Lab/p09_EqualNeighbors.js">Equal Neighbors</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
