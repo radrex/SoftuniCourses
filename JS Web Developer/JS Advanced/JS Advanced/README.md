@@ -113,6 +113,34 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p01_PrintArrayWithGivenDelimiter.js">Print Array with Given Delimiter</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p02_PrintEveryNthElementFromAnArray.js">Print every N-th Element from an Array</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p03_AddAndRemoveElements.js">Add and Remove Elements</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p04_RotateArray.js">Rotate Array</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p05_ExtractIncreasingSubsequenceFromArray.js">Extract Increasing Subsequence from Array</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p06_SortArray.js">Sort Array</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p07_MagicMatrices.js">Magic Matrices</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p08_TicTacToe.js">Tic-Tac-Toe</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p09_DiagonalAttack.js">Diagonal Attack</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p10_Orbit.js">Orbit</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/02.Arrays/Exercise/p11_SpiralMatrix.js">Spiral Matrix</a></td>
+      <td colspan="8"></td>
+    </tr>
   </tbody>
 </table>
