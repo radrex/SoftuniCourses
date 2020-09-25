@@ -194,7 +194,30 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p01_HeroicInventory.js">Heroic Inventory</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p02_JSONsTable.js">JSON's Table</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p03_CappyJuice.js">Cappy Juice</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p04_StoreCatalogue.js">Store Catalogue</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p05_AutoEngineeringCompany.js">Auto-Engineering Company</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p06_SystemComponents.js">System Components</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p07_DataClass.js">Data Class</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p08_Tickets.js">Tickets</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p09_SortedList.js">Sorted List</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p10_LengthLimit.js">Length Limit</a></td>
+    </tr>
   </tbody>
 </table>
 
