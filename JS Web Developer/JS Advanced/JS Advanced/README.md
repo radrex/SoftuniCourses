@@ -219,5 +219,45 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/Exercise/p10_LengthLimit.js">Length Limit</a></td>
     </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p01_Rectangle.js">Rectangle</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p02_ScoreToHTML.js">Score to HTML</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p03_CountWordsInAText.js">Count Words in a Text</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p04_CityMarkets.js">City Markets</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p05_Unity.js">Unity</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p06_Usernames.js">Usernames</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p07_UniqueSequences.js">Unique Sequences</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p08_Cards.js">Cards</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p09_InstanceValidation.js">Instance Validation</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p10_ExtensibleClass.js">Extensible Class</a></td>
+    </tr>
+    <tr>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p11_ArenaTier.js">Arena Tier</a></td>
+      <td><b>12.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p12_GameOfEpicness.js">Game Of Epicness</a></td>
+      <td><b>13.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/03.Objects%20and%20Classes/%5BMoreExercises%5D/p13_Kitchen.js">Kitchen</a></td>
+      <td colspan="4"></td>
+    </tr>
+  </tbody>
 </table>
 
