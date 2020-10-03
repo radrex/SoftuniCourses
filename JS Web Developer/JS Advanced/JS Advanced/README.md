@@ -277,13 +277,13 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
   <tbody>
     <tr>
       <td><b>01.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/01.%20Articles%20List">Articles List</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/Lab/01.%20Articles%20List">Articles List</a></td>
       <td><b>02.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/02.%20Format%20the%20Text">Format the Text</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/Lab/02.%20Format%20the%20Text">Format the Text</a></td>
       <td><b>03.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/03.%20Growing%20Word">Growing Word</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/Lab/03.%20Growing%20Word">Growing Word</a></td>
       <td><b>04.</b></td>
-      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/04.%20Visited%20Websites">Visited Sites</a></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/Lab/04.%20Visited%20Websites">Visited Sites</a></td>
       <td colspan="2"></td>
     </tr>
   </tbody>
