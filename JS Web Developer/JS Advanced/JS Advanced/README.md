@@ -261,7 +261,6 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
   </tbody>
 </table>
 
-
 <br/>
 
 ---
@@ -316,5 +315,48 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/04.DOM/Exercise/09.%20Shopping-Cart">Shopping Cart</a></td>
       <td colspan="2"></td>
     </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations">04. DOM Manipulations</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/01.%20List-Of-Items">List of Items</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/02.%20Add-Delete">Add / Delete</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/03.%20Delete-From-Table">Delete from Table</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/04.%20Stopwatch">Stopwatch</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/05.%20Mouse-Gradient">Mouse Gradient</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/06.%20Highlight-Active">Highlight Active</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Lab/07.%20Dynamic-Validation">Dynamic Validation</a></td>
+      <td colspan="6"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
   </tbody>
 </table>
