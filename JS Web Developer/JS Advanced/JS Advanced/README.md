@@ -322,7 +322,7 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations">04. DOM Manipulations</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations">05. DOM Manipulations</a>
 
 <table>
   <thead>
@@ -381,5 +381,41 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
       <td><b>10.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/05.DOM%20Manipulations/Exercise/10.%20Sudomu">Sudomu</a></td>
     </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/06.Function%20Context">06. Function Context</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/06.Function%20Context/Lab/p01_AreaAndVolumeCalculator.js">Area and Volume Calculator</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/06.Function%20Context/Lab/p02_Person.js">Person</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/06.Function%20Context/Lab/p03_ArrayMap.js">ArrayMap</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/06.Function%20Context/Lab/p04_DropdownMenu">Dropdown Menu</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/06.Function%20Context/Lab/p05_Spy.js">Spy</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
   </tbody>
 </table>
