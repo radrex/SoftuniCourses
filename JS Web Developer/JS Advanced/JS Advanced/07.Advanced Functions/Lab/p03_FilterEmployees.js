@@ -5,12 +5,12 @@ function solve(data, criteria) {
     return employees.reduce((acc, emp, idx) => acc += `${idx}. ${emp.first_name} ${emp.last_name} - ${emp.email}\n`, '')
   }
 
-  let getEmployeesById = (id) => printEmployees(jsonObj.filter(x => x.id === id));
-  let getEmployeesByFirstName = (firstName) => printEmployees(jsonObj.filter(x => x.first_name === firstName));
-  let getEmployeesByLastName = (lastName) => printEmployees(jsonObj.filter(x => x.last_name === lastName));
-  let getEmployeesByEmail = (email) => printEmployees(jsonObj.filter(x => x.email === email));
-  let getEmployeesByGender = (gender) => printEmployees(jsonObj.filter(x => x.gender === gender));
-  let getAllEmployees = () => printEmployees(jsonObj);
+  let getEmployeesById = (id) => jsonObj.filter(x => x.id === id);
+  let getEmployeesByFirstName = (firstName) => jsonObj.filter(x => x.first_name === firstName);
+  let getEmployeesByLastName = (lastName) => jsonObj.filter(x => x.last_name === lastName);
+  let getEmployeesByEmail = (email) => jsonObj.filter(x => x.email === email);
+  let getEmployeesByGender = (gender) => jsonObj.filter(x => x.gender === gender);
+  let getAllEmployees = () => jsonObj;
 
   const actions = {
     'id': getEmployeesById,
@@ -22,7 +22,7 @@ function solve(data, criteria) {
   };
 
   let [key, value] = criteria.split('-');
-  return actions[key](value).trim();
+  return printEmployees(actions[key](value)).trim();
 }
 
 // Don't copy the code below in judge, you won't get any points, just the code above
