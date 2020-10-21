@@ -462,6 +462,24 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p01_SortArray.js">Sort Array</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p02_ArgumentInfo.js">Argument Info</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p03_PersonalBMI.js">Personal BMI</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p04_VectorMath.js">Vector Math</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p05_BreakfastRobot.js">Breakfast Robot</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p06_FunctionalSum.js">Functional Sum</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/07.Advanced%20Functions/Exercise/p07_MonkeyPatcher.js">Monkey Patcher</a></td>
+      <td colspan="6"></td>
+    </tr>
   </tbody>
 </table>
