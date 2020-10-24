@@ -551,6 +551,22 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Exercise/p01_ArrayExtension.js">Array Extension</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Exercise/p02_Balloons.js">Balloons</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Exercise/p03_People.js">People</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Exercise/p04_Posts.js">Posts</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Exercise/p05_Computer.js">Computer</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Exercise/p06_Mixins.js">Mixins</a></td>
+      <td colspan="8"></td>
+    </tr>
   </tbody>
 </table>
