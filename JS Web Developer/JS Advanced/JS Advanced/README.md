@@ -519,3 +519,38 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
 
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance">09. Prototypes and Inheritance</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Lab/p01_PersonAndTeacher.js">Person and Teacher</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Lab/p02_InheritingAndReplacingToString.js">Inheriting and Replacing ToString</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Lab/p03_ExtendPrototype.js">Extend Prototype</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/09.Prototypes%20and%20Inheritance/Lab/p04_ClassHierarchy.js">Class Hierarchy</a></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
