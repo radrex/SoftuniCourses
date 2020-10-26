@@ -516,7 +516,25 @@ Judge Contest can be found here: <a href="https://judge.softuni.bg/Contests/#!/L
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p01_Heroes.js">Heroes</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p02_ConstructionCrew.js">Construction Crew</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p03_CarFactory.js">Car Factory</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p04_ExtensibleObject.js">Extensible Object</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p05_StringExtension.js">String Extension</a></td>
+    </tr>
+    <tr>
+      <td><b>06.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p06_SortedList.js">Sorted List</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced/08.Object%20Composition/Exercise/p07_BugTracker">Bug Tracker</a></td>
+      <td colspan="6"></td>
+    </tr>
   </tbody>
 </table>
 
