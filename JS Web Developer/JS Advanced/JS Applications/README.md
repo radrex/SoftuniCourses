@@ -26,15 +26,15 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/p05_CheckForSymmetry.js">Check for Symmetry</a></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p01_SubSum.test.js">Tests</a></td>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p02_PlayingCards.test.js">Tests</a></td>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p03_DeckOfCards.test.js">Tests</a></td>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p04_SumOfNumbers.test.js">Tests</a></td>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p05_CheckForSymmetry.test.js">Tests</a></td>
     </tr>
     <tr>
@@ -45,9 +45,9 @@
       <td colspan="6"></td>
     </tr>
     <tr>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p06_RGBToHex.test.js">Tests</a></td>
-      <td></td>
+      <td>✔️</td>
       <td><a href="https://github.com/radrex/SoftuniCourses/blob/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/01.Unit%20Testing%20and%20Modules/Lab/test/p07_AddSubtract.test.js">Tests</a></td>
       <td colspan="6"></td>
     </tr>
