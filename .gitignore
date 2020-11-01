@@ -4,6 +4,11 @@ obj/
 .vs/
 *.DotSettings.user
 
+//----- VISUAL STUDIO CODE ------ (JS)
+.vscode/
+node_modules/
+package-lock.json
+
 //----- CODE BLOCKS ------ (C, C++)
 bin/
 obj/
@@ -11,3 +16,4 @@ obj/
 *.depend
 *.exe
 *.o
+
