@@ -102,3 +102,34 @@
     </tr>
   </tbody>
 </table>
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX">02. REST Services and AJAX</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Lab/p01_XHR">XHR</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Lab/p02_Github-Repos">Github Repos</a></td>
+      <td colspan="6"></td>
+    </tr>
+    <tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
