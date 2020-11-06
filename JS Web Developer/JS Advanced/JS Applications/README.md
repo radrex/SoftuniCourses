@@ -130,6 +130,16 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Exercise/01.BUS-STOP">Bus Stop</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Exercise/02.BUS-SCHEDULE">Bus Schedule</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Exercise/03.PHONEBOOK">Phonebook</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Exercise/04.MESSENGER">Messenger</a></td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
 </table>
