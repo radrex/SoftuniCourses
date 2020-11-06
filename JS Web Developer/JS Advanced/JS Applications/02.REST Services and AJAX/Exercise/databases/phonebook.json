@@ -1,0 +1,12 @@
+{
+    "phonebook": {
+        "1": {
+            "person": "Gosho",
+            "phone": "+359 0967653"
+        },
+        "2": {
+            "person": "Stamat",
+            "phone": "+359 09123467653"
+        }
+    }
+}
