@@ -102,6 +102,7 @@
     </tr>
   </tbody>
 </table>
+
 <br/>
 
 ---
@@ -120,7 +121,7 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Lab/p01_XHR">XHR</a></td>
       <td><b>02.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Lab/p02_Github-Repos">Github Repos</a></td>
-      <td colspan="6"></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
   </tbody>
@@ -139,7 +140,39 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Exercise/03.PHONEBOOK">Phonebook</a></td>
       <td><b>04.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Exercise/04.MESSENGER">Messenger</a></td>
-      <td colspan="2"></td>
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming">03. Asynchronous Programming</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Lab/01.GITHUB-COMMITS">Github Commits</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Lab/02.BLOG">Blog</a></td>
+      <td colspan="6"></td>
+    </tr>
+    <tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
+
