@@ -162,7 +162,9 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Lab/01.GITHUB-COMMITS">Github Commits</a></td>
       <td><b>02.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Lab/02.BLOG">Blog</a></td>
-      <td colspan="6"></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Lab/02.BLOG%20version%202">Blog 2</a></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
   </tbody>
@@ -172,7 +174,13 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Exercise/01.%20FORECASTER">Forecaster</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Exercise/02.%20FISHER-GAME">Fisher Game</a></td>
+      <td colspan="6"></td>
+    </tr>
   </tbody>
 </table>
 
