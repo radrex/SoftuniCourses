@@ -1,0 +1,112 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  background-color: #282923;
+}
+
+main {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+aside {
+  width: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: flex-start;
+}
+
+table {
+  width: 60%;
+  border-collapse: collapse;
+}
+
+tr:hover td {
+  color: #60D9E2;
+}
+
+td, th {
+  padding: 8px;
+  border: 2px solid black;
+}
+
+th {
+  text-align: left;
+  color: #C32758;
+  background-color: #161613;
+}
+
+td {
+  color: #E0D05A;
+}
+
+table tr:nth-child(even) {
+  background-color: #1D1E19;
+}
+
+.refresh {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #161613;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.refresh span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.refresh span:after {
+  content: '\01f5d8';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.refresh:hover span {
+  padding-right: 25px;
+}
+
+.refresh:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+input[type=text] {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #161613;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  margin: 5px;
+  width: 130px;
+  background-repeat: no-repeat;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 200px;
+}
