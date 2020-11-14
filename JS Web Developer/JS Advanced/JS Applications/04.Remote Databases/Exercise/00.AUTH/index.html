@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Books</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.0.1/firebase-auth.js"></script>
+   
+</head>
+
+<body>
+  <div class="create-account">
+    <h1>Create Account</h1>
+    <p id="error-msg">Password must contain at least 6 characters.</p>
+      <form>
+        <input id="email-input" type="email" name="u" placeholder="Email" required="required" />
+        <input id="password-input" type="password" name="p" placeholder="Password" required="required" />
+        <input id="confirm-password-input" type="password" name="p" placeholder="Confirm Password" required="required" />
+        <button id ="register-button" type="submit" class="btn btn-primary btn-block btn-large">Register</button>
+        <button id ="have-account-button" type="submit" class="btn btn-primary btn-block btn-small">I have an account</button>
+      </form>
+  </div>
+
+  <div class="login">
+    <h1>Login</h1>
+      <form>
+        <input id="email-login-input" type="email" name="u" placeholder="Email" required="required" />
+        <input id="password-login-input" type="password" name="p" placeholder="Password" required="required" />
+        <button id ="login-button" type="submit" class="btn btn-primary btn-block btn-large">Let me in</button>
+        <button id ="create-account-button" type="submit" class="btn btn-primary btn-block btn-small">Create Account</button>
+      </form>
+  </div>
+
+  <div class="logout">
+    <form>
+      <button id="logout-button" type="submit" class="btn btn-primary btn-block btn-small">GET ME OUT OF HERE</button>
+    </form>
+  </div>
+
+</body>
+<script src="auth.js"></script>
+<script src="firebase.js"></script>

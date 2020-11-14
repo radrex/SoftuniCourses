@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Students</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <table id="results">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Faculty Number</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+    <div>
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="First name..">
+
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Last name..">
+
+        <label for="fnumber">Faculty Number</label>
+        <input type="text" id="fnumber" name="facultyNumber" placeholder="Faculty Number..">
+
+        <label for="grade">Grade</label>
+        <input type="text" id="grade" name="grade" placeholder="Grade..">
+
+        <input id="submit" type="submit" value="Submit">
+      </form>
+    </div>
+    <script type="module" src="./app.js"></script>
+</body>
+
+</html>
