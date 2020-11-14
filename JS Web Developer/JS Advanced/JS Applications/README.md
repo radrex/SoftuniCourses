@@ -194,7 +194,11 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/04.Remote%20Databases/Lab">Books</a></td>
+      <td colspan="6"></td>
+    </tr>
   </tbody>
   <thead>
     <tr>
