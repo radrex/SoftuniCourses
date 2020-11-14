@@ -123,7 +123,6 @@
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/02.REST%20Services%20and%20AJAX/Lab/p02_Github-Repos">Github Repos</a></td>
       <td colspan="4"></td>
     </tr>
-    <tr>
   </tbody>
   <thead>
     <tr>
@@ -165,7 +164,6 @@
       <td><b>03.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Lab/02.BLOG%20version%202">Blog 2</a></td>
     </tr>
-    <tr>
   </tbody>
   <thead>
     <tr>
@@ -179,6 +177,40 @@
       <td><b>02.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/03.Asynchronous%20Programming/Exercise/02.%20FISHER-GAME">Fisher Game</a></td>
       <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/04.Remote%20Databases">04. Remote Databases</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/04.Remote%20Databases/Exercise/00.AUTH">Auth</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/04.Remote%20Databases/Exercise/01.BOOKS">Books</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/04.Remote%20Databases/Exercise/02.STUDENTS">Students</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/04.Remote%20Databases/Exercise/03.WILD-WILD-WEST">Wild Wild West</a></td>
     </tr>
   </tbody>
 </table>
