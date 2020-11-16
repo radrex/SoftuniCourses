@@ -223,7 +223,7 @@
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/05.Templating">05. Remote Databases</a>
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/05.Templating">05. Templating</a>
 
 <table>
   <thead>
