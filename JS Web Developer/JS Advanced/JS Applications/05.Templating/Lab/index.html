@@ -1,0 +1,36 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="./style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <title>Contacts</title>
+</head>
+
+<body>
+  <h1>My contacts</h1>
+  <div id="contacts">
+  </div>
+
+  <script id="contacts-template" type="text/x-handlebars-template">
+    {{#each contacts}}
+      <div class="contact card">
+        <div>
+          <i class="far fa-user-circle gravatar"></i>
+        </div>
+        <div class="info">
+          <h2>Name: {{name}}</h2>
+          <button class="detailsBtn">Details</button>
+          <div class="details" id="{{id}}" style="display: none;">
+            <p>Phone number: {{phoneNumber}}</p>
+            <p>Email: {{email}}</p>
+          </div>
+        </div>
+      </div>
+    {{/each}}
+  </script>
+  <script src="./node_modules/handlebars/dist/handlebars.min.js"></script>
+  <script src="./contacts.js"></script>
+</body>
+</html>
