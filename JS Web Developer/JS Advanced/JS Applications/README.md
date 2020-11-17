@@ -235,6 +235,7 @@
     <tr>
       <td><b>01.</b></td>
       <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/05.Templating/Lab">Contacts</a></td>
+      <td colspan="4"></td>
     </tr>
   </tbody>
   <thead>
@@ -243,7 +244,13 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/05.Templating/Exercise/01.%20List%20Towns">List Towns</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/05.Templating/Exercise/02.%20HTTP%20Status%20Cats">HTTP Status Cats</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/05.Templating/Exercise/03.%20Popular%20Monkeys">Popular Monkeys</a></td>
+    </tr>
   </tbody>
 </table>
-
