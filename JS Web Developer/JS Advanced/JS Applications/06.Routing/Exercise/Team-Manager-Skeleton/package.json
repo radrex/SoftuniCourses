@@ -1,0 +1,21 @@
+{
+  "name": "team-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.16.1",
+    "sammy": "^0.7.6"
+  },
+  "scripts": {
+    "start": "lite-server index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
