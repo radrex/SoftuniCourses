@@ -285,3 +285,31 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/07.Workshop%20-%20Single%20Page%20Application">07. Workshop: Single Page Application</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/07.Workshop%20-%20Single%20Page%20Application/Movies">Movies</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  </tbody>
+</table>
