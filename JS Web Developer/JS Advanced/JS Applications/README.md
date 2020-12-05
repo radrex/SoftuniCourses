@@ -310,6 +310,9 @@
     </tr>
   </thead>
   <tbody>
-
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/07.Workshop%20-%20Single%20Page%20Application/ShoeShelf">Shoe Shelf</a></td>
+    </tr>
   </tbody>
 </table>
