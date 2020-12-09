@@ -2,18 +2,18 @@
 
 <div class="container">
   <div class="details-box">
-    <span class="titlebar">{{name}} details</span>
+    <span class="titlebar">{{teamData.name}} details</span>
     <span class="spanner">Team members</span>
     <div>
-      {{#each members}}
+      {{#each teamData.members}}
         {{> teamMember}}
       {{else}}
         <p>No member info</p>
       {{/each}}
     </div>
     <span class="spanner">Description</span>
-      {{#if comment}}
-        <p>{{comment}}</p>
+      {{#if teamData.comment}}
+        <p>{{teamData.comment}}</p>
       {{else}}
         <p>No description</p>
       {{/if}}
