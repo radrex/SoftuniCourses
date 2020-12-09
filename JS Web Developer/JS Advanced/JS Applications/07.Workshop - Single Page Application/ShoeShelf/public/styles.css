@@ -365,3 +365,25 @@ form div button:hover {
     text-decoration: underline var(--main-orange);
     cursor: pointer;
 }
+
+.notification {
+  font-size: 1.5em;
+  float: right;
+  color: #ffffff;
+  padding:  0.5em 2em 0.5em 2em;
+  margin: 1em;
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  text-align: center;
+  border-radius: 3px;
+}
+
+#infoBox {
+  background: #393;
+}
+
+#errorBox {
+  background: #F50;
+}
