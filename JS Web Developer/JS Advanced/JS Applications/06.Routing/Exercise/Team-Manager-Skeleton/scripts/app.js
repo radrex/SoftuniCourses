@@ -55,8 +55,8 @@ const router = Sammy('#main', function() {
       .then(user => {
         const { user: { uid, email } } = user;
         localStorage.setItem('userInfo', JSON.stringify({ uid, email }));
+        this.redirect('/home');
       })
-      .then(this.redirect('/home'))
       .then(displayInfo('Logged in successfully.'))
       .catch(err => console.log(err));
   });
@@ -91,8 +91,8 @@ const router = Sammy('#main', function() {
   this.get('/logout', function() {
     firebase.auth().signOut().then(() => {
         localStorage.removeItem('userInfo');
+        this.redirect('/home');
       })
-      .then(this.redirect('/home'))
       .then(displayInfo('Logged out successfully.'))
       .catch(err => console.log(err));
   });
