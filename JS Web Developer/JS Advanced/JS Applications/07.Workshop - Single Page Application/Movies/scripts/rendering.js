@@ -113,6 +113,7 @@ const renderer = {
         templateData.description = movieData.description;
         templateData.isCreator = movieData.creator === auth.email;
         templateData.movieId = id;
+        templateData.likes = movieData.likes;
       }
 
       html.container().innerHTML = template(templateData);
@@ -239,6 +240,10 @@ function handleEvtsAndState() {
           let id = path.pop();
           path = path.join('/');
           navigate[path](id);
+        } else if (evt.target.textContent === 'Like') {
+          moviesService.likeMovie(movieId);
+          history.pushState({}, '', '/home');
+          navigate[location.pathname]();
         }
       }
     });
@@ -251,10 +256,10 @@ function handleEvtsAndState() {
       let description = formData.get('description');
       let imageUrl = formData.get('imageUrl');
 
-      moviesService.editMovie(id, title, description, imageUrl);  // maybe we can get the response, and then navigate in .then
-      navigate['/details'](id);
+      moviesService.editMovie(id, title, description, imageUrl);
+      history.pushState({}, '', '/home');
+      navigate[location.pathname]();
     });
-
   }
 }
 

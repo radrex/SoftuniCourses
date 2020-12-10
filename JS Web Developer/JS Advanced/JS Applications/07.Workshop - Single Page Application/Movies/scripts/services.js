@@ -37,7 +37,7 @@ const moviesService = {
     fetch(`${baseURL}/Movies.json`, {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ title, description, imageUrl, creator }),
+      body: JSON.stringify({ title, description, imageUrl, creator, likes: 0 }),
     })
     .catch(err => console.log(err));
   },
@@ -59,7 +59,20 @@ const moviesService = {
       method: 'PATCH',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ title, description, imageUrl }),
-    })
+    });
+  },
+
+  likeMovie(id) {
+    fetch(`${baseURL}/Movies/${id}.json`)
+      .then(res => res.json())
+      .then(data => {
+        let likes = data.likes + 1;
+        fetch(`${baseURL}/Movies/${id}.json`, {
+          method: 'PATCH',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ likes }),
+        })
+      });
   }
 };
 
