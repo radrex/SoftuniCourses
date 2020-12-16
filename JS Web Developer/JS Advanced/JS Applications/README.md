@@ -316,3 +316,23 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/08.Workshop%20-%20Custom%20Components">08. Workshop: Custom Components</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/08.Workshop%20-%20Custom%20Components/Movies">Movies</a></td>
+    </tr>
+  </tbody>
+</table>
