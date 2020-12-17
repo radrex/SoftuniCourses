@@ -336,3 +336,23 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+---
+
+## <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/EXAMS">EXAMS</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;"><br>Exams</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications/EXAMS/Destinations">Destinations</a></td>
+    </tr>
+  </tbody>
+</table>
