@@ -1,0 +1,12 @@
+{{> nav}}
+
+<section id="viewMydestinations">
+  <h3>Your destinations</h3>
+    {{#each destinations}}
+      {{> destinationTicket}}
+    {{else}}
+      <p>No destinations available.</p>
+    {{/each}}
+</section>
+
+{{> footer}}

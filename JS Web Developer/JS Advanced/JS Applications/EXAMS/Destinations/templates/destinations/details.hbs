@@ -1,0 +1,23 @@
+{{> nav}}
+
+<section id="viewdestinationDetails">
+  <div class="destination-area">
+    <div class="destination-area-left">
+      <img src="{{destinationData.imgUrl}}" alt="{{destinationData.city}}">
+    </div>
+    <div class="destination-area-right">
+      <h3>{{destinationData.city}}</h3>
+      <div>{{destinationData.destination}}</div>
+      <div class="data-and-time">
+        {{departureDate}}
+
+        {{#if isCreator}}
+          <a href="/edit/{{id}}" class="edit-destination-detail"></a>
+        {{/if}}
+      </div>
+      <div>{{destinationData.duration}} days</div>
+    </div>
+  </div>
+</section>
+
+{{> footer}}

@@ -1,0 +1,17 @@
+{{> nav}}
+
+<section id="viewCatalog" class="background-img">
+  {{#if isLoggedIn}}
+    <div class="added-destinations">
+      {{#each destinations}}
+        {{> destinationCard}}
+      {{/each}}
+    </div>
+  {{else}}
+    <div class="guest">
+      No destinations possible! Please sign in...
+    </div>
+  {{/if}}
+</section>
+
+{{> footer}}
