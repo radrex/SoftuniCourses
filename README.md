@@ -94,7 +94,7 @@ Some of the tasks doesn't have examination in **[judge](https://judge.softuni.bg
       <a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced">JS Advanced Module</a>
       <ul>
         <li><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Advanced">JS Advanced</a></li>
-        <li>JS Applications</li>
+        <li><a href="https://github.com/radrex/SoftuniCourses/tree/master/JS%20Web%20Developer/JS%20Advanced/JS%20Applications">JS Applications</a></li>
       </ul>
     </li>
   </ul>
