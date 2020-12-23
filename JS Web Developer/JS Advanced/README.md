@@ -43,12 +43,12 @@ This folder contains various task solutions for the **`JS Advanced`** and **`JS 
 * Working with REST API and Asynchronous Programming
 * Code Testing
 
-- [x] **Certificate -> [JS Applications]()**
+- [x] **Certificate -> [JS Applications](https://softuni.bg/certificates/details/95306/9d2ffa95)**
 
 <details>
   <summary><b>Certificate jpg</b></summary>
   <p align="center">
-    <img src="">
+    <img src="https://github.com/radrex/SoftuniCourses/blob/master/certificates/JS%20Applications.jpeg">
   </p>
 </details>
 
