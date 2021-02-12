@@ -1,5 +1,5 @@
-# Softuni Courses
-
+# Softuni Courses	<img src="https://badges.pufler.dev/visits/radrex/SoftuniCourses">
+  
 This repository contains different task solutions and projects in regards to my learning experience at **Software University**. The majority of tasks can be evaluated in **[judge](https://judge.softuni.bg/)** assessment system at **[softuni.bg](https://softuni.bg/)**.
 
 ## Repo Structure
