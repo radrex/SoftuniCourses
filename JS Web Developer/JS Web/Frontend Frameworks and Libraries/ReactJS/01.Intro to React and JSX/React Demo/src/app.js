@@ -10,7 +10,7 @@ const rootReactElement = ReactDOM.createRoot(domElement);
 // 1 - Initialize app with the following command: npm init --yes
 // 2 - Then run: npm install babel-cli@6 babel-preset-react-app@3
 // 3 - JSX syntax - Command for running the JSX Preprocessor: npx babel --watch ./src --out-dir ./build --presets react-app/prod , after ruuning it it will generate the React code in build folder
-// 4 - Optional - Additional command "start" extracted in package.json it can be runned from terminal using "npm run start-babel-transpiler" directly
+// 4 - Optional - Additional command "start-babel-transpiler" extracted in package.json it can be runned from terminal using "npm run start-babel-transpiler" directly
 
 const headerElement = (
     // JSX code below (superset of JS) -> babel transpiler will convert it to React code and save it in build folder
