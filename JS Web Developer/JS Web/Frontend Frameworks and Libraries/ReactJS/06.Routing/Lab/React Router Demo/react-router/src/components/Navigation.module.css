@@ -1,0 +1,16 @@
+.navigation li {
+  list-style: none;
+}
+
+.navigation li:hover {
+  text-decoration: underline;
+}
+
+.navigation a {
+  color: orangered;
+  text-decoration: none;
+}
+
+.nav-active {
+  color: purple !important;
+}
